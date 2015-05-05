@@ -1,0 +1,332 @@
+{
+  "leafs-season": [
+    {
+      "date": "Wed, 8 Oct 2014",
+      "score": "FINAL MTL (4) - TOR (3)"
+    },
+    {
+      "date": "Sat, 11 Oct 2014",
+      "score": "FINAL PIT (5) - TOR (2)"
+    },
+    {
+      "date": "Sun, 12 Oct 2014",
+      "score": "FINAL TOR (6) - NYR (3)"
+    },
+    {
+      "date": "Tue, 14 Oct 2014",
+      "score": "FINAL COL (2) - TOR (3) OT"
+    },
+    {
+      "date": "Fri, 17 Oct 2014",
+      "score": "FINAL DET (4) - TOR (1)"
+    },
+    {
+      "date": "Sat, 18 Oct 2014",
+      "score": "FINAL TOR (0) - DET (1) OT"
+    },
+    {
+      "date": "Tue, 21 Oct 2014",
+      "score": "FINAL TOR (5) - NYI (2)"
+    },
+    {
+      "date": "Sat, 25 Oct 2014",
+      "score": "FINAL BOS (4) - TOR (1)"
+    },
+    {
+      "date": "Tue, 28 Oct 2014",
+      "score": "FINAL BUF (0) - TOR (4)"
+    },
+    {
+      "date": "Fri, 31 Oct 2014",
+      "score": "FINAL TOR (4) - CBJ (1)"
+    },
+    {
+      "date": "Sat, 1 Nov 2014",
+      "score": "FINAL CHI (2) - TOR (3)"
+    },
+    {
+      "date": "Tue, 4 Nov 2014",
+      "score": "FINAL TOR (2) - ARI (3)"
+    },
+    {
+      "date": "Thu, 6 Nov 2014",
+      "score": "FINAL TOR (3) - COL (4) SO"
+    },
+    {
+      "date": "Sat, 8 Nov 2014",
+      "score": "FINAL NYR (4) - TOR (5)"
+    },
+    {
+      "date": "Sun, 9 Nov 2014",
+      "score": "FINAL TOR (5) - OTT (3)"
+    },
+    {
+      "date": "Wed, 12 Nov 2014",
+      "score": "FINAL BOS (1) - TOR (6)"
+    },
+    {
+      "date": "Fri, 14 Nov 2014",
+      "score": "FINAL PIT (2) - TOR (1)"
+    },
+    {
+      "date": "Sat, 15 Nov 2014",
+      "score": "FINAL TOR (2) - BUF (6)"
+    },
+    {
+      "date": "Tue, 18 Nov 2014",
+      "score": "FINAL NSH (9) - TOR (2)"
+    },
+    {
+      "date": "Thu, 20 Nov 2014",
+      "score": "FINAL TBL (2) - TOR (5)"
+    },
+    {
+      "date": "Sat, 22 Nov 2014",
+      "score": "FINAL DET (1) - TOR (4)"
+    },
+    {
+      "date": "Wed, 26 Nov 2014",
+      "score": "FINAL TOR (3) - PIT (4) OT"
+    },
+    {
+      "date": "Sat, 29 Nov 2014",
+      "score": "FINAL WSH (2) - TOR (6)"
+    },
+    {
+      "date": "Tue, 2 Dec 2014",
+      "score": "FINAL DAL (3) - TOR (5)"
+    },
+    {
+      "date": "Thu, 4 Dec 2014",
+      "score": "FINAL NJD (5) - TOR (3)"
+    },
+    {
+      "date": "Sat, 6 Dec 2014",
+      "score": "FINAL VAN (2) - TOR (5)"
+    },
+    {
+      "date": "Tue, 9 Dec 2014",
+      "score": "FINAL CGY (1) - TOR (4)"
+    },
+    {
+      "date": "Wed, 10 Dec 2014",
+      "score": "FINAL TOR (2) - DET (1) SO"
+    },
+    {
+      "date": "Sat, 13 Dec 2014",
+      "score": "FINAL DET (1) - TOR (4)"
+    },
+    {
+      "date": "Sun, 14 Dec 2014",
+      "score": "FINAL LAK (3) - TOR (4) SO"
+    },
+    {
+      "date": "Tue, 16 Dec 2014",
+      "score": "FINAL ANA (2) - TOR (6)"
+    },
+    {
+      "date": "Thu, 18 Dec 2014",
+      "score": "FINAL TOR (1) - CAR (4)"
+    },
+    {
+      "date": "Sat, 20 Dec 2014",
+      "score": "FINAL PHI (7) - TOR (4)"
+    },
+    {
+      "date": "Sun, 21 Dec 2014",
+      "score": "FINAL TOR (0) - CHI (4)"
+    },
+    {
+      "date": "Tue, 23 Dec 2014",
+      "score": "FINAL TOR (4) - DAL (0)"
+    },
+    {
+      "date": "Sun, 28 Dec 2014",
+      "score": "FINAL TOR (4) - FLA (6)"
+    },
+    {
+      "date": "Mon, 29 Dec 2014",
+      "score": "FINAL TOR (2) - TBL (3)"
+    },
+    {
+      "date": "Wed, 31 Dec 2014",
+      "score": "FINAL TOR (4) - BOS (3) SO"
+    },
+    {
+      "date": "Fri, 2 Jan 2015",
+      "score": "FINAL TOR (1) - MIN (3)"
+    },
+    {
+      "date": "Sat, 3 Jan 2015",
+      "score": "FINAL TOR (1) - WPG (5)"
+    },
+    {
+      "date": "Wed, 7 Jan 2015",
+      "score": "FINAL WSH (6) - TOR (2)"
+    },
+    {
+      "date": "Fri, 9 Jan 2015",
+      "score": "FINAL CBJ (2) - TOR (5)"
+    },
+    {
+      "date": "Mon, 12 Jan 2015",
+      "score": "FINAL TOR (0) - LAK (2)"
+    },
+    {
+      "date": "Wed, 14 Jan 2015",
+      "score": "FINAL TOR (0) - ANA (4)"
+    },
+    {
+      "date": "Thu, 15 Jan 2015",
+      "score": "FINAL TOR (1) - SJS (3)"
+    },
+    {
+      "date": "Sat, 17 Jan 2015",
+      "score": "FINAL TOR (0) - STL (3)"
+    },
+    {
+      "date": "Mon, 19 Jan 2015",
+      "score": "FINAL CAR (4) - TOR (1)"
+    },
+    {
+      "date": "Wed, 21 Jan 2015",
+      "score": "FINAL TOR (3) - OTT (4)"
+    },
+    {
+      "date": "Wed, 28 Jan 2015",
+      "score": "FINAL TOR (1) - NJD (2) SO"
+    },
+    {
+      "date": "Thu, 29 Jan 2015",
+      "score": "FINAL ARI (3) - TOR (1)"
+    },
+    {
+      "date": "Sat, 31 Jan 2015",
+      "score": "FINAL TOR (0) - PHI (1)"
+    },
+    {
+      "date": "Tue, 3 Feb 2015",
+      "score": "FINAL TOR (3) - NSH (4)"
+    },
+    {
+      "date": "Fri, 6 Feb 2015",
+      "score": "FINAL TOR (1) - NJD (4)"
+    },
+    {
+      "date": "Sat, 7 Feb 2015",
+      "score": "FINAL EDM (1) - TOR (5)"
+    },
+    {
+      "date": "Tue, 10 Feb 2015",
+      "score": "FINAL NYR (5) - TOR (4)"
+    },
+    {
+      "date": "Thu, 12 Feb 2015",
+      "score": "FINAL TOR (2) - NYI (3)"
+    },
+    {
+      "date": "Sat, 14 Feb 2015",
+      "score": "FINAL TOR (1) - MTL (2) SO"
+    },
+    {
+      "date": "Tue, 17 Feb 2015",
+      "score": "FINAL FLA (3) - TOR (2)"
+    },
+    {
+      "date": "Fri, 20 Feb 2015",
+      "score": "FINAL TOR (1) - CAR (2)"
+    },
+    {
+      "date": "Sat, 21 Feb 2015",
+      "score": "FINAL WPG (3) - TOR (4) OT"
+    },
+    {
+      "date": "Thu, 26 Feb 2015",
+      "score": "FINAL PHI (2) - TOR (3)"
+    },
+    {
+      "date": "Sat, 28 Feb 2015",
+      "score": "FINAL TOR (0) - MTL (4)"
+    },
+    {
+      "date": "Sun, 1 Mar 2015",
+      "score": "FINAL TOR (0) - WSH (4)"
+    },
+    {
+      "date": "Tue, 3 Mar 2015",
+      "score": "FINAL TOR (3) - FLA (2)"
+    },
+    {
+      "date": "Thu, 5 Mar 2015",
+      "score": "FINAL TOR (2) - TBL (4)"
+    },
+    {
+      "date": "Sat, 7 Mar 2015",
+      "score": "FINAL STL (6) - TOR (1)"
+    },
+    {
+      "date": "Mon, 9 Mar 2015",
+      "score": "FINAL NYI (4) - TOR (3) OT"
+    },
+    {
+      "date": "Wed, 11 Mar 2015",
+      "score": "FINAL BUF (3) - TOR (4) SO"
+    },
+    {
+      "date": "Fri, 13 Mar 2015",
+      "score": "FINAL TOR (3) - CGY (6)"
+    },
+    {
+      "date": "Sat, 14 Mar 2015",
+      "score": "FINAL TOR (1) - VAN (4)"
+    },
+    {
+      "date": "Mon, 16 Mar 2015",
+      "score": "FINAL TOR (1) - EDM (4)"
+    },
+    {
+      "date": "Thu, 19 Mar 2015",
+      "score": "FINAL SJS (4) - TOR (1)"
+    },
+    {
+      "date": "Sat, 21 Mar 2015",
+      "score": "FINAL TOR (3) - OTT (5)"
+    },
+    {
+      "date": "Mon, 23 Mar 2015",
+      "score": "FINAL MIN (2) - TOR (1)"
+    },
+    {
+      "date": "Thu, 26 Mar 2015",
+      "score": "FINAL FLA (4) - TOR (1)"
+    },
+    {
+      "date": "Sat, 28 Mar 2015",
+      "score": "FINAL OTT (3) - TOR (4) OT"
+    },
+    {
+      "date": "Tue, 31 Mar 2015",
+      "score": "FINAL TBL (1) - TOR (3)"
+    },
+    {
+      "date": "Wed, 1 Apr 2015",
+      "score": "FINAL TOR (3) - BUF (4)"
+    },
+    {
+      "date": "Sat, 4 Apr 2015",
+      "score": "FINAL TOR (1) - BOS (2) SO"
+    },
+    {
+      "date": "Sun, 5 Apr 2015",
+      "score": "FINAL OTT (2) - TOR (3) SO"
+    },
+    {
+      "date": "Wed, 8 Apr 2015",
+      "score": "FINAL TOR (0) - CBJ (5)"
+    },
+    {
+      "date": "Sat, 11 Apr 2015",
+      "score": "FINAL MTL (4) - TOR (3) SO"
+    }
+  ]
+}

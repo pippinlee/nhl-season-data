@@ -1,0 +1,38 @@
+{
+  "October 4": {
+    "leafs": 0,
+    "habs": 2,
+    "sens": 1,
+    "tampa": 2,
+    "bruins": 1,
+    "wings": 2,
+    "sabres": 0
+  },
+  "October 5": {
+    "leafs": 0,
+    "habs": 2,
+    "sens": 3,
+    "tampa": 3,
+    "bruins": 3,
+    "wings": 4,
+    "sabres": 0
+  },
+  "October 6": {
+    "leafs": 2,
+    "habs": 2,
+    "sens": 3,
+    "tampa": 3,
+    "bruins": 3,
+    "wings": 4,
+    "sabres": 2
+  },
+  "October 7": {
+    "leafs": 4,
+    "habs": 2,
+    "sens": 5,
+    "tampa": 5,
+    "bruins": 3,
+    "wings": 5,
+    "sabres": 2
+  }
+}

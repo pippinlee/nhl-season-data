@@ -1,0 +1,332 @@
+{
+  "sens-season": [
+    {
+      "date": "Thu, 9 Oct 2014",
+      "score": "FINAL OTT (2) - NSH (3)"
+    },
+    {
+      "date": "Sat, 11 Oct 2014",
+      "score": "FINAL OTT (3) - TBL (2) SO"
+    },
+    {
+      "date": "Mon, 13 Oct 2014",
+      "score": "FINAL OTT (1) - FLA (0)"
+    },
+    {
+      "date": "Thu, 16 Oct 2014",
+      "score": "FINAL COL (3) - OTT (5)"
+    },
+    {
+      "date": "Sat, 18 Oct 2014",
+      "score": "FINAL CBJ (2) - OTT (3)"
+    },
+    {
+      "date": "Sat, 25 Oct 2014",
+      "score": "FINAL NJD (3) - OTT (2) OT"
+    },
+    {
+      "date": "Sun, 26 Oct 2014",
+      "score": "FINAL OTT (1) - CHI (2)"
+    },
+    {
+      "date": "Tue, 28 Oct 2014",
+      "score": "FINAL OTT (5) - CBJ (2)"
+    },
+    {
+      "date": "Thu, 30 Oct 2014",
+      "score": "FINAL CHI (5) - OTT (4) SO"
+    },
+    {
+      "date": "Sat, 1 Nov 2014",
+      "score": "FINAL OTT (2) - BOS (4)"
+    },
+    {
+      "date": "Tue, 4 Nov 2014",
+      "score": "FINAL DET (1) - OTT (3)"
+    },
+    {
+      "date": "Thu, 6 Nov 2014",
+      "score": "FINAL MIN (0) - OTT (3)"
+    },
+    {
+      "date": "Sat, 8 Nov 2014",
+      "score": "FINAL WPG (2) - OTT (1) SO"
+    },
+    {
+      "date": "Sun, 9 Nov 2014",
+      "score": "FINAL TOR (5) - OTT (3)"
+    },
+    {
+      "date": "Tue, 11 Nov 2014",
+      "score": "FINAL OTT (3) - VAN (4) OT"
+    },
+    {
+      "date": "Thu, 13 Nov 2014",
+      "score": "FINAL OTT (4) - EDM (3) OT"
+    },
+    {
+      "date": "Sat, 15 Nov 2014",
+      "score": "FINAL OTT (2) - CGY (4)"
+    },
+    {
+      "date": "Thu, 20 Nov 2014",
+      "score": "FINAL NSH (2) - OTT (3)"
+    },
+    {
+      "date": "Sat, 22 Nov 2014",
+      "score": "FINAL STL (3) - OTT (2)"
+    },
+    {
+      "date": "Mon, 24 Nov 2014",
+      "score": "FINAL OTT (3) - DET (4)"
+    },
+    {
+      "date": "Tue, 25 Nov 2014",
+      "score": "FINAL OTT (3) - STL (2) SO"
+    },
+    {
+      "date": "Fri, 28 Nov 2014",
+      "score": "FINAL OTT (2) - FLA (3)"
+    },
+    {
+      "date": "Sat, 29 Nov 2014",
+      "score": "FINAL OTT (1) - TBL (4)"
+    },
+    {
+      "date": "Tue, 2 Dec 2014",
+      "score": "FINAL OTT (2) - NYI (3) OT"
+    },
+    {
+      "date": "Thu, 4 Dec 2014",
+      "score": "FINAL NYI (2) - OTT (1)"
+    },
+    {
+      "date": "Sat, 6 Dec 2014",
+      "score": "FINAL OTT (2) - PIT (3)"
+    },
+    {
+      "date": "Sun, 7 Dec 2014",
+      "score": "FINAL VAN (3) - OTT (4) OT"
+    },
+    {
+      "date": "Thu, 11 Dec 2014",
+      "score": "FINAL LAK (5) - OTT (3)"
+    },
+    {
+      "date": "Sat, 13 Dec 2014",
+      "score": "FINAL OTT (3) - BOS (2) SO"
+    },
+    {
+      "date": "Mon, 15 Dec 2014",
+      "score": "FINAL OTT (4) - BUF (5) SO"
+    },
+    {
+      "date": "Wed, 17 Dec 2014",
+      "score": "FINAL OTT (2) - NJD (0)"
+    },
+    {
+      "date": "Fri, 19 Dec 2014",
+      "score": "FINAL ANA (2) - OTT (6)"
+    },
+    {
+      "date": "Sat, 20 Dec 2014",
+      "score": "FINAL OTT (1) - MTL (4)"
+    },
+    {
+      "date": "Mon, 22 Dec 2014",
+      "score": "FINAL OTT (1) - WSH (2)"
+    },
+    {
+      "date": "Sat, 27 Dec 2014",
+      "score": "FINAL DET (3) - OTT (2) OT"
+    },
+    {
+      "date": "Mon, 29 Dec 2014",
+      "score": "FINAL BUF (2) - OTT (5)"
+    },
+    {
+      "date": "Sat, 3 Jan 2015",
+      "score": "FINAL OTT (3) - BOS (2) OT"
+    },
+    {
+      "date": "Sun, 4 Jan 2015",
+      "score": "FINAL TBL (4) - OTT (2)"
+    },
+    {
+      "date": "Tue, 6 Jan 2015",
+      "score": "FINAL OTT (1) - PHI (2) SO"
+    },
+    {
+      "date": "Thu, 8 Jan 2015",
+      "score": "FINAL OTT (2) - COL (5)"
+    },
+    {
+      "date": "Sat, 10 Jan 2015",
+      "score": "FINAL OTT (5) - ARI (1)"
+    },
+    {
+      "date": "Tue, 13 Jan 2015",
+      "score": "FINAL OTT (4) - DAL (5)"
+    },
+    {
+      "date": "Thu, 15 Jan 2015",
+      "score": "FINAL MTL (1) - OTT (4)"
+    },
+    {
+      "date": "Sat, 17 Jan 2015",
+      "score": "FINAL CAR (3) - OTT (2)"
+    },
+    {
+      "date": "Tue, 20 Jan 2015",
+      "score": "FINAL OTT (2) - NYR (3) OT"
+    },
+    {
+      "date": "Wed, 21 Jan 2015",
+      "score": "FINAL TOR (3) - OTT (4)"
+    },
+    {
+      "date": "Thu, 29 Jan 2015",
+      "score": "FINAL DAL (6) - OTT (3)"
+    },
+    {
+      "date": "Sat, 31 Jan 2015",
+      "score": "FINAL ARI (2) - OTT (7)"
+    },
+    {
+      "date": "Tue, 3 Feb 2015",
+      "score": "FINAL OTT (1) - NJD (2)"
+    },
+    {
+      "date": "Thu, 5 Feb 2015",
+      "score": "FINAL WSH (2) - OTT (1)"
+    },
+    {
+      "date": "Sat, 7 Feb 2015",
+      "score": "FINAL CBJ (4) - OTT (1)"
+    },
+    {
+      "date": "Tue, 10 Feb 2015",
+      "score": "FINAL OTT (2) - BUF (1)"
+    },
+    {
+      "date": "Thu, 12 Feb 2015",
+      "score": "FINAL PIT (5) - OTT (4) SO"
+    },
+    {
+      "date": "Sat, 14 Feb 2015",
+      "score": "FINAL EDM (2) - OTT (7)"
+    },
+    {
+      "date": "Mon, 16 Feb 2015",
+      "score": "FINAL CAR (6) - OTT (3)"
+    },
+    {
+      "date": "Wed, 18 Feb 2015",
+      "score": "FINAL MTL (2) - OTT (4)"
+    },
+    {
+      "date": "Sat, 21 Feb 2015",
+      "score": "FINAL FLA (1) - OTT (4)"
+    },
+    {
+      "date": "Wed, 25 Feb 2015",
+      "score": "FINAL OTT (3) - ANA (0)"
+    },
+    {
+      "date": "Thu, 26 Feb 2015",
+      "score": "FINAL OTT (1) - LAK (0)"
+    },
+    {
+      "date": "Sat, 28 Feb 2015",
+      "score": "FINAL OTT (4) - SJS (2)"
+    },
+    {
+      "date": "Tue, 3 Mar 2015",
+      "score": "FINAL OTT (2) - MIN (3) SO"
+    },
+    {
+      "date": "Wed, 4 Mar 2015",
+      "score": "FINAL OTT (3) - WPG (1)"
+    },
+    {
+      "date": "Fri, 6 Mar 2015",
+      "score": "FINAL BUF (2) - OTT (3)"
+    },
+    {
+      "date": "Sun, 8 Mar 2015",
+      "score": "FINAL CGY (4) - OTT (5) SO"
+    },
+    {
+      "date": "Tue, 10 Mar 2015",
+      "score": "FINAL BOS (3) - OTT (1)"
+    },
+    {
+      "date": "Thu, 12 Mar 2015",
+      "score": "FINAL OTT (5) - MTL (2)"
+    },
+    {
+      "date": "Fri, 13 Mar 2015",
+      "score": "FINAL OTT (2) - NYI (1)"
+    },
+    {
+      "date": "Sun, 15 Mar 2015",
+      "score": "FINAL PHI (1) - OTT (2) SO"
+    },
+    {
+      "date": "Tue, 17 Mar 2015",
+      "score": "FINAL OTT (2) - CAR (1) OT"
+    },
+    {
+      "date": "Thu, 19 Mar 2015",
+      "score": "FINAL BOS (4) - OTT (6)"
+    },
+    {
+      "date": "Sat, 21 Mar 2015",
+      "score": "FINAL TOR (3) - OTT (5)"
+    },
+    {
+      "date": "Mon, 23 Mar 2015",
+      "score": "FINAL SJS (2) - OTT (5)"
+    },
+    {
+      "date": "Thu, 26 Mar 2015",
+      "score": "FINAL NYR (5) - OTT (1)"
+    },
+    {
+      "date": "Sat, 28 Mar 2015",
+      "score": "FINAL OTT (3) - TOR (4) OT"
+    },
+    {
+      "date": "Sun, 29 Mar 2015",
+      "score": "FINAL FLA (4) - OTT (2)"
+    },
+    {
+      "date": "Tue, 31 Mar 2015",
+      "score": "FINAL OTT (2) - DET (1) SO"
+    },
+    {
+      "date": "Thu, 2 Apr 2015",
+      "score": "FINAL TBL (1) - OTT (2) OT"
+    },
+    {
+      "date": "Sat, 4 Apr 2015",
+      "score": "FINAL WSH (3) - OTT (4) OT"
+    },
+    {
+      "date": "Sun, 5 Apr 2015",
+      "score": "FINAL OTT (2) - TOR (3) SO"
+    },
+    {
+      "date": "Tue, 7 Apr 2015",
+      "score": "FINAL PIT (3) - OTT (4) OT"
+    },
+    {
+      "date": "Thu, 9 Apr 2015",
+      "score": "FINAL OTT (3) - NYR (0)"
+    },
+    {
+      "date": "Sat, 11 Apr 2015",
+      "score": "FINAL OTT (3) - PHI (1)"
+    }
+  ]
+}
