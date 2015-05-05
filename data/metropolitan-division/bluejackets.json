@@ -1,0 +1,332 @@
+{
+  "bluejackets-season": [
+    {
+      "date": "Thu Oct 9, 2014",
+      "score": "FINAL CBJ (3) - BUF (1)"
+    },
+    {
+      "date": "Sat Oct 11, 2014",
+      "score": "FINAL NYR (2) - CBJ (5)"
+    },
+    {
+      "date": "Tue Oct 14, 2014",
+      "score": "FINAL DAL (4) - CBJ (2)"
+    },
+    {
+      "date": "Fri Oct 17, 2014",
+      "score": "FINAL CGY (2) - CBJ (3)"
+    },
+    {
+      "date": "Sat Oct 18, 2014",
+      "score": "FINAL CBJ (2) - OTT (3)"
+    },
+    {
+      "date": "Thu Oct 23, 2014",
+      "score": "FINAL CBJ (5) - SJS (4)"
+    },
+    {
+      "date": "Fri Oct 24, 2014",
+      "score": "FINAL CBJ (1) - ANA (4)"
+    },
+    {
+      "date": "Sun Oct 26, 2014",
+      "score": "FINAL CBJ (2) - LAK (5)"
+    },
+    {
+      "date": "Tue Oct 28, 2014",
+      "score": "FINAL OTT (5) - CBJ (2)"
+    },
+    {
+      "date": "Fri Oct 31, 2014",
+      "score": "FINAL TOR (4) - CBJ (1)"
+    },
+    {
+      "date": "Sat Nov 1, 2014",
+      "score": "FINAL CBJ (2) - NJD (3)"
+    },
+    {
+      "date": "Tue Nov 4, 2014",
+      "score": "FINAL CAR (4) - CBJ (2)"
+    },
+    {
+      "date": "Fri Nov 7, 2014",
+      "score": "FINAL CBJ (2) - CAR (3) OT"
+    },
+    {
+      "date": "Sat Nov 8, 2014",
+      "score": "FINAL TBL (7) - CBJ (4)"
+    },
+    {
+      "date": "Tue Nov 11, 2014",
+      "score": "FINAL CBJ (2) - WSH (4)"
+    },
+    {
+      "date": "Fri Nov 14, 2014",
+      "score": "FINAL CBJ (4) - PHI (3)"
+    },
+    {
+      "date": "Sat Nov 15, 2014",
+      "score": "FINAL SJS (1) - CBJ (2)"
+    },
+    {
+      "date": "Tue Nov 18, 2014",
+      "score": "FINAL DET (5) - CBJ (0)"
+    },
+    {
+      "date": "Fri Nov 21, 2014",
+      "score": "FINAL BOS (4) - CBJ (3) SO"
+    },
+    {
+      "date": "Sat Nov 22, 2014",
+      "score": "FINAL CBJ (2) - PHI (4)"
+    },
+    {
+      "date": "Tue Nov 25, 2014",
+      "score": "FINAL WPG (4) - CBJ (2)"
+    },
+    {
+      "date": "Fri Nov 28, 2014",
+      "score": "FINAL VAN (5) - CBJ (0)"
+    },
+    {
+      "date": "Sat Nov 29, 2014",
+      "score": "FINAL CBJ (1) - NSH (2)"
+    },
+    {
+      "date": "Mon Dec 1, 2014",
+      "score": "FINAL FLA (1) - CBJ (2)"
+    },
+    {
+      "date": "Thu Dec 4, 2014",
+      "score": "FINAL CBJ (4) - FLA (3) SO"
+    },
+    {
+      "date": "Sat Dec 6, 2014",
+      "score": "FINAL CBJ (3) - TBL (1)"
+    },
+    {
+      "date": "Tue Dec 9, 2014",
+      "score": "FINAL PHI (2) - CBJ (3) OT"
+    },
+    {
+      "date": "Thu Dec 11, 2014",
+      "score": "FINAL CBJ (3) - WSH (2) OT"
+    },
+    {
+      "date": "Sat Dec 13, 2014",
+      "score": "FINAL PIT (3) - CBJ (4) SO"
+    },
+    {
+      "date": "Tue Dec 16, 2014",
+      "score": "FINAL CBJ (1) - DET (0) SO"
+    },
+    {
+      "date": "Thu Dec 18, 2014",
+      "score": "FINAL WSH (5) - CBJ (4) OT"
+    },
+    {
+      "date": "Sat Dec 20, 2014",
+      "score": "FINAL CHI (2) - CBJ (3) SO"
+    },
+    {
+      "date": "Mon Dec 22, 2014",
+      "score": "FINAL NSH (5) - CBJ (1)"
+    },
+    {
+      "date": "Sat Dec 27, 2014",
+      "score": "FINAL BOS (2) - CBJ (6)"
+    },
+    {
+      "date": "Wed Dec 31, 2014",
+      "score": "FINAL MIN (1) - CBJ (3)"
+    },
+    {
+      "date": "Sat Jan 3, 2015",
+      "score": "FINAL CBJ (3) - ARI (6)"
+    },
+    {
+      "date": "Sun Jan 4, 2015",
+      "score": "FINAL CBJ (4) - COL (3)"
+    },
+    {
+      "date": "Tue Jan 6, 2015",
+      "score": "FINAL CBJ (4) - DAL (2)"
+    },
+    {
+      "date": "Fri Jan 9, 2015",
+      "score": "FINAL CBJ (2) - TOR (5)"
+    },
+    {
+      "date": "Sat Jan 10, 2015",
+      "score": "FINAL NYI (5) - CBJ (2)"
+    },
+    {
+      "date": "Wed Jan 14, 2015",
+      "score": "FINAL MTL (3) - CBJ (2)"
+    },
+    {
+      "date": "Fri Jan 16, 2015",
+      "score": "FINAL NYR (2) - CBJ (1)"
+    },
+    {
+      "date": "Sat Jan 17, 2015",
+      "score": "FINAL CBJ (3) - BOS (1)"
+    },
+    {
+      "date": "Mon Jan 19, 2015",
+      "score": "FINAL CBJ (3) - MIN (1)"
+    },
+    {
+      "date": "Wed Jan 21, 2015",
+      "score": "FINAL CBJ (0) - WPG (4)"
+    },
+    {
+      "date": "Tue Jan 27, 2015",
+      "score": "FINAL WSH (3) - CBJ (4)"
+    },
+    {
+      "date": "Thu Jan 29, 2015",
+      "score": "FINAL CBJ (2) - FLA (3)"
+    },
+    {
+      "date": "Sat Jan 31, 2015",
+      "score": "FINAL CBJ (1) - TBL (3)"
+    },
+    {
+      "date": "Tue Feb 3, 2015",
+      "score": "FINAL ARI (4) - CBJ (1)"
+    },
+    {
+      "date": "Fri Feb 6, 2015",
+      "score": "FINAL STL (1) - CBJ (7)"
+    },
+    {
+      "date": "Sat Feb 7, 2015",
+      "score": "FINAL CBJ (4) - OTT (1)"
+    },
+    {
+      "date": "Mon Feb 9, 2015",
+      "score": "FINAL LAK (4) - CBJ (3)"
+    },
+    {
+      "date": "Fri Feb 13, 2015",
+      "score": "FINAL PHI (3) - CBJ (4) OT"
+    },
+    {
+      "date": "Sat Feb 14, 2015",
+      "score": "FINAL CBJ (3) - NYI (6)"
+    },
+    {
+      "date": "Tue Feb 17, 2015",
+      "score": "FINAL CBJ (5) - PHI (2)"
+    },
+    {
+      "date": "Thu Feb 19, 2015",
+      "score": "FINAL CBJ (2) - PIT (1)"
+    },
+    {
+      "date": "Sat Feb 21, 2015",
+      "score": "FINAL CBJ (1) - MTL (3)"
+    },
+    {
+      "date": "Sun Feb 22, 2015",
+      "score": "FINAL CBJ (3) - NYR (4) SO"
+    },
+    {
+      "date": "Tue Feb 24, 2015",
+      "score": "FINAL BUF (4) - CBJ (2)"
+    },
+    {
+      "date": "Thu Feb 26, 2015",
+      "score": "FINAL MTL (5) - CBJ (2)"
+    },
+    {
+      "date": "Sat Feb 28, 2015",
+      "score": "FINAL NJD (2) - CBJ (0)"
+    },
+    {
+      "date": "Sun Mar 1, 2015",
+      "score": "FINAL CBJ (3) - PIT (5)"
+    },
+    {
+      "date": "Tue Mar 3, 2015",
+      "score": "FINAL WSH (5) - CBJ (3)"
+    },
+    {
+      "date": "Fri Mar 6, 2015",
+      "score": "FINAL CBJ (3) - NJD (2)"
+    },
+    {
+      "date": "Sat Mar 7, 2015",
+      "score": "FINAL COL (4) - CBJ (0)"
+    },
+    {
+      "date": "Tue Mar 10, 2015",
+      "score": "FINAL CBJ (4) - CAR (3) SO"
+    },
+    {
+      "date": "Thu Mar 12, 2015",
+      "score": "FINAL CBJ (3) - DET (1)"
+    },
+    {
+      "date": "Fri Mar 13, 2015",
+      "score": "FINAL EDM (4) - CBJ (5) SO"
+    },
+    {
+      "date": "Sun Mar 15, 2015",
+      "score": "FINAL CAR (3) - CBJ (2)"
+    },
+    {
+      "date": "Wed Mar 18, 2015",
+      "score": "FINAL CBJ (4) - EDM (3) SO"
+    },
+    {
+      "date": "Thu Mar 19, 2015",
+      "score": "FINAL CBJ (6) - VAN (2)"
+    },
+    {
+      "date": "Sat Mar 21, 2015",
+      "score": "FINAL CBJ (3) - CGY (2) OT"
+    },
+    {
+      "date": "Tue Mar 24, 2015",
+      "score": "FINAL ANA (3) - CBJ (5)"
+    },
+    {
+      "date": "Fri Mar 27, 2015",
+      "score": "FINAL CBJ (5) - CHI (2)"
+    },
+    {
+      "date": "Sat Mar 28, 2015",
+      "score": "FINAL CBJ (4) - STL (2)"
+    },
+    {
+      "date": "Tue Mar 31, 2015",
+      "score": "FINAL NJD (2) - CBJ (3) OT"
+    },
+    {
+      "date": "Thu Apr 2, 2015",
+      "score": "FINAL NYI (3) - CBJ (4) SO"
+    },
+    {
+      "date": "Sat Apr 4, 2015",
+      "score": "FINAL PIT (3) - CBJ (5)"
+    },
+    {
+      "date": "Mon Apr 6, 2015",
+      "score": "FINAL CBJ (3) - NYR (4) OT"
+    },
+    {
+      "date": "Wed Apr 8, 2015",
+      "score": "FINAL TOR (0) - CBJ (5)"
+    },
+    {
+      "date": "Fri Apr 10, 2015",
+      "score": "FINAL BUF (2) - CBJ (4)"
+    },
+    {
+      "date": "Sat Apr 11, 2015",
+      "score": "FINAL CBJ (5) - NYI (4) SO"
+    }
+  ]
+}

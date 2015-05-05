@@ -1,0 +1,332 @@
+{
+  "philly-season": [
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (1) - BOS (2)"
+    },
+    {
+      "date": "Devils",
+      "score": "FINAL NJD (6) - PHI (4)"
+    },
+    {
+      "date": "Canadiens",
+      "score": "FINAL MTL (4) - PHI (3) SO"
+    },
+    {
+      "date": "Ducks",
+      "score": "FINAL ANA (4) - PHI (3) SO"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (6) - DAL (5) OT"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (0) - CHI (4)"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (5) - PIT (3)"
+    },
+    {
+      "date": "Red Wings",
+      "score": "FINAL DET (2) - PHI (4)"
+    },
+    {
+      "date": "Kings",
+      "score": "FINAL LAK (2) - PHI (3) OT"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (3) - TBL (4)"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (1) - FLA (2)"
+    },
+    {
+      "date": "Oilers",
+      "score": "FINAL EDM (1) - PHI (4)"
+    },
+    {
+      "date": "Panthers",
+      "score": "FINAL FLA (1) - PHI (4)"
+    },
+    {
+      "date": "Avalanche",
+      "score": "FINAL COL (3) - PHI (4)"
+    },
+    {
+      "date": "Blue Jackets",
+      "score": "FINAL CBJ (4) - PHI (3)"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (3) - MTL (6)"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (0) - NYR (2)"
+    },
+    {
+      "date": "Wild",
+      "score": "FINAL MIN (3) - PHI (2)"
+    },
+    {
+      "date": "Blue Jackets",
+      "score": "FINAL CBJ (2) - PHI (4)"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (0) - NYI (1) SO"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (2) - DET (5)"
+    },
+    {
+      "date": "Rangers",
+      "score": "FINAL NYR (3) - PHI (0)"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (2) - NYR (5)"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (1) - SJS (2)"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (4) - ANA (5) SO"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (2) - LAK (1)"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (2) - CBJ (3) OT"
+    },
+    {
+      "date": "Devils",
+      "score": "FINAL NJD (1) - PHI (4)"
+    },
+    {
+      "date": "Hurricanes",
+      "score": "FINAL CAR (1) - PHI (5)"
+    },
+    {
+      "date": "Lightning",
+      "score": "FINAL TBL (3) - PHI (1)"
+    },
+    {
+      "date": "Panthers",
+      "score": "FINAL FLA (2) - PHI (1) SO"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (7) - TOR (4)"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (4) - WPG (3) OT"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (5) - MIN (2)"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (1) - NSH (4)"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (2) - ARI (4)"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (3) - COL (4) OT"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (1) - CAR (2)"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (2) - NJD (5)"
+    },
+    {
+      "date": "Senators",
+      "score": "FINAL OTT (1) - PHI (2) SO"
+    },
+    {
+      "date": "Capitals",
+      "score": "FINAL WSH (2) - PHI (3) OT"
+    },
+    {
+      "date": "Bruins",
+      "score": "FINAL BOS (3) - PHI (1)"
+    },
+    {
+      "date": "Lightning",
+      "score": "FINAL TBL (3) - PHI (7)"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (0) - WSH (1)"
+    },
+    {
+      "date": "Canucks",
+      "score": "FINAL VAN (4) - PHI (0)"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (4) - BUF (3)"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (4) - NYI (7)"
+    },
+    {
+      "date": "Penguins",
+      "score": "FINAL PIT (2) - PHI (3) OT"
+    },
+    {
+      "date": "Coyotes",
+      "score": "FINAL ARI (3) - PHI (4) SO"
+    },
+    {
+      "date": "Jets",
+      "score": "FINAL WPG (2) - PHI (5)"
+    },
+    {
+      "date": "Maple Leafs",
+      "score": "FINAL TOR (0) - PHI (1)"
+    },
+    {
+      "date": "Islanders",
+      "score": "FINAL NYI (3) - PHI (2) SO"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (3) - WSH (1)"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (1) - MTL (2) OT"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (3) - CBJ (4) OT"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (2) - BUF (1)"
+    },
+    {
+      "date": "Blue Jackets",
+      "score": "FINAL CBJ (5) - PHI (2)"
+    },
+    {
+      "date": "Sabres",
+      "score": "FINAL BUF (3) - PHI (2) SO"
+    },
+    {
+      "date": "Predators",
+      "score": "FINAL NSH (2) - PHI (3) SO"
+    },
+    {
+      "date": "Capitals",
+      "score": "FINAL WSH (2) - PHI (3)"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (1) - CAR (4)"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (2) - TOR (3)"
+    },
+    {
+      "date": "Rangers",
+      "score": "FINAL NYR (2) - PHI (4)"
+    },
+    {
+      "date": "Flames",
+      "score": "FINAL CGY (3) - PHI (2) OT"
+    },
+    {
+      "date": "Blues",
+      "score": "FINAL STL (1) - PHI (3)"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (2) - BOS (3) OT"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (2) - NJD (5)"
+    },
+    {
+      "date": "Stars",
+      "score": "FINAL DAL (2) - PHI (1)"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (0) - STL (1) SO"
+    },
+    {
+      "date": "Red Wings",
+      "score": "FINAL DET (2) - PHI (7)"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (1) - OTT (2) SO"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (1) - VAN (4)"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (1) - CGY (4)"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (4) - EDM (5) OT"
+    },
+    {
+      "date": "Blackhawks",
+      "score": "FINAL CHI (1) - PHI (4)"
+    },
+    {
+      "date": "Sharks",
+      "score": "FINAL SJS (3) - PHI (2) SO"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (4) - PIT (1)"
+    },
+    {
+      "date": "Flyers",
+      "score": "FINAL PHI (2) - CAR (3) SO"
+    },
+    {
+      "date": "Penguins",
+      "score": "FINAL PIT (1) - PHI (4)"
+    },
+    {
+      "date": "Islanders",
+      "score": "FINAL NYI (4) - PHI (5)"
+    },
+    {
+      "date": "Hurricanes",
+      "score": "FINAL CAR (3) - PHI (1)"
+    },
+    {
+      "date": "Senators",
+      "score": "FINAL OTT (3) - PHI (1)"
+    }
+  ]
+}

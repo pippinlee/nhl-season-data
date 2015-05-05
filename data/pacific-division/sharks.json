@@ -1,0 +1,332 @@
+{
+  "sharks-season": [
+    {
+      "date": "Wed Oct 8, 2014",
+      "score": "FINAL SJS (4) - LAK (0)"
+    },
+    {
+      "date": "Sat Oct 11, 2014",
+      "score": "FINAL WPG (0) - SJS (3)"
+    },
+    {
+      "date": "Tue Oct 14, 2014",
+      "score": "FINAL SJS (6) - WSH (5) SO"
+    },
+    {
+      "date": "Thu Oct 16, 2014",
+      "score": "FINAL SJS (3) - NYI (4) SO"
+    },
+    {
+      "date": "Sat Oct 18, 2014",
+      "score": "FINAL SJS (4) - NJD (2)"
+    },
+    {
+      "date": "Sun Oct 19, 2014",
+      "score": "FINAL SJS (0) - NYR (4)"
+    },
+    {
+      "date": "Tue Oct 21, 2014",
+      "score": "FINAL SJS (3) - BOS (5)"
+    },
+    {
+      "date": "Thu Oct 23, 2014",
+      "score": "FINAL CBJ (5) - SJS (4)"
+    },
+    {
+      "date": "Sat Oct 25, 2014",
+      "score": "FINAL BUF (2) - SJS (1)"
+    },
+    {
+      "date": "Sun Oct 26, 2014",
+      "score": "FINAL SJS (4) - ANA (1)"
+    },
+    {
+      "date": "Tue Oct 28, 2014",
+      "score": "FINAL SJS (3) - COL (2) SO"
+    },
+    {
+      "date": "Thu Oct 30, 2014",
+      "score": "FINAL SJS (3) - MIN (4) SO"
+    },
+    {
+      "date": "Sat Nov 1, 2014",
+      "score": "FINAL NYI (1) - SJS (3)"
+    },
+    {
+      "date": "Thu Nov 6, 2014",
+      "score": "FINAL VAN (3) - SJS (2)"
+    },
+    {
+      "date": "Sat Nov 8, 2014",
+      "score": "FINAL SJS (5) - DAL (3)"
+    },
+    {
+      "date": "Sun Nov 9, 2014",
+      "score": "FINAL SJS (2) - CHI (5)"
+    },
+    {
+      "date": "Tue Nov 11, 2014",
+      "score": "FINAL SJS (1) - FLA (4)"
+    },
+    {
+      "date": "Thu Nov 13, 2014",
+      "score": "FINAL SJS (2) - TBL (1)"
+    },
+    {
+      "date": "Sat Nov 15, 2014",
+      "score": "FINAL SJS (1) - CBJ (2)"
+    },
+    {
+      "date": "Sun Nov 16, 2014",
+      "score": "FINAL SJS (2) - CAR (0)"
+    },
+    {
+      "date": "Tue Nov 18, 2014",
+      "score": "FINAL SJS (1) - BUF (4)"
+    },
+    {
+      "date": "Thu Nov 20, 2014",
+      "score": "FINAL FLA (3) - SJS (2) SO"
+    },
+    {
+      "date": "Sat Nov 22, 2014",
+      "score": "FINAL ARI (4) - SJS (3) SO"
+    },
+    {
+      "date": "Wed Nov 26, 2014",
+      "score": "FINAL CGY (2) - SJS (0)"
+    },
+    {
+      "date": "Sat Nov 29, 2014",
+      "score": "FINAL ANA (4) - SJS (6)"
+    },
+    {
+      "date": "Tue Dec 2, 2014",
+      "score": "FINAL PHI (1) - SJS (2)"
+    },
+    {
+      "date": "Thu Dec 4, 2014",
+      "score": "FINAL BOS (4) - SJS (7)"
+    },
+    {
+      "date": "Sat Dec 6, 2014",
+      "score": "FINAL SJS (3) - CGY (2)"
+    },
+    {
+      "date": "Sun Dec 7, 2014",
+      "score": "FINAL SJS (1) - EDM (2)"
+    },
+    {
+      "date": "Tue Dec 9, 2014",
+      "score": "FINAL EDM (2) - SJS (5)"
+    },
+    {
+      "date": "Thu Dec 11, 2014",
+      "score": "FINAL MIN (1) - SJS (2)"
+    },
+    {
+      "date": "Sat Dec 13, 2014",
+      "score": "FINAL NSH (0) - SJS (2)"
+    },
+    {
+      "date": "Thu Dec 18, 2014",
+      "score": "FINAL EDM (3) - SJS (4)"
+    },
+    {
+      "date": "Sat Dec 20, 2014",
+      "score": "FINAL STL (2) - SJS (3) OT"
+    },
+    {
+      "date": "Mon Dec 22, 2014",
+      "score": "FINAL SJS (2) - ANA (3) OT"
+    },
+    {
+      "date": "Sat Dec 27, 2014",
+      "score": "FINAL SJS (1) - LAK (3)"
+    },
+    {
+      "date": "Tue Dec 30, 2014",
+      "score": "FINAL VAN (3) - SJS (1)"
+    },
+    {
+      "date": "Wed Dec 31, 2014",
+      "score": "FINAL SJS (3) - ANA (0)"
+    },
+    {
+      "date": "Sat Jan 3, 2015",
+      "score": "FINAL STL (7) - SJS (2)"
+    },
+    {
+      "date": "Mon Jan 5, 2015",
+      "score": "FINAL SJS (3) - WPG (2)"
+    },
+    {
+      "date": "Tue Jan 6, 2015",
+      "score": "FINAL SJS (4) - MIN (3) OT"
+    },
+    {
+      "date": "Thu Jan 8, 2015",
+      "score": "FINAL SJS (2) - STL (7)"
+    },
+    {
+      "date": "Sat Jan 10, 2015",
+      "score": "FINAL NYR (3) - SJS (1)"
+    },
+    {
+      "date": "Tue Jan 13, 2015",
+      "score": "FINAL SJS (3) - ARI (2)"
+    },
+    {
+      "date": "Thu Jan 15, 2015",
+      "score": "FINAL TOR (1) - SJS (3)"
+    },
+    {
+      "date": "Sat Jan 17, 2015",
+      "score": "FINAL CGY (4) - SJS (3) OT"
+    },
+    {
+      "date": "Mon Jan 19, 2015",
+      "score": "FINAL NJD (5) - SJS (2)"
+    },
+    {
+      "date": "Wed Jan 21, 2015",
+      "score": "FINAL LAK (2) - SJS (4)"
+    },
+    {
+      "date": "Thu Jan 29, 2015",
+      "score": "FINAL ANA (3) - SJS (6)"
+    },
+    {
+      "date": "Sat Jan 31, 2015",
+      "score": "FINAL CHI (0) - SJS (2)"
+    },
+    {
+      "date": "Mon Feb 2, 2015",
+      "score": "FINAL EDM (5) - SJS (4) SO"
+    },
+    {
+      "date": "Wed Feb 4, 2015",
+      "score": "FINAL SJS (1) - CGY (3)"
+    },
+    {
+      "date": "Thu Feb 5, 2015",
+      "score": "FINAL SJS (5) - VAN (1)"
+    },
+    {
+      "date": "Sat Feb 7, 2015",
+      "score": "FINAL CAR (5) - SJS (4)"
+    },
+    {
+      "date": "Mon Feb 9, 2015",
+      "score": "FINAL CGY (4) - SJS (1)"
+    },
+    {
+      "date": "Wed Feb 11, 2015",
+      "score": "FINAL WSH (5) - SJS (4) OT"
+    },
+    {
+      "date": "Fri Feb 13, 2015",
+      "score": "FINAL SJS (4) - ARI (2)"
+    },
+    {
+      "date": "Sun Feb 15, 2015",
+      "score": "FINAL TBL (5) - SJS (2)"
+    },
+    {
+      "date": "Tue Feb 17, 2015",
+      "score": "FINAL SJS (1) - NSH (5)"
+    },
+    {
+      "date": "Thu Feb 19, 2015",
+      "score": "FINAL SJS (5) - DAL (2)"
+    },
+    {
+      "date": "Sat Feb 21, 2015",
+      "score": "FINAL LAK (2) - SJS (1)"
+    },
+    {
+      "date": "Thu Feb 26, 2015",
+      "score": "FINAL DET (3) - SJS (2)"
+    },
+    {
+      "date": "Sat Feb 28, 2015",
+      "score": "FINAL OTT (4) - SJS (2)"
+    },
+    {
+      "date": "Mon Mar 2, 2015",
+      "score": "FINAL MTL (0) - SJS (4)"
+    },
+    {
+      "date": "Tue Mar 3, 2015",
+      "score": "FINAL SJS (6) - VAN (2)"
+    },
+    {
+      "date": "Sat Mar 7, 2015",
+      "score": "FINAL VAN (3) - SJS (2)"
+    },
+    {
+      "date": "Mon Mar 9, 2015",
+      "score": "FINAL PIT (1) - SJS (2) SO"
+    },
+    {
+      "date": "Thu Mar 12, 2015",
+      "score": "FINAL NSH (0) - SJS (2)"
+    },
+    {
+      "date": "Sat Mar 14, 2015",
+      "score": "FINAL CHI (6) - SJS (2)"
+    },
+    {
+      "date": "Tue Mar 17, 2015",
+      "score": "FINAL SJS (2) - WPG (5)"
+    },
+    {
+      "date": "Thu Mar 19, 2015",
+      "score": "FINAL SJS (4) - TOR (1)"
+    },
+    {
+      "date": "Sat Mar 21, 2015",
+      "score": "FINAL SJS (0) - MTL (2)"
+    },
+    {
+      "date": "Mon Mar 23, 2015",
+      "score": "FINAL SJS (2) - OTT (5)"
+    },
+    {
+      "date": "Thu Mar 26, 2015",
+      "score": "FINAL SJS (6) - DET (4)"
+    },
+    {
+      "date": "Sat Mar 28, 2015",
+      "score": "FINAL SJS (3) - PHI (2) SO"
+    },
+    {
+      "date": "Sun Mar 29, 2015",
+      "score": "FINAL SJS (2) - PIT (3) SO"
+    },
+    {
+      "date": "Wed Apr 1, 2015",
+      "score": "FINAL COL (1) - SJS (5)"
+    },
+    {
+      "date": "Fri Apr 3, 2015",
+      "score": "FINAL ARI (1) - SJS (3)"
+    },
+    {
+      "date": "Sat Apr 4, 2015",
+      "score": "FINAL SJS (3) - ARI (5)"
+    },
+    {
+      "date": "Mon Apr 6, 2015",
+      "score": "FINAL DAL (5) - SJS (1)"
+    },
+    {
+      "date": "Thu Apr 9, 2015",
+      "score": "FINAL SJS (3) - EDM (1)"
+    },
+    {
+      "date": "Sat Apr 11, 2015",
+      "score": "FINAL SJS (1) - LAK (4)"
+    }
+  ]
+}

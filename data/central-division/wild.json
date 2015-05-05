@@ -1,0 +1,332 @@
+{
+  "wild-season": [
+    {
+      "date": "Thu Oct 9, 2014",
+      "score": "FINAL COL (0) - MIN (5)"
+    },
+    {
+      "date": "Sat Oct 11, 2014",
+      "score": "FINAL MIN (3) - COL (0)"
+    },
+    {
+      "date": "Fri Oct 17, 2014",
+      "score": "FINAL MIN (1) - ANA (2)"
+    },
+    {
+      "date": "Sun Oct 19, 2014",
+      "score": "FINAL MIN (1) - LAK (2)"
+    },
+    {
+      "date": "Thu Oct 23, 2014",
+      "score": "FINAL ARI (0) - MIN (2)"
+    },
+    {
+      "date": "Sat Oct 25, 2014",
+      "score": "FINAL TBL (2) - MIN (7)"
+    },
+    {
+      "date": "Mon Oct 27, 2014",
+      "score": "FINAL MIN (4) - NYR (5)"
+    },
+    {
+      "date": "Tue Oct 28, 2014",
+      "score": "FINAL MIN (4) - BOS (3)"
+    },
+    {
+      "date": "Thu Oct 30, 2014",
+      "score": "FINAL SJS (3) - MIN (4) SO"
+    },
+    {
+      "date": "Sat Nov 1, 2014",
+      "score": "FINAL DAL (1) - MIN (4)"
+    },
+    {
+      "date": "Tue Nov 4, 2014",
+      "score": "FINAL PIT (4) - MIN (1)"
+    },
+    {
+      "date": "Thu Nov 6, 2014",
+      "score": "FINAL MIN (0) - OTT (3)"
+    },
+    {
+      "date": "Sat Nov 8, 2014",
+      "score": "FINAL MIN (1) - MTL (4)"
+    },
+    {
+      "date": "Tue Nov 11, 2014",
+      "score": "FINAL MIN (1) - NJD (3)"
+    },
+    {
+      "date": "Thu Nov 13, 2014",
+      "score": "FINAL BUF (3) - MIN (6)"
+    },
+    {
+      "date": "Sat Nov 15, 2014",
+      "score": "FINAL MIN (2) - DAL (1)"
+    },
+    {
+      "date": "Sun Nov 16, 2014",
+      "score": "FINAL WPG (3) - MIN (4) OT"
+    },
+    {
+      "date": "Thu Nov 20, 2014",
+      "score": "FINAL MIN (3) - PHI (2)"
+    },
+    {
+      "date": "Sat Nov 22, 2014",
+      "score": "FINAL MIN (1) - TBL (2)"
+    },
+    {
+      "date": "Mon Nov 24, 2014",
+      "score": "FINAL MIN (4) - FLA (1)"
+    },
+    {
+      "date": "Wed Nov 26, 2014",
+      "score": "FINAL LAK (4) - MIN (0)"
+    },
+    {
+      "date": "Fri Nov 28, 2014",
+      "score": "FINAL MIN (5) - DAL (4) OT"
+    },
+    {
+      "date": "Sat Nov 29, 2014",
+      "score": "FINAL STL (3) - MIN (2) SO"
+    },
+    {
+      "date": "Wed Dec 3, 2014",
+      "score": "FINAL MTL (1) - MIN (2)"
+    },
+    {
+      "date": "Fri Dec 5, 2014",
+      "score": "FINAL ANA (5) - MIN (4)"
+    },
+    {
+      "date": "Tue Dec 9, 2014",
+      "score": "FINAL NYI (4) - MIN (5)"
+    },
+    {
+      "date": "Thu Dec 11, 2014",
+      "score": "FINAL MIN (1) - SJS (2)"
+    },
+    {
+      "date": "Sat Dec 13, 2014",
+      "score": "FINAL MIN (4) - ARI (3) SO"
+    },
+    {
+      "date": "Tue Dec 16, 2014",
+      "score": "FINAL MIN (3) - CHI (5)"
+    },
+    {
+      "date": "Wed Dec 17, 2014",
+      "score": "FINAL BOS (3) - MIN (2) OT"
+    },
+    {
+      "date": "Sat Dec 20, 2014",
+      "score": "FINAL NSH (6) - MIN (5) OT"
+    },
+    {
+      "date": "Tue Dec 23, 2014",
+      "score": "FINAL PHI (5) - MIN (2)"
+    },
+    {
+      "date": "Sat Dec 27, 2014",
+      "score": "FINAL WPG (4) - MIN (3) OT"
+    },
+    {
+      "date": "Mon Dec 29, 2014",
+      "score": "FINAL MIN (3) - WPG (2)"
+    },
+    {
+      "date": "Wed Dec 31, 2014",
+      "score": "FINAL MIN (1) - CBJ (3)"
+    },
+    {
+      "date": "Fri Jan 2, 2015",
+      "score": "FINAL TOR (1) - MIN (3)"
+    },
+    {
+      "date": "Sat Jan 3, 2015",
+      "score": "FINAL MIN (1) - DAL (7)"
+    },
+    {
+      "date": "Tue Jan 6, 2015",
+      "score": "FINAL SJS (4) - MIN (3) OT"
+    },
+    {
+      "date": "Thu Jan 8, 2015",
+      "score": "FINAL CHI (4) - MIN (2)"
+    },
+    {
+      "date": "Sat Jan 10, 2015",
+      "score": "FINAL NSH (3) - MIN (1)"
+    },
+    {
+      "date": "Sun Jan 11, 2015",
+      "score": "FINAL MIN (1) - CHI (4)"
+    },
+    {
+      "date": "Tue Jan 13, 2015",
+      "score": "FINAL MIN (2) - PIT (7)"
+    },
+    {
+      "date": "Thu Jan 15, 2015",
+      "score": "FINAL MIN (7) - BUF (0)"
+    },
+    {
+      "date": "Sat Jan 17, 2015",
+      "score": "FINAL ARI (1) - MIN (3)"
+    },
+    {
+      "date": "Mon Jan 19, 2015",
+      "score": "FINAL CBJ (3) - MIN (1)"
+    },
+    {
+      "date": "Tue Jan 20, 2015",
+      "score": "FINAL MIN (4) - DET (5) SO"
+    },
+    {
+      "date": "Tue Jan 27, 2015",
+      "score": "FINAL MIN (2) - EDM (1)"
+    },
+    {
+      "date": "Thu Jan 29, 2015",
+      "score": "FINAL MIN (1) - CGY (0)"
+    },
+    {
+      "date": "Sun Feb 1, 2015",
+      "score": "FINAL MIN (4) - VAN (2)"
+    },
+    {
+      "date": "Tue Feb 3, 2015",
+      "score": "FINAL CHI (0) - MIN (3)"
+    },
+    {
+      "date": "Sat Feb 7, 2015",
+      "score": "FINAL COL (0) - MIN (1)"
+    },
+    {
+      "date": "Mon Feb 9, 2015",
+      "score": "FINAL VAN (3) - MIN (5)"
+    },
+    {
+      "date": "Tue Feb 10, 2015",
+      "score": "FINAL MIN (1) - WPG (2) OT"
+    },
+    {
+      "date": "Thu Feb 12, 2015",
+      "score": "FINAL FLA (1) - MIN (2)"
+    },
+    {
+      "date": "Sat Feb 14, 2015",
+      "score": "FINAL CAR (3) - MIN (6)"
+    },
+    {
+      "date": "Mon Feb 16, 2015",
+      "score": "FINAL MIN (2) - VAN (3)"
+    },
+    {
+      "date": "Wed Feb 18, 2015",
+      "score": "FINAL MIN (3) - CGY (2) OT"
+    },
+    {
+      "date": "Fri Feb 20, 2015",
+      "score": "FINAL MIN (4) - EDM (0)"
+    },
+    {
+      "date": "Sun Feb 22, 2015",
+      "score": "FINAL DAL (2) - MIN (6)"
+    },
+    {
+      "date": "Tue Feb 24, 2015",
+      "score": "FINAL EDM (2) - MIN (1)"
+    },
+    {
+      "date": "Thu Feb 26, 2015",
+      "score": "FINAL MIN (4) - NSH (2)"
+    },
+    {
+      "date": "Sat Feb 28, 2015",
+      "score": "FINAL MIN (3) - COL (1)"
+    },
+    {
+      "date": "Tue Mar 3, 2015",
+      "score": "FINAL OTT (2) - MIN (3) SO"
+    },
+    {
+      "date": "Thu Mar 5, 2015",
+      "score": "FINAL MIN (2) - WSH (1)"
+    },
+    {
+      "date": "Fri Mar 6, 2015",
+      "score": "FINAL MIN (3) - CAR (1)"
+    },
+    {
+      "date": "Sun Mar 8, 2015",
+      "score": "FINAL COL (3) - MIN (2)"
+    },
+    {
+      "date": "Tue Mar 10, 2015",
+      "score": "FINAL NJD (2) - MIN (6)"
+    },
+    {
+      "date": "Fri Mar 13, 2015",
+      "score": "FINAL ANA (2) - MIN (1)"
+    },
+    {
+      "date": "Sat Mar 14, 2015",
+      "score": "FINAL MIN (3) - STL (1)"
+    },
+    {
+      "date": "Tue Mar 17, 2015",
+      "score": "FINAL MIN (3) - NSH (2) OT"
+    },
+    {
+      "date": "Thu Mar 19, 2015",
+      "score": "FINAL WSH (3) - MIN (2)"
+    },
+    {
+      "date": "Sat Mar 21, 2015",
+      "score": "FINAL STL (3) - MIN (6)"
+    },
+    {
+      "date": "Mon Mar 23, 2015",
+      "score": "FINAL MIN (2) - TOR (1)"
+    },
+    {
+      "date": "Tue Mar 24, 2015",
+      "score": "FINAL MIN (2) - NYI (1) SO"
+    },
+    {
+      "date": "Fri Mar 27, 2015",
+      "score": "FINAL CGY (2) - MIN (4)"
+    },
+    {
+      "date": "Sat Mar 28, 2015",
+      "score": "FINAL LAK (1) - MIN (4)"
+    },
+    {
+      "date": "Thu Apr 2, 2015",
+      "score": "FINAL NYR (3) - MIN (2)"
+    },
+    {
+      "date": "Sat Apr 4, 2015",
+      "score": "FINAL DET (3) - MIN (2) SO"
+    },
+    {
+      "date": "Mon Apr 6, 2015",
+      "score": "FINAL WPG (2) - MIN (0)"
+    },
+    {
+      "date": "Tue Apr 7, 2015",
+      "score": "FINAL MIN (2) - CHI (1)"
+    },
+    {
+      "date": "Thu Apr 9, 2015",
+      "score": "FINAL MIN (4) - NSH (2)"
+    },
+    {
+      "date": "Sat Apr 11, 2015",
+      "score": "FINAL MIN (2) - STL (4)"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "hurricanes-season": [
+    {
+      "date": "Fri Oct 10, 2014",
+      "score": "FINAL NYI (5) - CAR (3)"
+    },
+    {
+      "date": "Sat Oct 11, 2014",
+      "score": "FINAL CAR (3) - NYI (4)"
+    },
+    {
+      "date": "Tue Oct 14, 2014",
+      "score": "FINAL BUF (4) - CAR (3) SO"
+    },
+    {
+      "date": "Thu Oct 16, 2014",
+      "score": "FINAL CAR (1) - NYR (2) SO"
+    },
+    {
+      "date": "Tue Oct 21, 2014",
+      "score": "FINAL CAR (1) - WPG (3)"
+    },
+    {
+      "date": "Thu Oct 23, 2014",
+      "score": "FINAL CAR (0) - CGY (5)"
+    },
+    {
+      "date": "Fri Oct 24, 2014",
+      "score": "FINAL CAR (3) - EDM (6)"
+    },
+    {
+      "date": "Tue Oct 28, 2014",
+      "score": "FINAL CAR (1) - VAN (4)"
+    },
+    {
+      "date": "Sat Nov 1, 2014",
+      "score": "FINAL ARI (0) - CAR (3)"
+    },
+    {
+      "date": "Sun Nov 2, 2014",
+      "score": "FINAL LAK (2) - CAR (3)"
+    },
+    {
+      "date": "Tue Nov 4, 2014",
+      "score": "FINAL CAR (4) - CBJ (2)"
+    },
+    {
+      "date": "Fri Nov 7, 2014",
+      "score": "FINAL CBJ (2) - CAR (3) OT"
+    },
+    {
+      "date": "Sat Nov 8, 2014",
+      "score": "FINAL CAR (3) - WSH (4) OT"
+    },
+    {
+      "date": "Mon Nov 10, 2014",
+      "score": "FINAL CGY (1) - CAR (4)"
+    },
+    {
+      "date": "Thu Nov 13, 2014",
+      "score": "FINAL WPG (3) - CAR (1)"
+    },
+    {
+      "date": "Sat Nov 15, 2014",
+      "score": "FINAL CAR (1) - BOS (2)"
+    },
+    {
+      "date": "Sun Nov 16, 2014",
+      "score": "FINAL SJS (2) - CAR (0)"
+    },
+    {
+      "date": "Tue Nov 18, 2014",
+      "score": "FINAL CAR (6) - DAL (4)"
+    },
+    {
+      "date": "Thu Nov 20, 2014",
+      "score": "FINAL CAR (2) - LAK (3)"
+    },
+    {
+      "date": "Sat Nov 22, 2014",
+      "score": "FINAL CAR (3) - COL (4)"
+    },
+    {
+      "date": "Wed Nov 26, 2014",
+      "score": "FINAL CAR (0) - FLA (1)"
+    },
+    {
+      "date": "Fri Nov 28, 2014",
+      "score": "FINAL CAR (4) - PIT (2)"
+    },
+    {
+      "date": "Sat Nov 29, 2014",
+      "score": "FINAL PIT (3) - CAR (2)"
+    },
+    {
+      "date": "Tue Dec 2, 2014",
+      "score": "FINAL NSH (1) - CAR (2)"
+    },
+    {
+      "date": "Thu Dec 4, 2014",
+      "score": "FINAL WSH (2) - CAR (1)"
+    },
+    {
+      "date": "Sun Dec 7, 2014",
+      "score": "FINAL DET (3) - CAR (1)"
+    },
+    {
+      "date": "Mon Dec 8, 2014",
+      "score": "FINAL NJD (2) - CAR (1)"
+    },
+    {
+      "date": "Thu Dec 11, 2014",
+      "score": "FINAL CAR (1) - TBL (2)"
+    },
+    {
+      "date": "Sat Dec 13, 2014",
+      "score": "FINAL CAR (1) - PHI (5)"
+    },
+    {
+      "date": "Tue Dec 16, 2014",
+      "score": "FINAL CAR (1) - MTL (4)"
+    },
+    {
+      "date": "Thu Dec 18, 2014",
+      "score": "FINAL TOR (1) - CAR (4)"
+    },
+    {
+      "date": "Sat Dec 20, 2014",
+      "score": "FINAL NYR (3) - CAR (2) SO"
+    },
+    {
+      "date": "Sun Dec 21, 2014",
+      "score": "FINAL CAR (0) - NYR (1)"
+    },
+    {
+      "date": "Tue Dec 23, 2014",
+      "score": "FINAL CAR (2) - NJD (1) SO"
+    },
+    {
+      "date": "Sat Dec 27, 2014",
+      "score": "FINAL CAR (1) - TBL (2)"
+    },
+    {
+      "date": "Mon Dec 29, 2014",
+      "score": "FINAL MTL (3) - CAR (1)"
+    },
+    {
+      "date": "Wed Dec 31, 2014",
+      "score": "FINAL CAR (1) - PIT (2)"
+    },
+    {
+      "date": "Fri Jan 2, 2015",
+      "score": "FINAL PHI (1) - CAR (2)"
+    },
+    {
+      "date": "Sun Jan 4, 2015",
+      "score": "FINAL BOS (1) - CAR (2) SO"
+    },
+    {
+      "date": "Tue Jan 6, 2015",
+      "score": "FINAL CAR (2) - NSH (3)"
+    },
+    {
+      "date": "Thu Jan 8, 2015",
+      "score": "FINAL BUF (2) - CAR (5)"
+    },
+    {
+      "date": "Sat Jan 10, 2015",
+      "score": "FINAL CAR (4) - STL (5) SO"
+    },
+    {
+      "date": "Tue Jan 13, 2015",
+      "score": "FINAL COL (2) - CAR (3) SO"
+    },
+    {
+      "date": "Fri Jan 16, 2015",
+      "score": "FINAL VAN (3) - CAR (0)"
+    },
+    {
+      "date": "Sat Jan 17, 2015",
+      "score": "FINAL CAR (3) - OTT (2)"
+    },
+    {
+      "date": "Mon Jan 19, 2015",
+      "score": "FINAL CAR (4) - TOR (1)"
+    },
+    {
+      "date": "Tue Jan 27, 2015",
+      "score": "FINAL TBL (2) - CAR (4)"
+    },
+    {
+      "date": "Fri Jan 30, 2015",
+      "score": "FINAL STL (3) - CAR (2) SO"
+    },
+    {
+      "date": "Sat Jan 31, 2015",
+      "score": "FINAL CAR (1) - NYR (4)"
+    },
+    {
+      "date": "Tue Feb 3, 2015",
+      "score": "FINAL CAR (4) - ANA (5) OT"
+    },
+    {
+      "date": "Thu Feb 5, 2015",
+      "score": "FINAL CAR (2) - ARI (1) SO"
+    },
+    {
+      "date": "Sat Feb 7, 2015",
+      "score": "FINAL CAR (5) - SJS (4)"
+    },
+    {
+      "date": "Thu Feb 12, 2015",
+      "score": "FINAL ANA (2) - CAR (1)"
+    },
+    {
+      "date": "Sat Feb 14, 2015",
+      "score": "FINAL CAR (3) - MIN (6)"
+    },
+    {
+      "date": "Mon Feb 16, 2015",
+      "score": "FINAL CAR (6) - OTT (3)"
+    },
+    {
+      "date": "Tue Feb 17, 2015",
+      "score": "FINAL NYI (4) - CAR (1)"
+    },
+    {
+      "date": "Fri Feb 20, 2015",
+      "score": "FINAL TOR (1) - CAR (2)"
+    },
+    {
+      "date": "Sat Feb 21, 2015",
+      "score": "FINAL CAR (1) - NJD (3)"
+    },
+    {
+      "date": "Tue Feb 24, 2015",
+      "score": "FINAL PHI (1) - CAR (4)"
+    },
+    {
+      "date": "Fri Feb 27, 2015",
+      "score": "FINAL WSH (0) - CAR (3)"
+    },
+    {
+      "date": "Sat Feb 28, 2015",
+      "score": "FINAL CAR (5) - NYI (3)"
+    },
+    {
+      "date": "Mon Mar 2, 2015",
+      "score": "FINAL CAR (2) - CHI (5)"
+    },
+    {
+      "date": "Fri Mar 6, 2015",
+      "score": "FINAL MIN (3) - CAR (1)"
+    },
+    {
+      "date": "Sun Mar 8, 2015",
+      "score": "FINAL EDM (4) - CAR (7)"
+    },
+    {
+      "date": "Tue Mar 10, 2015",
+      "score": "FINAL CBJ (4) - CAR (3) SO"
+    },
+    {
+      "date": "Thu Mar 12, 2015",
+      "score": "FINAL DAL (5) - CAR (3)"
+    },
+    {
+      "date": "Sat Mar 14, 2015",
+      "score": "FINAL FLA (2) - CAR (0)"
+    },
+    {
+      "date": "Sun Mar 15, 2015",
+      "score": "FINAL CAR (3) - CBJ (2)"
+    },
+    {
+      "date": "Tue Mar 17, 2015",
+      "score": "FINAL OTT (2) - CAR (1) OT"
+    },
+    {
+      "date": "Thu Mar 19, 2015",
+      "score": "FINAL CAR (0) - MTL (4)"
+    },
+    {
+      "date": "Sat Mar 21, 2015",
+      "score": "FINAL NYR (3) - CAR (2) SO"
+    },
+    {
+      "date": "Mon Mar 23, 2015",
+      "score": "FINAL CHI (3) - CAR (1)"
+    },
+    {
+      "date": "Thu Mar 26, 2015",
+      "score": "FINAL PIT (2) - CAR (5)"
+    },
+    {
+      "date": "Sat Mar 28, 2015",
+      "score": "FINAL NJD (1) - CAR (3)"
+    },
+    {
+      "date": "Sun Mar 29, 2015",
+      "score": "FINAL BOS (2) - CAR (1) OT"
+    },
+    {
+      "date": "Tue Mar 31, 2015",
+      "score": "FINAL CAR (2) - WSH (4)"
+    },
+    {
+      "date": "Thu Apr 2, 2015",
+      "score": "FINAL CAR (1) - FLA (6)"
+    },
+    {
+      "date": "Sat Apr 4, 2015",
+      "score": "FINAL PHI (2) - CAR (3) SO"
+    },
+    {
+      "date": "Mon Apr 6, 2015",
+      "score": "FINAL CAR (3) - BUF (4)"
+    },
+    {
+      "date": "Tue Apr 7, 2015",
+      "score": "FINAL CAR (2) - DET (3)"
+    },
+    {
+      "date": "Thu Apr 9, 2015",
+      "score": "FINAL CAR (3) - PHI (1)"
+    },
+    {
+      "date": "Sat Apr 11, 2015",
+      "score": "FINAL DET (2) - CAR (0)"
+    }
+  ]
+}

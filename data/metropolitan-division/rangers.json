@@ -1,0 +1,332 @@
+{
+  "rangers-season": [
+    {
+      "date": "Thu Oct 9, 2014",
+      "score": "FINAL NYR (3) - STL (2)"
+    },
+    {
+      "date": "Sat Oct 11, 2014",
+      "score": "FINAL NYR (2) - CBJ (5)"
+    },
+    {
+      "date": "Sun Oct 12, 2014",
+      "score": "FINAL TOR (6) - NYR (3)"
+    },
+    {
+      "date": "Tue Oct 14, 2014",
+      "score": "FINAL NYI (6) - NYR (3)"
+    },
+    {
+      "date": "Thu Oct 16, 2014",
+      "score": "FINAL CAR (1) - NYR (2) SO"
+    },
+    {
+      "date": "Sun Oct 19, 2014",
+      "score": "FINAL SJS (0) - NYR (4)"
+    },
+    {
+      "date": "Tue Oct 21, 2014",
+      "score": "FINAL NYR (4) - NJD (3) OT"
+    },
+    {
+      "date": "Sat Oct 25, 2014",
+      "score": "FINAL NYR (1) - MTL (3)"
+    },
+    {
+      "date": "Mon Oct 27, 2014",
+      "score": "FINAL MIN (4) - NYR (5)"
+    },
+    {
+      "date": "Sat Nov 1, 2014",
+      "score": "FINAL WPG (1) - NYR (0) SO"
+    },
+    {
+      "date": "Mon Nov 3, 2014",
+      "score": "FINAL STL (4) - NYR (3) SO"
+    },
+    {
+      "date": "Wed Nov 5, 2014",
+      "score": "FINAL DET (3) - NYR (4) OT"
+    },
+    {
+      "date": "Sat Nov 8, 2014",
+      "score": "FINAL NYR (4) - TOR (5)"
+    },
+    {
+      "date": "Sun Nov 9, 2014",
+      "score": "FINAL EDM (3) - NYR (1)"
+    },
+    {
+      "date": "Tue Nov 11, 2014",
+      "score": "FINAL PIT (0) - NYR (5)"
+    },
+    {
+      "date": "Thu Nov 13, 2014",
+      "score": "FINAL COL (4) - NYR (3) SO"
+    },
+    {
+      "date": "Sat Nov 15, 2014",
+      "score": "FINAL NYR (2) - PIT (3) SO"
+    },
+    {
+      "date": "Mon Nov 17, 2014",
+      "score": "FINAL TBL (5) - NYR (1)"
+    },
+    {
+      "date": "Wed Nov 19, 2014",
+      "score": "FINAL PHI (0) - NYR (2)"
+    },
+    {
+      "date": "Sun Nov 23, 2014",
+      "score": "FINAL MTL (0) - NYR (5)"
+    },
+    {
+      "date": "Wed Nov 26, 2014",
+      "score": "FINAL NYR (3) - TBL (4)"
+    },
+    {
+      "date": "Fri Nov 28, 2014",
+      "score": "FINAL NYR (3) - PHI (0)"
+    },
+    {
+      "date": "Sat Nov 29, 2014",
+      "score": "FINAL PHI (2) - NYR (5)"
+    },
+    {
+      "date": "Mon Dec 1, 2014",
+      "score": "FINAL TBL (6) - NYR (3)"
+    },
+    {
+      "date": "Sat Dec 6, 2014",
+      "score": "FINAL NYR (2) - DET (3)"
+    },
+    {
+      "date": "Mon Dec 8, 2014",
+      "score": "FINAL PIT (3) - NYR (4) OT"
+    },
+    {
+      "date": "Sat Dec 13, 2014",
+      "score": "FINAL NYR (5) - VAN (1)"
+    },
+    {
+      "date": "Sun Dec 14, 2014",
+      "score": "FINAL NYR (2) - EDM (0)"
+    },
+    {
+      "date": "Tue Dec 16, 2014",
+      "score": "FINAL NYR (5) - CGY (2)"
+    },
+    {
+      "date": "Sat Dec 20, 2014",
+      "score": "FINAL NYR (3) - CAR (2) SO"
+    },
+    {
+      "date": "Sun Dec 21, 2014",
+      "score": "FINAL CAR (0) - NYR (1)"
+    },
+    {
+      "date": "Tue Dec 23, 2014",
+      "score": "FINAL WSH (2) - NYR (4)"
+    },
+    {
+      "date": "Sat Dec 27, 2014",
+      "score": "FINAL NJD (1) - NYR (3)"
+    },
+    {
+      "date": "Mon Dec 29, 2014",
+      "score": "FINAL NYR (2) - DAL (3)"
+    },
+    {
+      "date": "Wed Dec 31, 2014",
+      "score": "FINAL NYR (5) - FLA (2)"
+    },
+    {
+      "date": "Sat Jan 3, 2015",
+      "score": "FINAL BUF (1) - NYR (6)"
+    },
+    {
+      "date": "Wed Jan 7, 2015",
+      "score": "FINAL NYR (4) - ANA (1)"
+    },
+    {
+      "date": "Thu Jan 8, 2015",
+      "score": "FINAL NYR (4) - LAK (3)"
+    },
+    {
+      "date": "Sat Jan 10, 2015",
+      "score": "FINAL NYR (3) - SJS (1)"
+    },
+    {
+      "date": "Tue Jan 13, 2015",
+      "score": "FINAL NYI (3) - NYR (0)"
+    },
+    {
+      "date": "Thu Jan 15, 2015",
+      "score": "FINAL NYR (0) - BOS (3)"
+    },
+    {
+      "date": "Fri Jan 16, 2015",
+      "score": "FINAL NYR (2) - CBJ (1)"
+    },
+    {
+      "date": "Sun Jan 18, 2015",
+      "score": "FINAL NYR (5) - PIT (2)"
+    },
+    {
+      "date": "Tue Jan 20, 2015",
+      "score": "FINAL OTT (2) - NYR (3) OT"
+    },
+    {
+      "date": "Tue Jan 27, 2015",
+      "score": "FINAL NYR (1) - NYI (4)"
+    },
+    {
+      "date": "Thu Jan 29, 2015",
+      "score": "FINAL MTL (1) - NYR (0)"
+    },
+    {
+      "date": "Sat Jan 31, 2015",
+      "score": "FINAL CAR (1) - NYR (4)"
+    },
+    {
+      "date": "Mon Feb 2, 2015",
+      "score": "FINAL FLA (3) - NYR (6)"
+    },
+    {
+      "date": "Wed Feb 4, 2015",
+      "score": "FINAL BOS (2) - NYR (3)"
+    },
+    {
+      "date": "Sat Feb 7, 2015",
+      "score": "FINAL NYR (2) - NSH (3)"
+    },
+    {
+      "date": "Sun Feb 8, 2015",
+      "score": "FINAL DAL (3) - NYR (2) OT"
+    },
+    {
+      "date": "Tue Feb 10, 2015",
+      "score": "FINAL NYR (5) - TOR (4)"
+    },
+    {
+      "date": "Thu Feb 12, 2015",
+      "score": "FINAL NYR (6) - COL (3)"
+    },
+    {
+      "date": "Sat Feb 14, 2015",
+      "score": "FINAL NYR (5) - ARI (1)"
+    },
+    {
+      "date": "Mon Feb 16, 2015",
+      "score": "FINAL NYR (6) - NYI (5)"
+    },
+    {
+      "date": "Thu Feb 19, 2015",
+      "score": "FINAL VAN (5) - NYR (4) SO"
+    },
+    {
+      "date": "Fri Feb 20, 2015",
+      "score": "FINAL NYR (3) - BUF (1)"
+    },
+    {
+      "date": "Sun Feb 22, 2015",
+      "score": "FINAL CBJ (3) - NYR (4) SO"
+    },
+    {
+      "date": "Tue Feb 24, 2015",
+      "score": "FINAL CGY (0) - NYR (1)"
+    },
+    {
+      "date": "Thu Feb 26, 2015",
+      "score": "FINAL ARI (3) - NYR (4)"
+    },
+    {
+      "date": "Sat Feb 28, 2015",
+      "score": "FINAL NYR (2) - PHI (4)"
+    },
+    {
+      "date": "Mon Mar 2, 2015",
+      "score": "FINAL NSH (1) - NYR (4)"
+    },
+    {
+      "date": "Wed Mar 4, 2015",
+      "score": "FINAL NYR (1) - DET (2) OT"
+    },
+    {
+      "date": "Sun Mar 8, 2015",
+      "score": "FINAL NYR (1) - CHI (0) OT"
+    },
+    {
+      "date": "Tue Mar 10, 2015",
+      "score": "FINAL NYR (2) - NYI (1)"
+    },
+    {
+      "date": "Wed Mar 11, 2015",
+      "score": "FINAL NYR (3) - WSH (1)"
+    },
+    {
+      "date": "Sat Mar 14, 2015",
+      "score": "FINAL NYR (2) - BUF (0)"
+    },
+    {
+      "date": "Sun Mar 15, 2015",
+      "score": "FINAL FLA (1) - NYR (2)"
+    },
+    {
+      "date": "Wed Mar 18, 2015",
+      "score": "FINAL CHI (1) - NYR (0)"
+    },
+    {
+      "date": "Sat Mar 21, 2015",
+      "score": "FINAL NYR (3) - CAR (2) SO"
+    },
+    {
+      "date": "Sun Mar 22, 2015",
+      "score": "FINAL ANA (2) - NYR (7)"
+    },
+    {
+      "date": "Tue Mar 24, 2015",
+      "score": "FINAL LAK (4) - NYR (2)"
+    },
+    {
+      "date": "Thu Mar 26, 2015",
+      "score": "FINAL NYR (5) - OTT (1)"
+    },
+    {
+      "date": "Sat Mar 28, 2015",
+      "score": "FINAL NYR (2) - BOS (4)"
+    },
+    {
+      "date": "Sun Mar 29, 2015",
+      "score": "FINAL WSH (5) - NYR (2)"
+    },
+    {
+      "date": "Tue Mar 31, 2015",
+      "score": "FINAL NYR (3) - WPG (2)"
+    },
+    {
+      "date": "Thu Apr 2, 2015",
+      "score": "FINAL NYR (3) - MIN (2)"
+    },
+    {
+      "date": "Sat Apr 4, 2015",
+      "score": "FINAL NJD (1) - NYR (6)"
+    },
+    {
+      "date": "Mon Apr 6, 2015",
+      "score": "FINAL CBJ (3) - NYR (4) OT"
+    },
+    {
+      "date": "Tue Apr 7, 2015",
+      "score": "FINAL NYR (4) - NJD (2)"
+    },
+    {
+      "date": "Thu Apr 9, 2015",
+      "score": "FINAL OTT (3) - NYR (0)"
+    },
+    {
+      "date": "Sat Apr 11, 2015",
+      "score": "FINAL NYR (4) - WSH (2)"
+    }
+  ]
+}

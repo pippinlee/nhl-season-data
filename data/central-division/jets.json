@@ -1,0 +1,332 @@
+{
+  "jets-season": [
+    {
+      "date": "Thu, 9 Oct 2014",
+      "score": "FINAL WPG (6) - ARI (2)"
+    },
+    {
+      "date": "Sat, 11 Oct 2014",
+      "score": "FINAL WPG (0) - SJS (3)"
+    },
+    {
+      "date": "Sun, 12 Oct 2014",
+      "score": "FINAL WPG (1) - LAK (4)"
+    },
+    {
+      "date": "Fri, 17 Oct 2014",
+      "score": "FINAL NSH (2) - WPG (0)"
+    },
+    {
+      "date": "Sun, 19 Oct 2014",
+      "score": "FINAL CGY (4) - WPG (1)"
+    },
+    {
+      "date": "Tue, 21 Oct 2014",
+      "score": "FINAL CAR (1) - WPG (3)"
+    },
+    {
+      "date": "Fri, 24 Oct 2014",
+      "score": "FINAL TBL (4) - WPG (2)"
+    },
+    {
+      "date": "Sun, 26 Oct 2014",
+      "score": "FINAL COL (1) - WPG (2) OT"
+    },
+    {
+      "date": "Tue, 28 Oct 2014",
+      "score": "FINAL WPG (4) - NYI (3)"
+    },
+    {
+      "date": "Thu, 30 Oct 2014",
+      "score": "FINAL WPG (1) - NJD (2) SO"
+    },
+    {
+      "date": "Sat, 1 Nov 2014",
+      "score": "FINAL WPG (1) - NYR (0) SO"
+    },
+    {
+      "date": "Sun, 2 Nov 2014",
+      "score": "FINAL WPG (1) - CHI (0)"
+    },
+    {
+      "date": "Tue, 4 Nov 2014",
+      "score": "FINAL NSH (1) - WPG (3)"
+    },
+    {
+      "date": "Thu, 6 Nov 2014",
+      "score": "FINAL PIT (4) - WPG (3) SO"
+    },
+    {
+      "date": "Sat, 8 Nov 2014",
+      "score": "FINAL WPG (2) - OTT (1) SO"
+    },
+    {
+      "date": "Tue, 11 Nov 2014",
+      "score": "FINAL WPG (0) - MTL (3)"
+    },
+    {
+      "date": "Thu, 13 Nov 2014",
+      "score": "FINAL WPG (3) - CAR (1)"
+    },
+    {
+      "date": "Sat, 15 Nov 2014",
+      "score": "FINAL WPG (1) - NSH (2)"
+    },
+    {
+      "date": "Sun, 16 Nov 2014",
+      "score": "FINAL WPG (3) - MIN (4) OT"
+    },
+    {
+      "date": "Tue, 18 Nov 2014",
+      "score": "FINAL NJD (1) - WPG (3)"
+    },
+    {
+      "date": "Thu, 20 Nov 2014",
+      "score": "FINAL DET (4) - WPG (3)"
+    },
+    {
+      "date": "Sun, 23 Nov 2014",
+      "score": "FINAL STL (4) - WPG (2)"
+    },
+    {
+      "date": "Tue, 25 Nov 2014",
+      "score": "FINAL WPG (4) - CBJ (2)"
+    },
+    {
+      "date": "Wed, 26 Nov 2014",
+      "score": "FINAL WPG (2) - BUF (1)"
+    },
+    {
+      "date": "Fri, 28 Nov 2014",
+      "score": "FINAL WPG (1) - BOS (2) OT"
+    },
+    {
+      "date": "Wed, 3 Dec 2014",
+      "score": "FINAL EDM (2) - WPG (3) OT"
+    },
+    {
+      "date": "Fri, 5 Dec 2014",
+      "score": "FINAL COL (2) - WPG (6)"
+    },
+    {
+      "date": "Sun, 7 Dec 2014",
+      "score": "FINAL ANA (4) - WPG (3) OT"
+    },
+    {
+      "date": "Tue, 9 Dec 2014",
+      "score": "FINAL WPG (5) - DAL (2)"
+    },
+    {
+      "date": "Thu, 11 Dec 2014",
+      "score": "FINAL WPG (3) - COL (4) SO"
+    },
+    {
+      "date": "Sat, 13 Dec 2014",
+      "score": "FINAL ANA (4) - WPG (1)"
+    },
+    {
+      "date": "Tue, 16 Dec 2014",
+      "score": "FINAL BUF (1) - WPG (5)"
+    },
+    {
+      "date": "Fri, 19 Dec 2014",
+      "score": "FINAL BOS (1) - WPG (2)"
+    },
+    {
+      "date": "Sun, 21 Dec 2014",
+      "score": "FINAL PHI (4) - WPG (3) OT"
+    },
+    {
+      "date": "Tue, 23 Dec 2014",
+      "score": "FINAL WPG (5) - CHI (1)"
+    },
+    {
+      "date": "Sat, 27 Dec 2014",
+      "score": "FINAL WPG (4) - MIN (3) OT"
+    },
+    {
+      "date": "Mon, 29 Dec 2014",
+      "score": "FINAL MIN (3) - WPG (2)"
+    },
+    {
+      "date": "Wed, 31 Dec 2014",
+      "score": "FINAL NYI (5) - WPG (2)"
+    },
+    {
+      "date": "Sat, 3 Jan 2015",
+      "score": "FINAL TOR (1) - WPG (5)"
+    },
+    {
+      "date": "Mon, 5 Jan 2015",
+      "score": "FINAL SJS (3) - WPG (2)"
+    },
+    {
+      "date": "Thu, 8 Jan 2015",
+      "score": "FINAL WPG (1) - ARI (4)"
+    },
+    {
+      "date": "Sat, 10 Jan 2015",
+      "score": "FINAL WPG (5) - LAK (4) SO"
+    },
+    {
+      "date": "Sun, 11 Jan 2015",
+      "score": "FINAL WPG (4) - ANA (5) SO"
+    },
+    {
+      "date": "Tue, 13 Jan 2015",
+      "score": "FINAL FLA (2) - WPG (8)"
+    },
+    {
+      "date": "Thu, 15 Jan 2015",
+      "score": "FINAL WPG (2) - DAL (1)"
+    },
+    {
+      "date": "Fri, 16 Jan 2015",
+      "score": "FINAL WPG (4) - CHI (2)"
+    },
+    {
+      "date": "Sun, 18 Jan 2015",
+      "score": "FINAL ARI (3) - WPG (4) SO"
+    },
+    {
+      "date": "Wed, 21 Jan 2015",
+      "score": "FINAL CBJ (0) - WPG (4)"
+    },
+    {
+      "date": "Tue, 27 Jan 2015",
+      "score": "FINAL WPG (3) - PIT (5)"
+    },
+    {
+      "date": "Thu, 29 Jan 2015",
+      "score": "FINAL WPG (2) - PHI (5)"
+    },
+    {
+      "date": "Sat, 31 Jan 2015",
+      "score": "FINAL DAL (5) - WPG (2)"
+    },
+    {
+      "date": "Mon, 2 Feb 2015",
+      "score": "FINAL WPG (2) - CGY (5)"
+    },
+    {
+      "date": "Tue, 3 Feb 2015",
+      "score": "FINAL WPG (2) - VAN (3) OT"
+    },
+    {
+      "date": "Fri, 6 Feb 2015",
+      "score": "FINAL CHI (2) - WPG (1) OT"
+    },
+    {
+      "date": "Sun, 8 Feb 2015",
+      "score": "FINAL COL (3) - WPG (5)"
+    },
+    {
+      "date": "Tue, 10 Feb 2015",
+      "score": "FINAL MIN (1) - WPG (2) OT"
+    },
+    {
+      "date": "Thu, 12 Feb 2015",
+      "score": "FINAL WPG (1) - NSH (3)"
+    },
+    {
+      "date": "Sat, 14 Feb 2015",
+      "score": "FINAL WPG (5) - DET (4) SO"
+    },
+    {
+      "date": "Mon, 16 Feb 2015",
+      "score": "FINAL EDM (4) - WPG (5) SO"
+    },
+    {
+      "date": "Thu, 19 Feb 2015",
+      "score": "FINAL WPG (1) - WSH (5)"
+    },
+    {
+      "date": "Sat, 21 Feb 2015",
+      "score": "FINAL WPG (3) - TOR (4) OT"
+    },
+    {
+      "date": "Tue, 24 Feb 2015",
+      "score": "FINAL DAL (2) - WPG (4)"
+    },
+    {
+      "date": "Thu, 26 Feb 2015",
+      "score": "FINAL STL (2) - WPG (1) SO"
+    },
+    {
+      "date": "Sun, 1 Mar 2015",
+      "score": "FINAL LAK (2) - WPG (5)"
+    },
+    {
+      "date": "Wed, 4 Mar 2015",
+      "score": "FINAL OTT (3) - WPG (1)"
+    },
+    {
+      "date": "Sat, 7 Mar 2015",
+      "score": "FINAL WPG (3) - NSH (1)"
+    },
+    {
+      "date": "Tue, 10 Mar 2015",
+      "score": "FINAL WPG (4) - STL (5)"
+    },
+    {
+      "date": "Thu, 12 Mar 2015",
+      "score": "FINAL WPG (2) - FLA (4)"
+    },
+    {
+      "date": "Sat, 14 Mar 2015",
+      "score": "FINAL WPG (2) - TBL (1)"
+    },
+    {
+      "date": "Tue, 17 Mar 2015",
+      "score": "FINAL SJS (2) - WPG (5)"
+    },
+    {
+      "date": "Thu, 19 Mar 2015",
+      "score": "FINAL STL (1) - WPG (2) SO"
+    },
+    {
+      "date": "Sat, 21 Mar 2015",
+      "score": "FINAL WSH (0) - WPG (3)"
+    },
+    {
+      "date": "Mon, 23 Mar 2015",
+      "score": "FINAL WPG (4) - EDM (1)"
+    },
+    {
+      "date": "Tue, 24 Mar 2015",
+      "score": "FINAL WPG (2) - VAN (5)"
+    },
+    {
+      "date": "Thu, 26 Mar 2015",
+      "score": "FINAL MTL (2) - WPG (5)"
+    },
+    {
+      "date": "Sun, 29 Mar 2015",
+      "score": "FINAL CHI (4) - WPG (3)"
+    },
+    {
+      "date": "Tue, 31 Mar 2015",
+      "score": "FINAL NYR (3) - WPG (2)"
+    },
+    {
+      "date": "Sat, 4 Apr 2015",
+      "score": "FINAL VAN (4) - WPG (5)"
+    },
+    {
+      "date": "Mon, 6 Apr 2015",
+      "score": "FINAL WPG (2) - MIN (0)"
+    },
+    {
+      "date": "Tue, 7 Apr 2015",
+      "score": "FINAL WPG (1) - STL (0)"
+    },
+    {
+      "date": "Thu, 9 Apr 2015",
+      "score": "FINAL WPG (0) - COL (1) SO"
+    },
+    {
+      "date": "Sat, 11 Apr 2015",
+      "score": "FINAL CGY (1) - WPG (5)"
+    }
+  ]
+}
