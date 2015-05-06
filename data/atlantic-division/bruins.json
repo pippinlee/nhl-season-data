@@ -1,332 +1,496 @@
 {
-  "bruins-season": [
+  "bruins-season":[
     {
-      "date": "Wed Oct 8, 2014",
-      "score": "FINAL PHI (1) - BOS (2)"
+      "date":"Wed Oct 8, 2014",
+      "score":"BOS (2) - PHI (1)",
+      "points":2,
+      "totalPoints":2
     },
     {
-      "date": "Thu Oct 9, 2014",
-      "score": "FINAL BOS (1) - DET (2)"
+      "date":"Thu Oct 9, 2014",
+      "score":"BOS (1) - DET (2)",
+      "points":0,
+      "totalPoints":2
     },
     {
-      "date": "Sat Oct 11, 2014",
-      "score": "FINAL WSH (4) - BOS (0)"
+      "date":"Sat Oct 11, 2014",
+      "score":"BOS (0) - WSH (4)",
+      "points":0,
+      "totalPoints":2
     },
     {
-      "date": "Mon Oct 13, 2014",
-      "score": "FINAL COL (2) - BOS (1)"
+      "date":"Mon Oct 13, 2014",
+      "score":"BOS (1) - COL (2)",
+      "points":0,
+      "totalPoints":2
     },
     {
-      "date": "Wed Oct 15, 2014",
-      "score": "FINAL BOS (3) - DET (2) SO"
+      "date":"Wed Oct 15, 2014",
+      "score":"BOS (3) - DET (2)",
+      "points":2,
+      "totalPoints":4
     },
     {
-      "date": "Thu Oct 16, 2014",
-      "score": "FINAL BOS (4) - MTL (6)"
+      "date":"Thu Oct 16, 2014",
+      "score":"BOS (4) - MTL (6)",
+      "points":0,
+      "totalPoints":4
     },
     {
-      "date": "Sat Oct 18, 2014",
-      "score": "FINAL BOS (4) - BUF (0)"
+      "date":"Sat Oct 18, 2014",
+      "score":"BOS (4) - BUF (0)",
+      "points":2,
+      "totalPoints":6
     },
     {
-      "date": "Tue Oct 21, 2014",
-      "score": "FINAL SJS (3) - BOS (5)"
+      "date":"Tue Oct 21, 2014",
+      "score":"BOS (5) - SJS (3)",
+      "points":2,
+      "totalPoints":8
     },
     {
-      "date": "Thu Oct 23, 2014",
-      "score": "FINAL NYI (3) - BOS (2)"
+      "date":"Thu Oct 23, 2014",
+      "score":"BOS (2) - NYI (3)",
+      "points":0,
+      "totalPoints":8
     },
     {
-      "date": "Sat Oct 25, 2014",
-      "score": "FINAL BOS (4) - TOR (1)"
+      "date":"Sat Oct 25, 2014",
+      "score":"BOS (4) - TOR (1)",
+      "points":2,
+      "totalPoints":10
     },
     {
-      "date": "Tue Oct 28, 2014",
-      "score": "FINAL MIN (4) - BOS (3)"
+      "date":"Tue Oct 28, 2014",
+      "score":"BOS (3) - MIN (4)",
+      "points":0,
+      "totalPoints":10
     },
     {
-      "date": "Thu Oct 30, 2014",
-      "score": "FINAL BOS (3) - BUF (2) OT"
+      "date":"Thu Oct 30, 2014",
+      "score":"BOS (3) - BUF (2)",
+      "points":2,
+      "totalPoints":12
     },
     {
-      "date": "Sat Nov 1, 2014",
-      "score": "FINAL OTT (2) - BOS (4)"
+      "date":"Sat Nov 1, 2014",
+      "score":"BOS (4) - OTT (2)",
+      "points":2,
+      "totalPoints":14
     },
     {
-      "date": "Tue Nov 4, 2014",
-      "score": "FINAL FLA (1) - BOS (2) OT"
+      "date":"Tue Nov 4, 2014",
+      "score":"BOS (2) - FLA (1)",
+      "points":2,
+      "totalPoints":16
     },
     {
-      "date": "Thu Nov 6, 2014",
-      "score": "FINAL EDM (2) - BOS (5)"
+      "date":"Thu Nov 6, 2014",
+      "score":"BOS (5) - EDM (2)",
+      "points":2,
+      "totalPoints":18
     },
     {
-      "date": "Mon Nov 10, 2014",
-      "score": "FINAL NJD (2) - BOS (4)"
+      "date":"Mon Nov 10, 2014",
+      "score":"BOS (4) - NJD (2)",
+      "points":2,
+      "totalPoints":20
     },
     {
-      "date": "Wed Nov 12, 2014",
-      "score": "FINAL BOS (1) - TOR (6)"
+      "date":"Wed Nov 12, 2014",
+      "score":"BOS (1) - TOR (6)",
+      "points":0,
+      "totalPoints":20
     },
     {
-      "date": "Thu Nov 13, 2014",
-      "score": "FINAL BOS (1) - MTL (5)"
+      "date":"Thu Nov 13, 2014",
+      "score":"BOS (1) - MTL (5)",
+      "points":0,
+      "totalPoints":20
     },
     {
-      "date": "Sat Nov 15, 2014",
-      "score": "FINAL CAR (1) - BOS (2)"
+      "date":"Sat Nov 15, 2014",
+      "score":"BOS (2) - CAR (1)",
+      "points":2,
+      "totalPoints":22
     },
     {
-      "date": "Tue Nov 18, 2014",
-      "score": "FINAL STL (0) - BOS (2)"
+      "date":"Tue Nov 18, 2014",
+      "score":"BOS (2) - STL (0)",
+      "points":2,
+      "totalPoints":24
     },
     {
-      "date": "Fri Nov 21, 2014",
-      "score": "FINAL BOS (4) - CBJ (3) SO"
+      "date":"Fri Nov 21, 2014",
+      "score":"BOS (4) - CBJ (3)",
+      "points":2,
+      "totalPoints":26
     },
     {
-      "date": "Sat Nov 22, 2014",
-      "score": "FINAL MTL (2) - BOS (0)"
+      "date":"Sat Nov 22, 2014",
+      "score":"BOS (0) - MTL (2)",
+      "points":0,
+      "totalPoints":26
     },
     {
-      "date": "Mon Nov 24, 2014",
-      "score": "FINAL PIT (3) - BOS (2) OT"
+      "date":"Mon Nov 24, 2014",
+      "score":"BOS (2) - PIT (3) OT",
+      "points":1,
+      "totalPoints":27
     },
     {
-      "date": "Fri Nov 28, 2014",
-      "score": "FINAL WPG (1) - BOS (2) OT"
+      "date":"Fri Nov 28, 2014",
+      "score":"BOS (2) - WPG (1)",
+      "points":2,
+      "totalPoints":29
     },
     {
-      "date": "Mon Dec 1, 2014",
-      "score": "FINAL BOS (2) - ANA (3)"
+      "date":"Mon Dec 1, 2014",
+      "score":"BOS (2) - ANA (3)",
+      "points":0,
+      "totalPoints":29
     },
     {
-      "date": "Tue Dec 2, 2014",
-      "score": "FINAL BOS (0) - LAK (2)"
+      "date":"Tue Dec 2, 2014",
+      "score":"BOS (0) - LAK (2)",
+      "points":0,
+      "totalPoints":29
     },
     {
-      "date": "Thu Dec 4, 2014",
-      "score": "FINAL BOS (4) - SJS (7)"
+      "date":"Thu Dec 4, 2014",
+      "score":"BOS (4) - SJS (7)",
+      "points":0,
+      "totalPoints":29
     },
     {
-      "date": "Sat Dec 6, 2014",
-      "score": "FINAL BOS (5) - ARI (2)"
+      "date":"Sat Dec 6, 2014",
+      "score":"BOS (5) - ARI (2)",
+      "points":2,
+      "totalPoints":31
     },
     {
-      "date": "Thu Dec 11, 2014",
-      "score": "FINAL CHI (3) - BOS (2)"
+      "date":"Thu Dec 11, 2014",
+      "score":"BOS (2) - CHI (3)",
+      "points":0,
+      "totalPoints":31
     },
     {
-      "date": "Sat Dec 13, 2014",
-      "score": "FINAL OTT (3) - BOS (2) SO"
+      "date":"Sat Dec 13, 2014",
+      "score":"BOS (2) - OTT (3) OT",
+      "points":1,
+      "totalPoints":32
     },
     {
-      "date": "Tue Dec 16, 2014",
-      "score": "FINAL BOS (2) - NSH (3) SO"
+      "date":"Tue Dec 16, 2014",
+      "score":"BOS (2) - NSH (3) OT",
+      "points":1,
+      "totalPoints":33
     },
     {
-      "date": "Wed Dec 17, 2014",
-      "score": "FINAL BOS (3) - MIN (2) OT"
+      "date":"Wed Dec 17, 2014",
+      "score":"BOS (3) - MIN (2)",
+      "points":2,
+      "totalPoints":35
     },
     {
-      "date": "Fri Dec 19, 2014",
-      "score": "FINAL BOS (1) - WPG (2)"
+      "date":"Fri Dec 19, 2014",
+      "score":"BOS (1) - WPG (2)",
+      "points":0,
+      "totalPoints":35
     },
     {
-      "date": "Sun Dec 21, 2014",
-      "score": "FINAL BUF (3) - BOS (4) OT"
+      "date":"Sun Dec 21, 2014",
+      "score":"BOS (4) - BUF (3)",
+      "points":2,
+      "totalPoints":37
     },
     {
-      "date": "Tue Dec 23, 2014",
-      "score": "FINAL NSH (3) - BOS (5)"
+      "date":"Tue Dec 23, 2014",
+      "score":"BOS (5) - NSH (3)",
+      "points":2,
+      "totalPoints":39
     },
     {
-      "date": "Sat Dec 27, 2014",
-      "score": "FINAL BOS (2) - CBJ (6)"
+      "date":"Sat Dec 27, 2014",
+      "score":"BOS (2) - CBJ (6)",
+      "points":0,
+      "totalPoints":39
     },
     {
-      "date": "Mon Dec 29, 2014",
-      "score": "FINAL DET (2) - BOS (5)"
+      "date":"Mon Dec 29, 2014",
+      "score":"BOS (5) - DET (2)",
+      "points":2,
+      "totalPoints":41
     },
     {
-      "date": "Wed Dec 31, 2014",
-      "score": "FINAL TOR (4) - BOS (3) SO"
+      "date":"Wed Dec 31, 2014",
+      "score":"BOS (3) - TOR (4) OT",
+      "points":1,
+      "totalPoints":42
     },
     {
-      "date": "Sat Jan 3, 2015",
-      "score": "FINAL OTT (3) - BOS (2) OT"
+      "date":"Sat Jan 3, 2015",
+      "score":"BOS (2) - OTT (3) OT",
+      "points":1,
+      "totalPoints":43
     },
     {
-      "date": "Sun Jan 4, 2015",
-      "score": "FINAL BOS (1) - CAR (2) SO"
+      "date":"Sun Jan 4, 2015",
+      "score":"BOS (1) - CAR (2) OT",
+      "points":1,
+      "totalPoints":44
     },
     {
-      "date": "Wed Jan 7, 2015",
-      "score": "FINAL BOS (3) - PIT (2) OT"
+      "date":"Wed Jan 7, 2015",
+      "score":"BOS (3) - PIT (2)",
+      "points":2,
+      "totalPoints":46
     },
     {
-      "date": "Thu Jan 8, 2015",
-      "score": "FINAL NJD (0) - BOS (3)"
+      "date":"Thu Jan 8, 2015",
+      "score":"BOS (3) - NJD (0)",
+      "points":2,
+      "totalPoints":48
     },
     {
-      "date": "Sat Jan 10, 2015",
-      "score": "FINAL BOS (3) - PHI (1)"
+      "date":"Sat Jan 10, 2015",
+      "score":"BOS (3) - PHI (1)",
+      "points":2,
+      "totalPoints":50
     },
     {
-      "date": "Tue Jan 13, 2015",
-      "score": "FINAL TBL (3) - BOS (4)"
+      "date":"Tue Jan 13, 2015",
+      "score":"BOS (4) - TBL (3)",
+      "points":2,
+      "totalPoints":52
     },
     {
-      "date": "Thu Jan 15, 2015",
-      "score": "FINAL NYR (0) - BOS (3)"
+      "date":"Thu Jan 15, 2015",
+      "score":"BOS (3) - NYR (0)",
+      "points":2,
+      "totalPoints":54
     },
     {
-      "date": "Sat Jan 17, 2015",
-      "score": "FINAL CBJ (3) - BOS (1)"
+      "date":"Sat Jan 17, 2015",
+      "score":"BOS (1) - CBJ (3)",
+      "points":0,
+      "totalPoints":54
     },
     {
-      "date": "Tue Jan 20, 2015",
-      "score": "FINAL BOS (3) - DAL (1)"
+      "date":"Tue Jan 20, 2015",
+      "score":"BOS (3) - DAL (1)",
+      "points":2,
+      "totalPoints":56
     },
     {
-      "date": "Wed Jan 21, 2015",
-      "score": "FINAL BOS (2) - COL (3) SO"
+      "date":"Wed Jan 21, 2015",
+      "score":"BOS (2) - COL (3) OT",
+      "points":1,
+      "totalPoints":57
     },
     {
-      "date": "Thu Jan 29, 2015",
-      "score": "FINAL BOS (5) - NYI (2)"
+      "date":"Thu Jan 29, 2015",
+      "score":"BOS (5) - NYI (2)",
+      "points":2,
+      "totalPoints":59
     },
     {
-      "date": "Sat Jan 31, 2015",
-      "score": "FINAL LAK (1) - BOS (3)"
+      "date":"Sat Jan 31, 2015",
+      "score":"BOS (3) - LAK (1)",
+      "points":2,
+      "totalPoints":61
     },
     {
-      "date": "Wed Feb 4, 2015",
-      "score": "FINAL BOS (2) - NYR (3)"
+      "date":"Wed Feb 4, 2015",
+      "score":"BOS (2) - NYR (3)",
+      "points":0,
+      "totalPoints":61
     },
     {
-      "date": "Sat Feb 7, 2015",
-      "score": "FINAL NYI (1) - BOS (2)"
+      "date":"Sat Feb 7, 2015",
+      "score":"BOS (2) - NYI (1)",
+      "points":2,
+      "totalPoints":63
     },
     {
-      "date": "Sun Feb 8, 2015",
-      "score": "FINAL MTL (3) - BOS (1)"
+      "date":"Sun Feb 8, 2015",
+      "score":"BOS (1) - MTL (3)",
+      "points":0,
+      "totalPoints":63
     },
     {
-      "date": "Tue Feb 10, 2015",
-      "score": "FINAL DAL (5) - BOS (3)"
+      "date":"Tue Feb 10, 2015",
+      "score":"BOS (3) - DAL (5)",
+      "points":0,
+      "totalPoints":63
     },
     {
-      "date": "Fri Feb 13, 2015",
-      "score": "FINAL BOS (2) - VAN (5)"
+      "date":"Fri Feb 13, 2015",
+      "score":"BOS (2) - VAN (5)",
+      "points":0,
+      "totalPoints":63
     },
     {
-      "date": "Mon Feb 16, 2015",
-      "score": "FINAL BOS (3) - CGY (4) OT"
+      "date":"Mon Feb 16, 2015",
+      "score":"BOS (3) - CGY (4) OT",
+      "points":1,
+      "totalPoints":64
     },
     {
-      "date": "Wed Feb 18, 2015",
-      "score": "FINAL BOS (3) - EDM (4) SO"
+      "date":"Wed Feb 18, 2015",
+      "score":"BOS (3) - EDM (4) OT",
+      "points":1,
+      "totalPoints":65
     },
     {
-      "date": "Fri Feb 20, 2015",
-      "score": "FINAL BOS (1) - STL (5)"
+      "date":"Fri Feb 20, 2015",
+      "score":"BOS (1) - STL (5)",
+      "points":0,
+      "totalPoints":65
     },
     {
-      "date": "Sun Feb 22, 2015",
-      "score": "FINAL BOS (6) - CHI (2)"
+      "date":"Sun Feb 22, 2015",
+      "score":"BOS (6) - CHI (2)",
+      "points":2,
+      "totalPoints":67
     },
     {
-      "date": "Tue Feb 24, 2015",
-      "score": "FINAL VAN (2) - BOS (1)"
+      "date":"Tue Feb 24, 2015",
+      "score":"BOS (1) - VAN (2)",
+      "points":0,
+      "totalPoints":67
     },
     {
-      "date": "Fri Feb 27, 2015",
-      "score": "FINAL BOS (3) - NJD (2) OT"
+      "date":"Fri Feb 27, 2015",
+      "score":"BOS (3) - NJD (2)",
+      "points":2,
+      "totalPoints":69
     },
     {
-      "date": "Sat Feb 28, 2015",
-      "score": "FINAL ARI (1) - BOS (4)"
+      "date":"Sat Feb 28, 2015",
+      "score":"BOS (4) - ARI (1)",
+      "points":2,
+      "totalPoints":71
     },
     {
-      "date": "Thu Mar 5, 2015",
-      "score": "FINAL CGY (4) - BOS (3) SO"
+      "date":"Thu Mar 5, 2015",
+      "score":"BOS (3) - CGY (4) OT",
+      "points":1,
+      "totalPoints":72
     },
     {
-      "date": "Sat Mar 7, 2015",
-      "score": "FINAL PHI (2) - BOS (3) OT"
+      "date":"Sat Mar 7, 2015",
+      "score":"BOS (3) - PHI (2)",
+      "points":2,
+      "totalPoints":74
     },
     {
-      "date": "Sun Mar 8, 2015",
-      "score": "FINAL DET (3) - BOS (5)"
+      "date":"Sun Mar 8, 2015",
+      "score":"BOS (5) - DET (3)",
+      "points":2,
+      "totalPoints":76
     },
     {
-      "date": "Tue Mar 10, 2015",
-      "score": "FINAL BOS (3) - OTT (1)"
+      "date":"Tue Mar 10, 2015",
+      "score":"BOS (3) - OTT (1)",
+      "points":2,
+      "totalPoints":78
     },
     {
-      "date": "Thu Mar 12, 2015",
-      "score": "FINAL TBL (2) - BOS (3) SO"
+      "date":"Thu Mar 12, 2015",
+      "score":"BOS (3) - TBL (2)",
+      "points":2,
+      "totalPoints":80
     },
     {
-      "date": "Sat Mar 14, 2015",
-      "score": "FINAL BOS (2) - PIT (0)"
+      "date":"Sat Mar 14, 2015",
+      "score":"BOS (2) - PIT (0)",
+      "points":2,
+      "totalPoints":82
     },
     {
-      "date": "Sun Mar 15, 2015",
-      "score": "FINAL BOS (0) - WSH (2)"
+      "date":"Sun Mar 15, 2015",
+      "score":"BOS (0) - WSH (2)",
+      "points":0,
+      "totalPoints":82
     },
     {
-      "date": "Tue Mar 17, 2015",
-      "score": "FINAL BUF (2) - BOS (1) SO"
+      "date":"Tue Mar 17, 2015",
+      "score":"BOS (1) - BUF (2) OT",
+      "points":1,
+      "totalPoints":83
     },
     {
-      "date": "Thu Mar 19, 2015",
-      "score": "FINAL BOS (4) - OTT (6)"
+      "date":"Thu Mar 19, 2015",
+      "score":"BOS (4) - OTT (6)",
+      "points":0,
+      "totalPoints":83
     },
     {
-      "date": "Sat Mar 21, 2015",
-      "score": "FINAL BOS (1) - FLA (2) SO"
+      "date":"Sat Mar 21, 2015",
+      "score":"BOS (1) - FLA (2) OT",
+      "points":1,
+      "totalPoints":84
     },
     {
-      "date": "Sun Mar 22, 2015",
-      "score": "FINAL BOS (3) - TBL (5)"
+      "date":"Sun Mar 22, 2015",
+      "score":"BOS (3) - TBL (5)",
+      "points":0,
+      "totalPoints":84
     },
     {
-      "date": "Thu Mar 26, 2015",
-      "score": "FINAL ANA (3) - BOS (2) OT"
+      "date":"Thu Mar 26, 2015",
+      "score":"BOS (2) - ANA (3) OT",
+      "points":1,
+      "totalPoints":85
     },
     {
-      "date": "Sat Mar 28, 2015",
-      "score": "FINAL NYR (2) - BOS (4)"
+      "date":"Sat Mar 28, 2015",
+      "score":"BOS (4) - NYR (2)",
+      "points":2,
+      "totalPoints":87
     },
     {
-      "date": "Sun Mar 29, 2015",
-      "score": "FINAL BOS (2) - CAR (1) OT"
+      "date":"Sun Mar 29, 2015",
+      "score":"BOS (2) - CAR (1)",
+      "points":2,
+      "totalPoints":89
     },
     {
-      "date": "Tue Mar 31, 2015",
-      "score": "FINAL FLA (2) - BOS (3)"
+      "date":"Tue Mar 31, 2015",
+      "score":"BOS (3) - FLA (2)",
+      "points":2,
+      "totalPoints":91
     },
     {
-      "date": "Thu Apr 2, 2015",
-      "score": "FINAL BOS (3) - DET (2)"
+      "date":"Thu Apr 2, 2015",
+      "score":"BOS (3) - DET (2)",
+      "points":2,
+      "totalPoints":93
     },
     {
-      "date": "Sat Apr 4, 2015",
-      "score": "FINAL TOR (1) - BOS (2) SO"
+      "date":"Sat Apr 4, 2015",
+      "score":"BOS (2) - TOR (1)",
+      "points":2,
+      "totalPoints":95
     },
     {
-      "date": "Wed Apr 8, 2015",
-      "score": "FINAL BOS (0) - WSH (3)"
+      "date":"Wed Apr 8, 2015",
+      "score":"BOS (0) - WSH (3)",
+      "points":0,
+      "totalPoints":95
     },
     {
-      "date": "Thu Apr 9, 2015",
-      "score": "FINAL BOS (2) - FLA (4)"
+      "date":"Thu Apr 9, 2015",
+      "score":"BOS (2) - FLA (4)",
+      "points":0,
+      "totalPoints":95
     },
     {
-      "date": "Sat Apr 11, 2015",
-      "score": "FINAL BOS (2) - TBL (3) SO"
+      "date":"Sat Apr 11, 2015",
+      "score":"BOS (2) - TBL (3) OT",
+      "points":1,
+      "totalPoints":96
     }
   ]
 }

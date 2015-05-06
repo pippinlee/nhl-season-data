@@ -1,332 +1,496 @@
 {
-  "habs-season": [
+  "habs-season":[
     {
-      "date": "Wed, 8 Oct 2014",
-      "score": "FINAL MTL (4) - TOR (3)"
+      "date":"Wed, 8 Oct 2014",
+      "score":"MTL (4) - TOR (3)",
+      "points":2,
+      "totalPoints":2
     },
     {
-      "date": "Thu, 9 Oct 2014",
-      "score": "FINAL MTL (2) - WSH (1) SO"
+      "date":"Thu, 9 Oct 2014",
+      "score":"MTL (2) - WSH (1)",
+      "points":2,
+      "totalPoints":4
     },
     {
-      "date": "Sat, 11 Oct 2014",
-      "score": "FINAL MTL (4) - PHI (3) SO"
+      "date":"Sat, 11 Oct 2014",
+      "score":"MTL (4) - PHI (3)",
+      "points":2,
+      "totalPoints":6
     },
     {
-      "date": "Mon, 13 Oct 2014",
-      "score": "FINAL MTL (1) - TBL (7)"
+      "date":"Mon, 13 Oct 2014",
+      "score":"MTL (1) - TBL (7)",
+      "points":0,
+      "totalPoints":6
     },
     {
-      "date": "Thu, 16 Oct 2014",
-      "score": "FINAL BOS (4) - MTL (6)"
+      "date":"Thu, 16 Oct 2014",
+      "score":"MTL (6) - BOS (4)",
+      "points":2,
+      "totalPoints":8
     },
     {
-      "date": "Sat, 18 Oct 2014",
-      "score": "FINAL COL (2) - MTL (3)"
+      "date":"Sat, 18 Oct 2014",
+      "score":"MTL (3) - COL (2)",
+      "points":2,
+      "totalPoints":10
     },
     {
-      "date": "Tue, 21 Oct 2014",
-      "score": "FINAL DET (1) - MTL (2) OT"
+      "date":"Tue, 21 Oct 2014",
+      "score":"MTL (2) - DET (1)",
+      "points":2,
+      "totalPoints":12
     },
     {
-      "date": "Sat, 25 Oct 2014",
-      "score": "FINAL NYR (1) - MTL (3)"
+      "date":"Sat, 25 Oct 2014",
+      "score":"MTL (3) - NYR (1)",
+      "points":2,
+      "totalPoints":14
     },
     {
-      "date": "Mon, 27 Oct 2014",
-      "score": "FINAL MTL (0) - EDM (3)"
+      "date":"Mon, 27 Oct 2014",
+      "score":"MTL (0) - EDM (3)",
+      "points":0,
+      "totalPoints":14
     },
     {
-      "date": "Tue, 28 Oct 2014",
-      "score": "FINAL MTL (2) - CGY (1) SO"
+      "date":"Tue, 28 Oct 2014",
+      "score":"MTL (2) - CGY (1)",
+      "points":2,
+      "totalPoints":16
     },
     {
-      "date": "Thu, 30 Oct 2014",
-      "score": "FINAL MTL (2) - VAN (3) OT"
+      "date":"Thu, 30 Oct 2014",
+      "score":"MTL (2) - VAN (3) OT",
+      "points":1,
+      "totalPoints":17
     },
     {
-      "date": "Sun, 2 Nov 2014",
-      "score": "FINAL CGY (6) - MTL (2)"
+      "date":"Sun, 2 Nov 2014",
+      "score":"MTL (2) - CGY (6)",
+      "points":0,
+      "totalPoints":17
     },
     {
-      "date": "Tue, 4 Nov 2014",
-      "score": "FINAL CHI (5) - MTL (0)"
+      "date":"Tue, 4 Nov 2014",
+      "score":"MTL (0) - CHI (5)",
+      "points":0,
+      "totalPoints":17
     },
     {
-      "date": "Wed, 5 Nov 2014",
-      "score": "FINAL MTL (2) - BUF (1) SO"
+      "date":"Wed, 5 Nov 2014",
+      "score":"MTL (2) - BUF (1)",
+      "points":2,
+      "totalPoints":19
     },
     {
-      "date": "Sat, 8 Nov 2014",
-      "score": "FINAL MIN (1) - MTL (4)"
+      "date":"Sat, 8 Nov 2014",
+      "score":"MTL (4) - MIN (1)",
+      "points":2,
+      "totalPoints":21
     },
     {
-      "date": "Tue, 11 Nov 2014",
-      "score": "FINAL WPG (0) - MTL (3)"
+      "date":"Tue, 11 Nov 2014",
+      "score":"MTL (3) - WPG (0)",
+      "points":2,
+      "totalPoints":23
     },
     {
-      "date": "Thu, 13 Nov 2014",
-      "score": "FINAL BOS (1) - MTL (5)"
+      "date":"Thu, 13 Nov 2014",
+      "score":"MTL (5) - BOS (1)",
+      "points":2,
+      "totalPoints":25
     },
     {
-      "date": "Sat, 15 Nov 2014",
-      "score": "FINAL PHI (3) - MTL (6)"
+      "date":"Sat, 15 Nov 2014",
+      "score":"MTL (6) - PHI (3)",
+      "points":2,
+      "totalPoints":27
     },
     {
-      "date": "Sun, 16 Nov 2014",
-      "score": "FINAL MTL (4) - DET (1)"
+      "date":"Sun, 16 Nov 2014",
+      "score":"MTL (4) - DET (1)",
+      "points":2,
+      "totalPoints":29
     },
     {
-      "date": "Tue, 18 Nov 2014",
-      "score": "FINAL PIT (4) - MTL (0)"
+      "date":"Tue, 18 Nov 2014",
+      "score":"MTL (0) - PIT (4)",
+      "points":0,
+      "totalPoints":29
     },
     {
-      "date": "Thu, 20 Nov 2014",
-      "score": "FINAL STL (1) - MTL (4)"
+      "date":"Thu, 20 Nov 2014",
+      "score":"MTL (4) - STL (1)",
+      "points":2,
+      "totalPoints":31
     },
     {
-      "date": "Sat, 22 Nov 2014",
-      "score": "FINAL MTL (2) - BOS (0)"
+      "date":"Sat, 22 Nov 2014",
+      "score":"MTL (2) - BOS (0)",
+      "points":2,
+      "totalPoints":33
     },
     {
-      "date": "Sun, 23 Nov 2014",
-      "score": "FINAL MTL (0) - NYR (5)"
+      "date":"Sun, 23 Nov 2014",
+      "score":"MTL (0) - NYR (5)",
+      "points":0,
+      "totalPoints":33
     },
     {
-      "date": "Fri, 28 Nov 2014",
-      "score": "FINAL MTL (1) - BUF (2)"
+      "date":"Fri, 28 Nov 2014",
+      "score":"MTL (1) - BUF (2)",
+      "points":0,
+      "totalPoints":33
     },
     {
-      "date": "Sat, 29 Nov 2014",
-      "score": "FINAL BUF (4) - MTL (3) SO"
+      "date":"Sat, 29 Nov 2014",
+      "score":"MTL (3) - BUF (4) OT",
+      "points":1,
+      "totalPoints":34
     },
     {
-      "date": "Mon, 1 Dec 2014",
-      "score": "FINAL MTL (4) - COL (3)"
+      "date":"Mon, 1 Dec 2014",
+      "score":"MTL (4) - COL (3)",
+      "points":2,
+      "totalPoints":36
     },
     {
-      "date": "Wed, 3 Dec 2014",
-      "score": "FINAL MTL (1) - MIN (2)"
+      "date":"Wed, 3 Dec 2014",
+      "score":"MTL (1) - MIN (2)",
+      "points":0,
+      "totalPoints":36
     },
     {
-      "date": "Fri, 5 Dec 2014",
-      "score": "FINAL MTL (3) - CHI (4)"
+      "date":"Fri, 5 Dec 2014",
+      "score":"MTL (3) - CHI (4)",
+      "points":0,
+      "totalPoints":36
     },
     {
-      "date": "Sat, 6 Dec 2014",
-      "score": "FINAL MTL (1) - DAL (4)"
+      "date":"Sat, 6 Dec 2014",
+      "score":"MTL (1) - DAL (4)",
+      "points":0,
+      "totalPoints":36
     },
     {
-      "date": "Tue, 9 Dec 2014",
-      "score": "FINAL VAN (1) - MTL (3)"
+      "date":"Tue, 9 Dec 2014",
+      "score":"MTL (3) - VAN (1)",
+      "points":2,
+      "totalPoints":38
     },
     {
-      "date": "Fri, 12 Dec 2014",
-      "score": "FINAL LAK (2) - MTL (6)"
+      "date":"Fri, 12 Dec 2014",
+      "score":"MTL (6) - LAK (2)",
+      "points":2,
+      "totalPoints":40
     },
     {
-      "date": "Tue, 16 Dec 2014",
-      "score": "FINAL CAR (1) - MTL (4)"
+      "date":"Tue, 16 Dec 2014",
+      "score":"MTL (4) - CAR (1)",
+      "points":2,
+      "totalPoints":42
     },
     {
-      "date": "Thu, 18 Dec 2014",
-      "score": "FINAL ANA (2) - MTL (1)"
+      "date":"Thu, 18 Dec 2014",
+      "score":"MTL (1) - ANA (2)",
+      "points":0,
+      "totalPoints":42
     },
     {
-      "date": "Sat, 20 Dec 2014",
-      "score": "FINAL OTT (1) - MTL (4)"
+      "date":"Sat, 20 Dec 2014",
+      "score":"MTL (4) - OTT (1)",
+      "points":2,
+      "totalPoints":44
     },
     {
-      "date": "Tue, 23 Dec 2014",
-      "score": "FINAL MTL (3) - NYI (1)"
+      "date":"Tue, 23 Dec 2014",
+      "score":"MTL (3) - NYI (1)",
+      "points":2,
+      "totalPoints":46
     },
     {
-      "date": "Mon, 29 Dec 2014",
-      "score": "FINAL MTL (3) - CAR (1)"
+      "date":"Mon, 29 Dec 2014",
+      "score":"MTL (3) - CAR (1)",
+      "points":2,
+      "totalPoints":48
     },
     {
-      "date": "Tue, 30 Dec 2014",
-      "score": "FINAL MTL (2) - FLA (1) SO"
+      "date":"Tue, 30 Dec 2014",
+      "score":"MTL (2) - FLA (1)",
+      "points":2,
+      "totalPoints":50
     },
     {
-      "date": "Fri, 2 Jan 2015",
-      "score": "FINAL MTL (4) - NJD (2)"
+      "date":"Fri, 2 Jan 2015",
+      "score":"MTL (4) - NJD (2)",
+      "points":2,
+      "totalPoints":52
     },
     {
-      "date": "Sat, 3 Jan 2015",
-      "score": "FINAL MTL (4) - PIT (1)"
+      "date":"Sat, 3 Jan 2015",
+      "score":"MTL (4) - PIT (1)",
+      "points":2,
+      "totalPoints":54
     },
     {
-      "date": "Tue, 6 Jan 2015",
-      "score": "FINAL TBL (4) - MTL (2)"
+      "date":"Tue, 6 Jan 2015",
+      "score":"MTL (2) - TBL (4)",
+      "points":0,
+      "totalPoints":54
     },
     {
-      "date": "Sat, 10 Jan 2015",
-      "score": "FINAL PIT (2) - MTL (1) OT"
+      "date":"Sat, 10 Jan 2015",
+      "score":"MTL (1) - PIT (2) OT",
+      "points":1,
+      "totalPoints":55
     },
     {
-      "date": "Wed, 14 Jan 2015",
-      "score": "FINAL MTL (3) - CBJ (2)"
+      "date":"Wed, 14 Jan 2015",
+      "score":"MTL (3) - CBJ (2)",
+      "points":2,
+      "totalPoints":57
     },
     {
-      "date": "Thu, 15 Jan 2015",
-      "score": "FINAL MTL (1) - OTT (4)"
+      "date":"Thu, 15 Jan 2015",
+      "score":"MTL (1) - OTT (4)",
+      "points":0,
+      "totalPoints":57
     },
     {
-      "date": "Sat, 17 Jan 2015",
-      "score": "FINAL NYI (4) - MTL (6)"
+      "date":"Sat, 17 Jan 2015",
+      "score":"MTL (6) - NYI (4)",
+      "points":2,
+      "totalPoints":59
     },
     {
-      "date": "Tue, 20 Jan 2015",
-      "score": "FINAL NSH (1) - MTL (2) OT"
+      "date":"Tue, 20 Jan 2015",
+      "score":"MTL (2) - NSH (1)",
+      "points":2,
+      "totalPoints":61
     },
     {
-      "date": "Tue, 27 Jan 2015",
-      "score": "FINAL DAL (2) - MTL (3)"
+      "date":"Tue, 27 Jan 2015",
+      "score":"MTL (3) - DAL (2)",
+      "points":2,
+      "totalPoints":63
     },
     {
-      "date": "Thu, 29 Jan 2015",
-      "score": "FINAL MTL (1) - NYR (0)"
+      "date":"Thu, 29 Jan 2015",
+      "score":"MTL (1) - NYR (0)",
+      "points":2,
+      "totalPoints":65
     },
     {
-      "date": "Sat, 31 Jan 2015",
-      "score": "FINAL WSH (0) - MTL (1) OT"
+      "date":"Sat, 31 Jan 2015",
+      "score":"MTL (1) - WSH (0)",
+      "points":2,
+      "totalPoints":67
     },
     {
-      "date": "Sun, 1 Feb 2015",
-      "score": "FINAL ARI (3) - MTL (2)"
+      "date":"Sun, 1 Feb 2015",
+      "score":"MTL (2) - ARI (3)",
+      "points":0,
+      "totalPoints":67
     },
     {
-      "date": "Tue, 3 Feb 2015",
-      "score": "FINAL BUF (3) - MTL (2)"
+      "date":"Tue, 3 Feb 2015",
+      "score":"MTL (2) - BUF (3)",
+      "points":0,
+      "totalPoints":67
     },
     {
-      "date": "Sat, 7 Feb 2015",
-      "score": "FINAL NJD (2) - MTL (6)"
+      "date":"Sat, 7 Feb 2015",
+      "score":"MTL (6) - NJD (2)",
+      "points":2,
+      "totalPoints":69
     },
     {
-      "date": "Sun, 8 Feb 2015",
-      "score": "FINAL MTL (3) - BOS (1)"
+      "date":"Sun, 8 Feb 2015",
+      "score":"MTL (3) - BOS (1)",
+      "points":2,
+      "totalPoints":71
     },
     {
-      "date": "Tue, 10 Feb 2015",
-      "score": "FINAL PHI (1) - MTL (2) OT"
+      "date":"Tue, 10 Feb 2015",
+      "score":"MTL (2) - PHI (1)",
+      "points":2,
+      "totalPoints":73
     },
     {
-      "date": "Thu, 12 Feb 2015",
-      "score": "FINAL EDM (4) - MTL (3) OT"
+      "date":"Thu, 12 Feb 2015",
+      "score":"MTL (3) - EDM (4) OT",
+      "points":1,
+      "totalPoints":74
     },
     {
-      "date": "Sat, 14 Feb 2015",
-      "score": "FINAL TOR (1) - MTL (2) SO"
+      "date":"Sat, 14 Feb 2015",
+      "score":"MTL (2) - TOR (1)",
+      "points":2,
+      "totalPoints":76
     },
     {
-      "date": "Mon, 16 Feb 2015",
-      "score": "FINAL MTL (2) - DET (0)"
+      "date":"Mon, 16 Feb 2015",
+      "score":"MTL (2) - DET (0)",
+      "points":2,
+      "totalPoints":78
     },
     {
-      "date": "Wed, 18 Feb 2015",
-      "score": "FINAL MTL (2) - OTT (4)"
+      "date":"Wed, 18 Feb 2015",
+      "score":"MTL (2) - OTT (4)",
+      "points":0,
+      "totalPoints":78
     },
     {
-      "date": "Thu, 19 Feb 2015",
-      "score": "FINAL FLA (3) - MTL (2) SO"
+      "date":"Thu, 19 Feb 2015",
+      "score":"MTL (2) - FLA (3) OT",
+      "points":1,
+      "totalPoints":79
     },
     {
-      "date": "Sat, 21 Feb 2015",
-      "score": "FINAL CBJ (1) - MTL (3)"
+      "date":"Sat, 21 Feb 2015",
+      "score":"MTL (3) - CBJ (1)",
+      "points":2,
+      "totalPoints":81
     },
     {
-      "date": "Tue, 24 Feb 2015",
-      "score": "FINAL MTL (5) - STL (2)"
+      "date":"Tue, 24 Feb 2015",
+      "score":"MTL (5) - STL (2)",
+      "points":2,
+      "totalPoints":83
     },
     {
-      "date": "Thu, 26 Feb 2015",
-      "score": "FINAL MTL (5) - CBJ (2)"
+      "date":"Thu, 26 Feb 2015",
+      "score":"MTL (5) - CBJ (2)",
+      "points":2,
+      "totalPoints":85
     },
     {
-      "date": "Sat, 28 Feb 2015",
-      "score": "FINAL TOR (0) - MTL (4)"
+      "date":"Sat, 28 Feb 2015",
+      "score":"MTL (4) - TOR (0)",
+      "points":2,
+      "totalPoints":87
     },
     {
-      "date": "Mon, 2 Mar 2015",
-      "score": "FINAL MTL (0) - SJS (4)"
+      "date":"Mon, 2 Mar 2015",
+      "score":"MTL (0) - SJS (4)",
+      "points":0,
+      "totalPoints":87
     },
     {
-      "date": "Wed, 4 Mar 2015",
-      "score": "FINAL MTL (1) - ANA (3)"
+      "date":"Wed, 4 Mar 2015",
+      "score":"MTL (1) - ANA (3)",
+      "points":0,
+      "totalPoints":87
     },
     {
-      "date": "Thu, 5 Mar 2015",
-      "score": "FINAL MTL (3) - LAK (4) SO"
+      "date":"Thu, 5 Mar 2015",
+      "score":"MTL (3) - LAK (4) OT",
+      "points":1,
+      "totalPoints":88
     },
     {
-      "date": "Sat, 7 Mar 2015",
-      "score": "FINAL MTL (2) - ARI (0)"
+      "date":"Sat, 7 Mar 2015",
+      "score":"MTL (2) - ARI (0)",
+      "points":2,
+      "totalPoints":90
     },
     {
-      "date": "Tue, 10 Mar 2015",
-      "score": "FINAL TBL (1) - MTL (0) OT"
+      "date":"Tue, 10 Mar 2015",
+      "score":"MTL (0) - TBL (1) OT",
+      "points":1,
+      "totalPoints":91
     },
     {
-      "date": "Thu, 12 Mar 2015",
-      "score": "FINAL OTT (5) - MTL (2)"
+      "date":"Thu, 12 Mar 2015",
+      "score":"MTL (2) - OTT (5)",
+      "points":0,
+      "totalPoints":91
     },
     {
-      "date": "Sat, 14 Mar 2015",
-      "score": "FINAL MTL (3) - NYI (1)"
+      "date":"Sat, 14 Mar 2015",
+      "score":"MTL (3) - NYI (1)",
+      "points":2,
+      "totalPoints":93
     },
     {
-      "date": "Mon, 16 Mar 2015",
-      "score": "FINAL MTL (2) - TBL (4)"
+      "date":"Mon, 16 Mar 2015",
+      "score":"MTL (2) - TBL (4)",
+      "points":0,
+      "totalPoints":93
     },
     {
-      "date": "Tue, 17 Mar 2015",
-      "score": "FINAL MTL (3) - FLA (2)"
+      "date":"Tue, 17 Mar 2015",
+      "score":"MTL (3) - FLA (2)",
+      "points":2,
+      "totalPoints":95
     },
     {
-      "date": "Thu, 19 Mar 2015",
-      "score": "FINAL CAR (0) - MTL (4)"
+      "date":"Thu, 19 Mar 2015",
+      "score":"MTL (4) - CAR (0)",
+      "points":2,
+      "totalPoints":97
     },
     {
-      "date": "Sat, 21 Mar 2015",
-      "score": "FINAL SJS (0) - MTL (2)"
+      "date":"Sat, 21 Mar 2015",
+      "score":"MTL (2) - SJS (0)",
+      "points":2,
+      "totalPoints":99
     },
     {
-      "date": "Tue, 24 Mar 2015",
-      "score": "FINAL MTL (2) - NSH (3) OT"
+      "date":"Tue, 24 Mar 2015",
+      "score":"MTL (2) - NSH (3) OT",
+      "points":1,
+      "totalPoints":100
     },
     {
-      "date": "Thu, 26 Mar 2015",
-      "score": "FINAL MTL (2) - WPG (5)"
+      "date":"Thu, 26 Mar 2015",
+      "score":"MTL (2) - WPG (5)",
+      "points":0,
+      "totalPoints":100
     },
     {
-      "date": "Sat, 28 Mar 2015",
-      "score": "FINAL FLA (2) - MTL (3) OT"
+      "date":"Sat, 28 Mar 2015",
+      "score":"MTL (3) - FLA (2)",
+      "points":2,
+      "totalPoints":102
     },
     {
-      "date": "Mon, 30 Mar 2015",
-      "score": "FINAL TBL (5) - MTL (3)"
+      "date":"Mon, 30 Mar 2015",
+      "score":"MTL (3) - TBL (5)",
+      "points":0,
+      "totalPoints":102
     },
     {
-      "date": "Thu, 2 Apr 2015",
-      "score": "FINAL WSH (5) - MTL (4) SO"
+      "date":"Thu, 2 Apr 2015",
+      "score":"MTL (4) - WSH (5) OT",
+      "points":1,
+      "totalPoints":103
     },
     {
-      "date": "Fri, 3 Apr 2015",
-      "score": "FINAL MTL (2) - NJD (3) SO"
+      "date":"Fri, 3 Apr 2015",
+      "score":"MTL (2) - NJD (3) OT",
+      "points":1,
+      "totalPoints":104
     },
     {
-      "date": "Sun, 5 Apr 2015",
-      "score": "FINAL MTL (4) - FLA (1)"
+      "date":"Sun, 5 Apr 2015",
+      "score":"MTL (4) - FLA (1)",
+      "points":2,
+      "totalPoints":106
     },
     {
-      "date": "Thu, 9 Apr 2015",
-      "score": "FINAL DET (3) - MTL (4) OT"
+      "date":"Thu, 9 Apr 2015",
+      "score":"MTL (4) - DET (3)",
+      "points":2,
+      "totalPoints":108
     },
     {
-      "date": "Sat, 11 Apr 2015",
-      "score": "FINAL MTL (4) - TOR (3) SO"
+      "date":"Sat, 11 Apr 2015",
+      "score":"MTL (4) - TOR (3)",
+      "points":2,
+      "totalPoints":110
     }
   ]
 }
