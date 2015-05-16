@@ -8,7 +8,8 @@
       "panthers":0,
       "sabres":0,
       "sens":0,
-      "tampa":0
+      "tampa":0,
+      "wings":0
     }
   },
   {
@@ -20,7 +21,8 @@
       "panthers":0,
       "sabres":0,
       "sens":0,
-      "tampa":2
+      "tampa":2,
+      "wings":2
     }
   },
   {
@@ -32,9 +34,8 @@
       "panthers":0,
       "sabres":0,
       "sens":0,
-      "tampa":,
-      "sens": 0,
-      "sens": 2,
+      "tampa":2,
+      "wings":2
     }
   },
   {
@@ -46,7 +47,8 @@
       "panthers":1,
       "sabres":0,
       "sens":2,
-      "tampa":3
+      "tampa":3,
+      "wings":2
     }
   },
   {
@@ -58,7 +60,8 @@
       "panthers":1,
       "sabres":0,
       "sens":2,
-      "tampa":3
+      "tampa":3,
+      "wings":2
     }
   },
   {
@@ -70,7 +73,8 @@
       "panthers":1,
       "sabres":0,
       "sens":4,
-      "tampa":5
+      "tampa":5,
+      "wings":2
     }
   },
   {
@@ -82,7 +86,8 @@
       "panthers":1,
       "sabres":2,
       "sens":4,
-      "tampa":5
+      "tampa":5,
+      "wings":2
     }
   },
   {
@@ -94,7 +99,8 @@
       "panthers":1,
       "sabres":2,
       "sens":4,
-      "tampa":5
+      "tampa":5,
+      "wings":3
     }
   },
   {
@@ -106,7 +112,8 @@
       "panthers":1,
       "sabres":2,
       "sens":6,
-      "tampa":5
+      "tampa":5,
+      "wings":3
     }
   },
   {
@@ -118,7 +125,8 @@
       "panthers":3,
       "sabres":2,
       "sens":6,
-      "tampa":5
+      "tampa":5,
+      "wings":5
     }
   },
   {
@@ -130,7 +138,8 @@
       "panthers":4,
       "sabres":2,
       "sens":8,
-      "tampa":7
+      "tampa":7,
+      "wings":7
     }
   },
   {
@@ -142,7 +151,8 @@
       "panthers":4,
       "sabres":2,
       "sens":8,
-      "tampa":7
+      "tampa":7,
+      "wings":7
     }
   },
   {
@@ -154,7 +164,8 @@
       "panthers":4,
       "sabres":2,
       "sens":8,
-      "tampa":7
+      "tampa":7,
+      "wings":7
     }
   },
   {
@@ -166,7 +177,8 @@
       "panthers":6,
       "sabres":2,
       "sens":8,
-      "tampa":9
+      "tampa":9,
+      "wings":8
     }
   },
   {
@@ -178,7 +190,8 @@
       "panthers":6,
       "sabres":2,
       "sens":8,
-      "tampa":9
+      "tampa":9,
+      "wings":8
     }
   },
   {
@@ -190,7 +203,8 @@
       "panthers":6,
       "sabres":2,
       "sens":8,
-      "tampa":9
+      "tampa":9,
+      "wings":10
     }
   },
   {
@@ -202,7 +216,8 @@
       "panthers":6,
       "sabres":2,
       "sens":8,
-      "tampa":11
+      "tampa":11,
+      "wings":10
     }
   },
   {
@@ -214,7 +229,8 @@
       "panthers":7,
       "sabres":4,
       "sens":9,
-      "tampa":11
+      "tampa":11,
+      "wings":10
     }
   },
   {
@@ -226,7 +242,8 @@
       "panthers":7,
       "sabres":4,
       "sens":9,
-      "tampa":11
+      "tampa":11,
+      "wings":10
     }
   },
   {
@@ -238,7 +255,8 @@
       "panthers":7,
       "sabres":4,
       "sens":9,
-      "tampa":11
+      "tampa":11,
+      "wings":10
     }
   },
   {
@@ -250,7 +268,8 @@
       "panthers":7,
       "sabres":4,
       "sens":11,
-      "tampa":13
+      "tampa":13,
+      "wings":10
     }
   },
   {
@@ -262,7 +281,8 @@
       "panthers":7,
       "sabres":4,
       "sens":11,
-      "tampa":13
+      "tampa":13,
+      "wings":12
     }
   },
   {
@@ -274,7 +294,8 @@
       "panthers":9,
       "sabres":5,
       "sens":12,
-      "tampa":15
+      "tampa":15,
+      "wings":12
     }
   },
   {
@@ -286,7 +307,8 @@
       "panthers":9,
       "sabres":5,
       "sens":12,
-      "tampa":15
+      "tampa":15,
+      "wings":14
     }
   },
   {
@@ -298,7 +320,8 @@
       "panthers":11,
       "sabres":5,
       "sens":12,
-      "tampa":17
+      "tampa":17,
+      "wings":14
     }
   },
   {
@@ -310,7 +333,8 @@
       "panthers":11,
       "sabres":7,
       "sens":12,
-      "tampa":17
+      "tampa":17,
+      "wings":15
     }
   },
   {
@@ -322,7 +346,8 @@
       "panthers":11,
       "sabres":7,
       "sens":12,
-      "tampa":17
+      "tampa":17,
+      "wings":15
     }
   },
   {
@@ -334,7 +359,8 @@
       "panthers":12,
       "sabres":7,
       "sens":14,
-      "tampa":17
+      "tampa":17,
+      "wings":15
     }
   },
   {
@@ -346,7 +372,8 @@
       "panthers":12,
       "sabres":8,
       "sens":14,
-      "tampa":17
+      "tampa":17,
+      "wings":16
     }
   },
   {
@@ -358,7 +385,8 @@
       "panthers":12,
       "sabres":8,
       "sens":16,
-      "tampa":19
+      "tampa":19,
+      "wings":16
     }
   },
   {
@@ -370,7 +398,8 @@
       "panthers":12,
       "sabres":8,
       "sens":16,
-      "tampa":19
+      "tampa":19,
+      "wings":18
     }
   },
   {
@@ -382,7 +411,8 @@
       "panthers":12,
       "sabres":8,
       "sens":17,
-      "tampa":21
+      "tampa":21,
+      "wings":18
     }
   },
   {
@@ -394,7 +424,8 @@
       "panthers":12,
       "sabres":8,
       "sens":17,
-      "tampa":23
+      "tampa":23,
+      "wings":19
     }
   },
   {
@@ -406,7 +437,8 @@
       "panthers":12,
       "sabres":8,
       "sens":17,
-      "tampa":23
+      "tampa":23,
+      "wings":19
     }
   },
   {
@@ -418,7 +450,8 @@
       "panthers":14,
       "sabres":8,
       "sens":18,
-      "tampa":24
+      "tampa":24,
+      "wings":19
     }
   },
   {
@@ -430,7 +463,8 @@
       "panthers":14,
       "sabres":8,
       "sens":18,
-      "tampa":24
+      "tampa":24,
+      "wings":19
     }
   },
   {
@@ -442,7 +476,8 @@
       "panthers":14,
       "sabres":8,
       "sens":20,
-      "tampa":24
+      "tampa":24,
+      "wings":19
     }
   },
   {
@@ -454,7 +489,8 @@
       "panthers":15,
       "sabres":8,
       "sens":20,
-      "tampa":24
+      "tampa":24,
+      "wings":21
     }
   },
   {
@@ -466,7 +502,8 @@
       "panthers":15,
       "sabres":10,
       "sens":20,
-      "tampa":26
+      "tampa":26,
+      "wings":21
     }
   },
   {
@@ -478,7 +515,8 @@
       "panthers":17,
       "sabres":10,
       "sens":20,
-      "tampa":26
+      "tampa":26,
+      "wings":21
     }
   },
   {
@@ -490,7 +528,8 @@
       "panthers":17,
       "sabres":10,
       "sens":20,
-      "tampa":28
+      "tampa":28,
+      "wings":21
     }
   },
   {
@@ -502,7 +541,8 @@
       "panthers":17,
       "sabres":12,
       "sens":20,
-      "tampa":28
+      "tampa":28,
+      "wings":23
     }
   },
   {
@@ -514,7 +554,8 @@
       "panthers":17,
       "sabres":12,
       "sens":20,
-      "tampa":28
+      "tampa":28,
+      "wings":23
     }
   },
   {
@@ -526,7 +567,8 @@
       "panthers":19,
       "sabres":12,
       "sens":22,
-      "tampa":28
+      "tampa":28,
+      "wings":25
     }
   },
   {
@@ -538,7 +580,8 @@
       "panthers":19,
       "sabres":12,
       "sens":22,
-      "tampa":28
+      "tampa":28,
+      "wings":25
     }
   },
   {
@@ -550,7 +593,8 @@
       "panthers":20,
       "sabres":14,
       "sens":22,
-      "tampa":30
+      "tampa":30,
+      "wings":25
     }
   },
   {
@@ -562,7 +606,8 @@
       "panthers":20,
       "sabres":14,
       "sens":22,
-      "tampa":30
+      "tampa":30,
+      "wings":25
     }
   },
   {
@@ -574,7 +619,8 @@
       "panthers":20,
       "sabres":14,
       "sens":22,
-      "tampa":30
+      "tampa":30,
+      "wings":27
     }
   },
   {
@@ -586,7 +632,8 @@
       "panthers":20,
       "sabres":14,
       "sens":24,
-      "tampa":30
+      "tampa":30,
+      "wings":27
     }
   },
   {
@@ -598,7 +645,8 @@
       "panthers":22,
       "sabres":14,
       "sens":24,
-      "tampa":32
+      "tampa":32,
+      "wings":29
     }
   },
   {
@@ -610,7 +658,8 @@
       "panthers":22,
       "sabres":14,
       "sens":24,
-      "tampa":32
+      "tampa":32,
+      "wings":29
     }
   },
   {
@@ -622,7 +671,8 @@
       "panthers":24,
       "sabres":16,
       "sens":24,
-      "tampa":32
+      "tampa":32,
+      "wings":31
     }
   },
   {
@@ -634,7 +684,8 @@
       "panthers":24,
       "sabres":18,
       "sens":24,
-      "tampa":34
+      "tampa":34,
+      "wings":31
     }
   },
   {
@@ -646,7 +697,8 @@
       "panthers":24,
       "sabres":18,
       "sens":24,
-      "tampa":34
+      "tampa":34,
+      "wings":33
     }
   },
   {
@@ -658,7 +710,8 @@
       "panthers":24,
       "sabres":18,
       "sens":24,
-      "tampa":36
+      "tampa":36,
+      "wings":33
     }
   },
   {
@@ -670,7 +723,8 @@
       "panthers":26,
       "sabres":20,
       "sens":25,
-      "tampa":37
+      "tampa":37,
+      "wings":33
     }
   },
   {
@@ -682,7 +736,8 @@
       "panthers":26,
       "sabres":20,
       "sens":25,
-      "tampa":37
+      "tampa":37,
+      "wings":33
     }
   },
   {
@@ -694,7 +749,8 @@
       "panthers":27,
       "sabres":20,
       "sens":25,
-      "tampa":39
+      "tampa":39,
+      "wings":35
     }
   },
   {
@@ -706,7 +762,8 @@
       "panthers":27,
       "sabres":20,
       "sens":25,
-      "tampa":39
+      "tampa":39,
+      "wings":35
     }
   },
   {
@@ -718,7 +775,8 @@
       "panthers":29,
       "sabres":20,
       "sens":25,
-      "tampa":39
+      "tampa":39,
+      "wings":37
     }
   },
   {
@@ -730,7 +788,8 @@
       "panthers":29,
       "sabres":20,
       "sens":27,
-      "tampa":39
+      "tampa":39,
+      "wings":39
     }
   },
   {
@@ -742,7 +801,8 @@
       "panthers":29,
       "sabres":20,
       "sens":27,
-      "tampa":39
+      "tampa":39,
+      "wings":39
     }
   },
   {
@@ -754,7 +814,8 @@
       "panthers":29,
       "sabres":22,
       "sens":27,
-      "tampa":39
+      "tampa":39,
+      "wings":39
     }
   },
   {
@@ -766,7 +827,8 @@
       "panthers":29,
       "sabres":22,
       "sens":27,
-      "tampa":39
+      "tampa":39,
+      "wings":40
     }
   },
   {
@@ -778,7 +840,8 @@
       "panthers":29,
       "sabres":24,
       "sens":27,
-      "tampa":41
+      "tampa":41,
+      "wings":40
     }
   },
   {
@@ -790,7 +853,8 @@
       "panthers":31,
       "sabres":24,
       "sens":27,
-      "tampa":41
+      "tampa":41,
+      "wings":41
     }
   },
   {
@@ -802,7 +866,8 @@
       "panthers":32,
       "sabres":26,
       "sens":29,
-      "tampa":41
+      "tampa":41,
+      "wings":41
     }
   },
   {
@@ -814,7 +879,8 @@
       "panthers":32,
       "sabres":26,
       "sens":29,
-      "tampa":41
+      "tampa":41,
+      "wings":41
     }
   },
   {
@@ -826,7 +892,8 @@
       "panthers":32,
       "sabres":28,
       "sens":30,
-      "tampa":41
+      "tampa":41,
+      "wings":41
     }
   },
   {
@@ -838,7 +905,8 @@
       "panthers":34,
       "sabres":28,
       "sens":30,
-      "tampa":43
+      "tampa":43,
+      "wings":42
     }
   },
   {
@@ -850,7 +918,8 @@
       "panthers":34,
       "sabres":28,
       "sens":32,
-      "tampa":43
+      "tampa":43,
+      "wings":42
     }
   },
   {
@@ -862,7 +931,8 @@
       "panthers":36,
       "sabres":28,
       "sens":32,
-      "tampa":43
+      "tampa":43,
+      "wings":42
     }
   },
   {
@@ -874,7 +944,8 @@
       "panthers":36,
       "sabres":28,
       "sens":34,
-      "tampa":44
+      "tampa":44,
+      "wings":42
     }
   },
   {
@@ -886,7 +957,8 @@
       "panthers":36,
       "sabres":28,
       "sens":34,
-      "tampa":44
+      "tampa":44,
+      "wings":42
     }
   },
   {
@@ -898,7 +970,8 @@
       "panthers":36,
       "sabres":29,
       "sens":34,
-      "tampa":44
+      "tampa":44,
+      "wings":43
     }
   },
   {
@@ -910,7 +983,8 @@
       "panthers":38,
       "sabres":29,
       "sens":34,
-      "tampa":44
+      "tampa":44,
+      "wings":43
     }
   },
   {
@@ -922,7 +996,8 @@
       "panthers":38,
       "sabres":29,
       "sens":34,
-      "tampa":46
+      "tampa":46,
+      "wings":45
     }
   },
   {
@@ -934,7 +1009,8 @@
       "panthers":38,
       "sabres":29,
       "sens":34,
-      "tampa":46
+      "tampa":46,
+      "wings":45
     }
   },
   {
@@ -946,7 +1022,8 @@
       "panthers":38,
       "sabres":29,
       "sens":34,
-      "tampa":46
+      "tampa":46,
+      "wings":45
     }
   },
   {
@@ -958,7 +1035,8 @@
       "panthers":38,
       "sabres":29,
       "sens":34,
-      "tampa":46
+      "tampa":46,
+      "wings":45
     }
   },
   {
@@ -970,7 +1048,8 @@
       "panthers":38,
       "sabres":31,
       "sens":35,
-      "tampa":48
+      "tampa":48,
+      "wings":47
     }
   },
   {
@@ -982,7 +1061,8 @@
       "panthers":40,
       "sabres":31,
       "sens":35,
-      "tampa":48
+      "tampa":48,
+      "wings":47
     }
   },
   {
@@ -994,7 +1074,8 @@
       "panthers":40,
       "sabres":31,
       "sens":37,
-      "tampa":50
+      "tampa":50,
+      "wings":47
     }
   },
   {
@@ -1006,7 +1087,8 @@
       "panthers":41,
       "sabres":31,
       "sens":37,
-      "tampa":50
+      "tampa":50,
+      "wings":47
     }
   },
   {
@@ -1018,7 +1100,8 @@
       "panthers":41,
       "sabres":31,
       "sens":37,
-      "tampa":52
+      "tampa":52,
+      "wings":49
     }
   },
   {
@@ -1030,7 +1113,8 @@
       "panthers":41,
       "sabres":31,
       "sens":37,
-      "tampa":52
+      "tampa":52,
+      "wings":49
     }
   },
   {
@@ -1042,7 +1126,8 @@
       "panthers":43,
       "sabres":31,
       "sens":37,
-      "tampa":52
+      "tampa":52,
+      "wings":49
     }
   },
   {
@@ -1054,7 +1139,8 @@
       "panthers":43,
       "sabres":31,
       "sens":39,
-      "tampa":52
+      "tampa":52,
+      "wings":49
     }
   },
   {
@@ -1066,7 +1152,8 @@
       "panthers":43,
       "sabres":31,
       "sens":39,
-      "tampa":54
+      "tampa":54,
+      "wings":49
     }
   },
   {
@@ -1078,7 +1165,8 @@
       "panthers":43,
       "sabres":31,
       "sens":39,
-      "tampa":54
+      "tampa":54,
+      "wings":49
     }
   },
   {
@@ -1090,7 +1178,8 @@
       "panthers":43,
       "sabres":31,
       "sens":40,
-      "tampa":56
+      "tampa":56,
+      "wings":51
     }
   },
   {
@@ -1102,7 +1191,8 @@
       "panthers":43,
       "sabres":31,
       "sens":40,
-      "tampa":56
+      "tampa":56,
+      "wings":53
     }
   },
   {
@@ -1114,7 +1204,8 @@
       "panthers":45,
       "sabres":31,
       "sens":40,
-      "tampa":56
+      "tampa":56,
+      "wings":53
     }
   },
   {
@@ -1126,7 +1217,8 @@
       "panthers":47,
       "sabres":31,
       "sens":40,
-      "tampa":58
+      "tampa":58,
+      "wings":53
     }
   },
   {
@@ -1138,7 +1230,8 @@
       "panthers":47,
       "sabres":31,
       "sens":42,
-      "tampa":58
+      "tampa":58,
+      "wings":53
     }
   },
   {
@@ -1150,7 +1243,8 @@
       "panthers":49,
       "sabres":31,
       "sens":42,
-      "tampa":58
+      "tampa":58,
+      "wings":53
     }
   },
   {
@@ -1162,7 +1256,8 @@
       "panthers":49,
       "sabres":31,
       "sens":42,
-      "tampa":58
+      "tampa":58,
+      "wings":53
     }
   },
   {
@@ -1174,7 +1269,8 @@
       "panthers":49,
       "sabres":31,
       "sens":42,
-      "tampa":58
+      "tampa":58,
+      "wings":55
     }
   },
   {
@@ -1186,7 +1282,8 @@
       "panthers":49,
       "sabres":31,
       "sens":42,
-      "tampa":58
+      "tampa":58,
+      "wings":55
     }
   },
   {
@@ -1198,7 +1295,8 @@
       "panthers":49,
       "sabres":31,
       "sens":44,
-      "tampa":60
+      "tampa":60,
+      "wings":57
     }
   },
   {
@@ -1210,7 +1308,8 @@
       "panthers":49,
       "sabres":31,
       "sens":44,
-      "tampa":60
+      "tampa":60,
+      "wings":57
     }
   },
   {
@@ -1222,7 +1321,8 @@
       "panthers":50,
       "sabres":31,
       "sens":44,
-      "tampa":62
+      "tampa":62,
+      "wings":59
     }
   },
   {
@@ -1234,7 +1334,8 @@
       "panthers":50,
       "sabres":31,
       "sens":44,
-      "tampa":62
+      "tampa":62,
+      "wings":61
     }
   },
   {
@@ -1246,7 +1347,8 @@
       "panthers":50,
       "sabres":31,
       "sens":44,
-      "tampa":62
+      "tampa":62,
+      "wings":61
     }
   },
   {
@@ -1258,7 +1360,8 @@
       "panthers":50,
       "sabres":31,
       "sens":45,
-      "tampa":64
+      "tampa":64,
+      "wings":63
     }
   },
   {
@@ -1270,7 +1373,8 @@
       "panthers":50,
       "sabres":31,
       "sens":47,
-      "tampa":64
+      "tampa":64,
+      "wings":63
     }
   },
   {
@@ -1282,7 +1386,8 @@
       "panthers":50,
       "sabres":31,
       "sens":47,
-      "tampa":64
+      "tampa":64,
+      "wings":63
     }
   },
   {
@@ -1294,7 +1399,8 @@
       "panthers":50,
       "sabres":31,
       "sens":47,
-      "tampa":64
+      "tampa":64,
+      "wings":63
     }
   },
   {
@@ -1306,7 +1412,8 @@
       "panthers":50,
       "sabres":31,
       "sens":47,
-      "tampa":64
+      "tampa":64,
+      "wings":63
     }
   },
   {
@@ -1318,7 +1425,8 @@
       "panthers":50,
       "sabres":31,
       "sens":47,
-      "tampa":64
+      "tampa":64,
+      "wings":63
     }
   },
   {
@@ -1330,7 +1438,8 @@
       "panthers":50,
       "sabres":31,
       "sens":47,
-      "tampa":64
+      "tampa":64,
+      "wings":63
     }
   },
   {
@@ -1342,7 +1451,8 @@
       "panthers":50,
       "sabres":31,
       "sens":47,
-      "tampa":64
+      "tampa":64,
+      "wings":65
     }
   },
   {
@@ -1354,7 +1464,8 @@
       "panthers":50,
       "sabres":31,
       "sens":47,
-      "tampa":64
+      "tampa":64,
+      "wings":65
     }
   },
   {
@@ -1366,7 +1477,8 @@
       "panthers":52,
       "sabres":31,
       "sens":47,
-      "tampa":66
+      "tampa":66,
+      "wings":65
     }
   },
   {
@@ -1378,7 +1490,8 @@
       "panthers":52,
       "sabres":31,
       "sens":47,
-      "tampa":66
+      "tampa":66,
+      "wings":65
     }
   },
   {
@@ -1390,7 +1503,8 @@
       "panthers":52,
       "sabres":31,
       "sens":49,
-      "tampa":68
+      "tampa":68,
+      "wings":67
     }
   },
   {
@@ -1402,7 +1516,8 @@
       "panthers":52,
       "sabres":31,
       "sens":49,
-      "tampa":68
+      "tampa":68,
+      "wings":67
     }
   },
   {
@@ -1414,7 +1529,8 @@
       "panthers":52,
       "sabres":31,
       "sens":49,
-      "tampa":68
+      "tampa":68,
+      "wings":67
     }
   },
   {
@@ -1426,7 +1542,8 @@
       "panthers":54,
       "sabres":33,
       "sens":49,
-      "tampa":69
+      "tampa":69,
+      "wings":67
     }
   },
   {
@@ -1438,7 +1555,8 @@
       "panthers":54,
       "sabres":33,
       "sens":49,
-      "tampa":69
+      "tampa":69,
+      "wings":67
     }
   },
   {
@@ -1450,7 +1568,8 @@
       "panthers":56,
       "sabres":33,
       "sens":49,
-      "tampa":71
+      "tampa":71,
+      "wings":69
     }
   },
   {
@@ -1462,7 +1581,8 @@
       "panthers":56,
       "sabres":33,
       "sens":49,
-      "tampa":71
+      "tampa":71,
+      "wings":69
     }
   },
   {
@@ -1474,7 +1594,8 @@
       "panthers":56,
       "sabres":35,
       "sens":49,
-      "tampa":71
+      "tampa":71,
+      "wings":71
     }
   },
   {
@@ -1486,7 +1607,8 @@
       "panthers":57,
       "sabres":35,
       "sens":49,
-      "tampa":73
+      "tampa":73,
+      "wings":71
     }
   },
   {
@@ -1498,7 +1620,8 @@
       "panthers":57,
       "sabres":35,
       "sens":49,
-      "tampa":73
+      "tampa":73,
+      "wings":71
     }
   },
   {
@@ -1510,7 +1633,8 @@
       "panthers":59,
       "sabres":35,
       "sens":51,
-      "tampa":74
+      "tampa":74,
+      "wings":71
     }
   },
   {
@@ -1522,7 +1646,8 @@
       "panthers":59,
       "sabres":35,
       "sens":51,
-      "tampa":74
+      "tampa":74,
+      "wings":71
     }
   },
   {
@@ -1534,7 +1659,8 @@
       "panthers":59,
       "sabres":35,
       "sens":52,
-      "tampa":74
+      "tampa":74,
+      "wings":71
     }
   },
   {
@@ -1546,7 +1672,8 @@
       "panthers":59,
       "sabres":35,
       "sens":52,
-      "tampa":74
+      "tampa":74,
+      "wings":71
     }
   },
   {
@@ -1558,7 +1685,8 @@
       "panthers":59,
       "sabres":35,
       "sens":54,
-      "tampa":74
+      "tampa":74,
+      "wings":72
     }
   },
   {
@@ -1570,7 +1698,8 @@
       "panthers":60,
       "sabres":35,
       "sens":54,
-      "tampa":76
+      "tampa":76,
+      "wings":72
     }
   },
   {
@@ -1582,7 +1711,8 @@
       "panthers":60,
       "sabres":35,
       "sens":54,
-      "tampa":76
+      "tampa":76,
+      "wings":72
     }
   },
   {
@@ -1594,7 +1724,8 @@
       "panthers":62,
       "sabres":36,
       "sens":54,
-      "tampa":76
+      "tampa":76,
+      "wings":72
     }
   },
   {
@@ -1606,7 +1737,8 @@
       "panthers":62,
       "sabres":36,
       "sens":56,
-      "tampa":78
+      "tampa":78,
+      "wings":74
     }
   },
   {
@@ -1618,7 +1750,8 @@
       "panthers":64,
       "sabres":38,
       "sens":56,
-      "tampa":78
+      "tampa":78,
+      "wings":74
     }
   },
   {
@@ -1630,7 +1763,8 @@
       "panthers":64,
       "sabres":38,
       "sens":56,
-      "tampa":78
+      "tampa":78,
+      "wings":74
     }
   },
   {
@@ -1642,7 +1776,8 @@
       "panthers":64,
       "sabres":38,
       "sens":58,
-      "tampa":80
+      "tampa":80,
+      "wings":76
     }
   },
   {
@@ -1654,7 +1789,8 @@
       "panthers":64,
       "sabres":39,
       "sens":58,
-      "tampa":80
+      "tampa":80,
+      "wings":76
     }
   },
   {
@@ -1666,7 +1802,8 @@
       "panthers":64,
       "sabres":39,
       "sens":58,
-      "tampa":80
+      "tampa":80,
+      "wings":77
     }
   },
   {
@@ -1678,7 +1815,8 @@
       "panthers":65,
       "sabres":41,
       "sens":58,
-      "tampa":80
+      "tampa":80,
+      "wings":77
     }
   },
   {
@@ -1690,7 +1828,8 @@
       "panthers":65,
       "sabres":41,
       "sens":60,
-      "tampa":80
+      "tampa":80,
+      "wings":77
     }
   },
   {
@@ -1702,7 +1841,8 @@
       "panthers":65,
       "sabres":43,
       "sens":62,
-      "tampa":80
+      "tampa":80,
+      "wings":79
     }
   },
   {
@@ -1714,7 +1854,8 @@
       "panthers":65,
       "sabres":43,
       "sens":62,
-      "tampa":82
+      "tampa":82,
+      "wings":79
     }
   },
   {
@@ -1726,7 +1867,8 @@
       "panthers":67,
       "sabres":43,
       "sens":64,
-      "tampa":82
+      "tampa":82,
+      "wings":81
     }
   },
   {
@@ -1738,7 +1880,8 @@
       "panthers":69,
       "sabres":43,
       "sens":64,
-      "tampa":82
+      "tampa":82,
+      "wings":81
     }
   },
   {
@@ -1750,7 +1893,8 @@
       "panthers":69,
       "sabres":43,
       "sens":64,
-      "tampa":82
+      "tampa":82,
+      "wings":81
     }
   },
   {
@@ -1762,7 +1906,8 @@
       "panthers":69,
       "sabres":43,
       "sens":65,
-      "tampa":84
+      "tampa":84,
+      "wings":81
     }
   },
   {
@@ -1774,7 +1919,8 @@
       "panthers":69,
       "sabres":43,
       "sens":67,
-      "tampa":84
+      "tampa":84,
+      "wings":83
     }
   },
   {
@@ -1786,7 +1932,8 @@
       "panthers":70,
       "sabres":43,
       "sens":67,
-      "tampa":86
+      "tampa":86,
+      "wings":83
     }
   },
   {
@@ -1798,7 +1945,8 @@
       "panthers":70,
       "sabres":43,
       "sens":69,
-      "tampa":86
+      "tampa":86,
+      "wings":83
     }
   },
   {
@@ -1810,7 +1958,8 @@
       "panthers":72,
       "sabres":43,
       "sens":69,
-      "tampa":88
+      "tampa":88,
+      "wings":83
     }
   },
   {
@@ -1822,7 +1971,8 @@
       "panthers":72,
       "sabres":43,
       "sens":71,
-      "tampa":88
+      "tampa":88,
+      "wings":83
     }
   },
   {
@@ -1834,7 +1984,8 @@
       "panthers":72,
       "sabres":43,
       "sens":71,
-      "tampa":88
+      "tampa":88,
+      "wings":85
     }
   },
   {
@@ -1846,7 +1997,8 @@
       "panthers":72,
       "sabres":43,
       "sens":71,
-      "tampa":90
+      "tampa":90,
+      "wings":85
     }
   },
   {
@@ -1858,7 +2010,8 @@
       "panthers":72,
       "sabres":44,
       "sens":71,
-      "tampa":90
+      "tampa":90,
+      "wings":85
     }
   },
   {
@@ -1870,7 +2023,8 @@
       "panthers":74,
       "sabres":44,
       "sens":73,
-      "tampa":91
+      "tampa":91,
+      "wings":85
     }
   },
   {
@@ -1882,7 +2036,8 @@
       "panthers":74,
       "sabres":44,
       "sens":75,
-      "tampa":91
+      "tampa":91,
+      "wings":85
     }
   },
   {
@@ -1894,7 +2049,8 @@
       "panthers":76,
       "sabres":44,
       "sens":75,
-      "tampa":91
+      "tampa":91,
+      "wings":85
     }
   },
   {
@@ -1906,7 +2062,8 @@
       "panthers":76,
       "sabres":44,
       "sens":77,
-      "tampa":91
+      "tampa":91,
+      "wings":87
     }
   },
   {
@@ -1918,7 +2075,8 @@
       "panthers":76,
       "sabres":45,
       "sens":77,
-      "tampa":93
+      "tampa":93,
+      "wings":87
     }
   },
   {
@@ -1930,7 +2088,8 @@
       "panthers":76,
       "sabres":47,
       "sens":79,
-      "tampa":93
+      "tampa":93,
+      "wings":87
     }
   },
   {
@@ -1942,7 +2101,8 @@
       "panthers":76,
       "sabres":47,
       "sens":79,
-      "tampa":93
+      "tampa":93,
+      "wings":87
     }
   },
   {
@@ -1954,7 +2114,8 @@
       "panthers":78,
       "sabres":47,
       "sens":81,
-      "tampa":93
+      "tampa":93,
+      "wings":87
     }
   },
   {
@@ -1966,7 +2127,8 @@
       "panthers":78,
       "sabres":47,
       "sens":81,
-      "tampa":95
+      "tampa":95,
+      "wings":87
     }
   },
   {
@@ -1978,7 +2140,8 @@
       "panthers":80,
       "sabres":47,
       "sens":83,
-      "tampa":95
+      "tampa":95,
+      "wings":87
     }
   },
   {
@@ -1990,7 +2153,8 @@
       "panthers":80,
       "sabres":47,
       "sens":83,
-      "tampa":97
+      "tampa":97,
+      "wings":89
     }
   },
   {
@@ -2002,7 +2166,8 @@
       "panthers":80,
       "sabres":47,
       "sens":85,
-      "tampa":97
+      "tampa":97,
+      "wings":89
     }
   },
   {
@@ -2014,7 +2179,8 @@
       "panthers":80,
       "sabres":47,
       "sens":85,
-      "tampa":99
+      "tampa":99,
+      "wings":90
     }
   },
   {
@@ -2026,7 +2192,8 @@
       "panthers":80,
       "sabres":47,
       "sens":85,
-      "tampa":99
+      "tampa":99,
+      "wings":90
     }
   },
   {
@@ -2038,7 +2205,8 @@
       "panthers":82,
       "sabres":48,
       "sens":85,
-      "tampa":99
+      "tampa":99,
+      "wings":90
     }
   },
   {
@@ -2050,7 +2218,8 @@
       "panthers":82,
       "sabres":48,
       "sens":85,
-      "tampa":99
+      "tampa":99,
+      "wings":90
     }
   },
   {
@@ -2062,7 +2231,8 @@
       "panthers":83,
       "sabres":48,
       "sens":86,
-      "tampa":99
+      "tampa":99,
+      "wings":92
     }
   },
   {
@@ -2074,7 +2244,8 @@
       "panthers":85,
       "sabres":48,
       "sens":86,
-      "tampa":99
+      "tampa":99,
+      "wings":92
     }
   },
   {
@@ -2086,7 +2257,8 @@
       "panthers":85,
       "sabres":50,
       "sens":86,
-      "tampa":101
+      "tampa":101,
+      "wings":92
     }
   },
   {
@@ -2098,7 +2270,8 @@
       "panthers":85,
       "sabres":50,
       "sens":88,
-      "tampa":101
+      "tampa":101,
+      "wings":93
     }
   },
   {
@@ -2110,7 +2283,8 @@
       "panthers":85,
       "sabres":52,
       "sens":88,
-      "tampa":101
+      "tampa":101,
+      "wings":93
     }
   },
   {
@@ -2122,7 +2296,8 @@
       "panthers":87,
       "sabres":52,
       "sens":90,
-      "tampa":102
+      "tampa":102,
+      "wings":93
     }
   },
   {
@@ -2134,7 +2309,8 @@
       "panthers":87,
       "sabres":52,
       "sens":90,
-      "tampa":102
+      "tampa":102,
+      "wings":93
     }
   },
   {
@@ -2146,7 +2322,8 @@
       "panthers":87,
       "sabres":52,
       "sens":92,
-      "tampa":104
+      "tampa":104,
+      "wings":95
     }
   },
   {
@@ -2158,7 +2335,8 @@
       "panthers":87,
       "sabres":52,
       "sens":93,
-      "tampa":104
+      "tampa":104,
+      "wings":95
     }
   },
   {
@@ -2170,7 +2348,8 @@
       "panthers":87,
       "sabres":54,
       "sens":93,
-      "tampa":104
+      "tampa":104,
+      "wings":95
     }
   },
   {
@@ -2182,7 +2361,8 @@
       "panthers":87,
       "sabres":54,
       "sens":95,
-      "tampa":104
+      "tampa":104,
+      "wings":97
     }
   },
   {
@@ -2194,7 +2374,8 @@
       "panthers":87,
       "sabres":54,
       "sens":95,
-      "tampa":104
+      "tampa":104,
+      "wings":97
     }
   },
   {
@@ -2206,7 +2387,8 @@
       "panthers":89,
       "sabres":54,
       "sens":97,
-      "tampa":106
+      "tampa":106,
+      "wings":98
     }
   },
   {
@@ -2218,7 +2400,8 @@
       "panthers":89,
       "sabres":54,
       "sens":97,
-      "tampa":106
+      "tampa":106,
+      "wings":98
     }
   },
   {
@@ -2230,7 +2413,8 @@
       "panthers":91,
       "sabres":54,
       "sens":99,
-      "tampa":108
+      "tampa":108,
+      "wings":100
     }
   }
 ]
