@@ -1,332 +1,496 @@
 {
-  "oilers-season": [
+  "oilers-season":[
     {
-      "date": "Thu, 9 Oct 2014",
-      "score": "FINAL CGY (5) - EDM (2)"
+      "date":"Thu, 9 Oct 2014",
+      "score":"EDM (2) - CGY (5)",
+      "points":0,
+      "totalPoints":0
     },
     {
-      "date": "Sat, 11 Oct 2014",
-      "score": "FINAL EDM (4) - VAN (5) SO"
+      "date":"Sat, 11 Oct 2014",
+      "score":"EDM (4) - VAN (5) OT",
+      "points":1,
+      "totalPoints":1
     },
     {
-      "date": "Tue, 14 Oct 2014",
-      "score": "FINAL EDM (1) - LAK (6)"
+      "date":"Tue, 14 Oct 2014",
+      "score":"EDM (1) - LAK (6)",
+      "points":0,
+      "totalPoints":1
     },
     {
-      "date": "Wed, 15 Oct 2014",
-      "score": "FINAL EDM (4) - ARI (7)"
+      "date":"Wed, 15 Oct 2014",
+      "score":"EDM (4) - ARI (7)",
+      "points":0,
+      "totalPoints":1
     },
     {
-      "date": "Fri, 17 Oct 2014",
-      "score": "FINAL VAN (2) - EDM (0)"
+      "date":"Fri, 17 Oct 2014",
+      "score":"EDM (0) - VAN (2)",
+      "points":0,
+      "totalPoints":1
     },
     {
-      "date": "Mon, 20 Oct 2014",
-      "score": "FINAL TBL (2) - EDM (3)"
+      "date":"Mon, 20 Oct 2014",
+      "score":"EDM (3) - TBL (2)",
+      "points":2,
+      "totalPoints":3
     },
     {
-      "date": "Wed, 22 Oct 2014",
-      "score": "FINAL WSH (2) - EDM (3)"
+      "date":"Wed, 22 Oct 2014",
+      "score":"EDM (3) - WSH (2)",
+      "points":2,
+      "totalPoints":5
     },
     {
-      "date": "Fri, 24 Oct 2014",
-      "score": "FINAL CAR (3) - EDM (6)"
+      "date":"Fri, 24 Oct 2014",
+      "score":"EDM (6) - CAR (3)",
+      "points":2,
+      "totalPoints":7
     },
     {
-      "date": "Mon, 27 Oct 2014",
-      "score": "FINAL MTL (0) - EDM (3)"
+      "date":"Mon, 27 Oct 2014",
+      "score":"EDM (3) - MTL (0)",
+      "points":2,
+      "totalPoints":9
     },
     {
-      "date": "Wed, 29 Oct 2014",
-      "score": "FINAL NSH (4) - EDM (1)"
+      "date":"Wed, 29 Oct 2014",
+      "score":"EDM (1) - NSH (4)",
+      "points":0,
+      "totalPoints":9
     },
     {
-      "date": "Sat, 1 Nov 2014",
-      "score": "FINAL VAN (3) - EDM (2)"
+      "date":"Sat, 1 Nov 2014",
+      "score":"EDM (2) - VAN (3)",
+      "points":0,
+      "totalPoints":9
     },
     {
-      "date": "Tue, 4 Nov 2014",
-      "score": "FINAL EDM (1) - PHI (4)"
+      "date":"Tue, 4 Nov 2014",
+      "score":"EDM (1) - PHI (4)",
+      "points":0,
+      "totalPoints":9
     },
     {
-      "date": "Thu, 6 Nov 2014",
-      "score": "FINAL EDM (2) - BOS (5)"
+      "date":"Thu, 6 Nov 2014",
+      "score":"EDM (2) - BOS (5)",
+      "points":0,
+      "totalPoints":9
     },
     {
-      "date": "Fri, 7 Nov 2014",
-      "score": "FINAL EDM (3) - BUF (2)"
+      "date":"Fri, 7 Nov 2014",
+      "score":"EDM (3) - BUF (2)",
+      "points":2,
+      "totalPoints":11
     },
     {
-      "date": "Sun, 9 Nov 2014",
-      "score": "FINAL EDM (3) - NYR (1)"
+      "date":"Sun, 9 Nov 2014",
+      "score":"EDM (3) - NYR (1)",
+      "points":2,
+      "totalPoints":13
     },
     {
-      "date": "Tue, 11 Nov 2014",
-      "score": "FINAL EDM (2) - NSH (3)"
+      "date":"Tue, 11 Nov 2014",
+      "score":"EDM (2) - NSH (3)",
+      "points":0,
+      "totalPoints":13
     },
     {
-      "date": "Thu, 13 Nov 2014",
-      "score": "FINAL OTT (4) - EDM (3) OT"
+      "date":"Thu, 13 Nov 2014",
+      "score":"EDM (3) - OTT (4) OT",
+      "points":1,
+      "totalPoints":14
     },
     {
-      "date": "Sun, 16 Nov 2014",
-      "score": "FINAL ARI (2) - EDM (1)"
+      "date":"Sun, 16 Nov 2014",
+      "score":"EDM (1) - ARI (2)",
+      "points":0,
+      "totalPoints":14
     },
     {
-      "date": "Wed, 19 Nov 2014",
-      "score": "FINAL VAN (5) - EDM (4)"
+      "date":"Wed, 19 Nov 2014",
+      "score":"EDM (4) - VAN (5)",
+      "points":0,
+      "totalPoints":14
     },
     {
-      "date": "Fri, 21 Nov 2014",
-      "score": "FINAL NJD (2) - EDM (0)"
+      "date":"Fri, 21 Nov 2014",
+      "score":"EDM (0) - NJD (2)",
+      "points":0,
+      "totalPoints":14
     },
     {
-      "date": "Sat, 22 Nov 2014",
-      "score": "FINAL CHI (7) - EDM (1)"
+      "date":"Sat, 22 Nov 2014",
+      "score":"EDM (1) - CHI (7)",
+      "points":0,
+      "totalPoints":14
     },
     {
-      "date": "Tue, 25 Nov 2014",
-      "score": "FINAL EDM (2) - DAL (3)"
+      "date":"Tue, 25 Nov 2014",
+      "score":"EDM (2) - DAL (3)",
+      "points":0,
+      "totalPoints":14
     },
     {
-      "date": "Thu, 27 Nov 2014",
-      "score": "FINAL EDM (0) - NSH (1) OT"
+      "date":"Thu, 27 Nov 2014",
+      "score":"EDM (0) - NSH (1) OT",
+      "points":1,
+      "totalPoints":15
     },
     {
-      "date": "Fri, 28 Nov 2014",
-      "score": "FINAL EDM (3) - STL (4) OT"
+      "date":"Fri, 28 Nov 2014",
+      "score":"EDM (3) - STL (4) OT",
+      "points":1,
+      "totalPoints":16
     },
     {
-      "date": "Mon, 1 Dec 2014",
-      "score": "FINAL ARI (5) - EDM (2)"
+      "date":"Mon, 1 Dec 2014",
+      "score":"EDM (2) - ARI (5)",
+      "points":0,
+      "totalPoints":16
     },
     {
-      "date": "Wed, 3 Dec 2014",
-      "score": "FINAL EDM (2) - WPG (3) OT"
+      "date":"Wed, 3 Dec 2014",
+      "score":"EDM (2) - WPG (3) OT",
+      "points":1,
+      "totalPoints":17
     },
     {
-      "date": "Sun, 7 Dec 2014",
-      "score": "FINAL SJS (1) - EDM (2)"
+      "date":"Sun, 7 Dec 2014",
+      "score":"EDM (2) - SJS (1)",
+      "points":2,
+      "totalPoints":19
     },
     {
-      "date": "Tue, 9 Dec 2014",
-      "score": "FINAL EDM (2) - SJS (5)"
+      "date":"Tue, 9 Dec 2014",
+      "score":"EDM (2) - SJS (5)",
+      "points":0,
+      "totalPoints":19
     },
     {
-      "date": "Wed, 10 Dec 2014",
-      "score": "FINAL EDM (1) - ANA (2)"
+      "date":"Wed, 10 Dec 2014",
+      "score":"EDM (1) - ANA (2)",
+      "points":0,
+      "totalPoints":19
     },
     {
-      "date": "Fri, 12 Dec 2014",
-      "score": "FINAL ANA (4) - EDM (2)"
+      "date":"Fri, 12 Dec 2014",
+      "score":"EDM (2) - ANA (4)",
+      "points":0,
+      "totalPoints":19
     },
     {
-      "date": "Sun, 14 Dec 2014",
-      "score": "FINAL NYR (2) - EDM (0)"
+      "date":"Sun, 14 Dec 2014",
+      "score":"EDM (0) - NYR (2)",
+      "points":0,
+      "totalPoints":19
     },
     {
-      "date": "Tue, 16 Dec 2014",
-      "score": "FINAL EDM (1) - ARI (2) OT"
+      "date":"Tue, 16 Dec 2014",
+      "score":"EDM (1) - ARI (2) OT",
+      "points":1,
+      "totalPoints":20
     },
     {
-      "date": "Thu, 18 Dec 2014",
-      "score": "FINAL EDM (3) - SJS (4)"
+      "date":"Thu, 18 Dec 2014",
+      "score":"EDM (3) - SJS (4)",
+      "points":0,
+      "totalPoints":20
     },
     {
-      "date": "Sun, 21 Dec 2014",
-      "score": "FINAL DAL (6) - EDM (5) SO"
+      "date":"Sun, 21 Dec 2014",
+      "score":"EDM (5) - DAL (6) OT",
+      "points":1,
+      "totalPoints":21
     },
     {
-      "date": "Tue, 23 Dec 2014",
-      "score": "FINAL ARI (5) - EDM (1)"
+      "date":"Tue, 23 Dec 2014",
+      "score":"EDM (1) - ARI (5)",
+      "points":0,
+      "totalPoints":21
     },
     {
-      "date": "Sat, 27 Dec 2014",
-      "score": "FINAL EDM (1) - CGY (4)"
+      "date":"Sat, 27 Dec 2014",
+      "score":"EDM (1) - CGY (4)",
+      "points":0,
+      "totalPoints":21
     },
     {
-      "date": "Tue, 30 Dec 2014",
-      "score": "FINAL LAK (2) - EDM (3) SO"
+      "date":"Tue, 30 Dec 2014",
+      "score":"EDM (3) - LAK (2)",
+      "points":2,
+      "totalPoints":23
     },
     {
-      "date": "Wed, 31 Dec 2014",
-      "score": "FINAL EDM (3) - CGY (4) OT"
+      "date":"Wed, 31 Dec 2014",
+      "score":"EDM (3) - CGY (4) OT",
+      "points":1,
+      "totalPoints":24
     },
     {
-      "date": "Fri, 2 Jan 2015",
-      "score": "FINAL EDM (1) - COL (2) SO"
+      "date":"Fri, 2 Jan 2015",
+      "score":"EDM (1) - COL (2) OT",
+      "points":1,
+      "totalPoints":25
     },
     {
-      "date": "Sun, 4 Jan 2015",
-      "score": "FINAL NYI (2) - EDM (5)"
+      "date":"Sun, 4 Jan 2015",
+      "score":"EDM (5) - NYI (2)",
+      "points":2,
+      "totalPoints":27
     },
     {
-      "date": "Tue, 6 Jan 2015",
-      "score": "FINAL DET (4) - EDM (2)"
+      "date":"Tue, 6 Jan 2015",
+      "score":"EDM (2) - DET (4)",
+      "points":0,
+      "totalPoints":27
     },
     {
-      "date": "Fri, 9 Jan 2015",
-      "score": "FINAL CHI (2) - EDM (5)"
+      "date":"Fri, 9 Jan 2015",
+      "score":"EDM (5) - CHI (2)",
+      "points":2,
+      "totalPoints":29
     },
     {
-      "date": "Sun, 11 Jan 2015",
-      "score": "FINAL FLA (4) - EDM (2)"
+      "date":"Sun, 11 Jan 2015",
+      "score":"EDM (2) - FLA (4)",
+      "points":0,
+      "totalPoints":29
     },
     {
-      "date": "Tue, 13 Jan 2015",
-      "score": "FINAL EDM (2) - STL (4)"
+      "date":"Tue, 13 Jan 2015",
+      "score":"EDM (2) - STL (4)",
+      "points":0,
+      "totalPoints":29
     },
     {
-      "date": "Thu, 15 Jan 2015",
-      "score": "FINAL EDM (2) - TBL (3)"
+      "date":"Thu, 15 Jan 2015",
+      "score":"EDM (2) - TBL (3)",
+      "points":0,
+      "totalPoints":29
     },
     {
-      "date": "Sat, 17 Jan 2015",
-      "score": "FINAL EDM (3) - FLA (2) SO"
+      "date":"Sat, 17 Jan 2015",
+      "score":"EDM (3) - FLA (2)",
+      "points":2,
+      "totalPoints":31
     },
     {
-      "date": "Tue, 20 Jan 2015",
-      "score": "FINAL EDM (5) - WSH (4) SO"
+      "date":"Tue, 20 Jan 2015",
+      "score":"EDM (5) - WSH (4)",
+      "points":2,
+      "totalPoints":33
     },
     {
-      "date": "Tue, 27 Jan 2015",
-      "score": "FINAL MIN (2) - EDM (1)"
+      "date":"Tue, 27 Jan 2015",
+      "score":"EDM (1) - MIN (2)",
+      "points":0,
+      "totalPoints":33
     },
     {
-      "date": "Thu, 29 Jan 2015",
-      "score": "FINAL BUF (2) - EDM (3)"
+      "date":"Thu, 29 Jan 2015",
+      "score":"EDM (3) - BUF (2)",
+      "points":2,
+      "totalPoints":35
     },
     {
-      "date": "Sat, 31 Jan 2015",
-      "score": "FINAL EDM (2) - CGY (4)"
+      "date":"Sat, 31 Jan 2015",
+      "score":"EDM (2) - CGY (4)",
+      "points":0,
+      "totalPoints":35
     },
     {
-      "date": "Mon, 2 Feb 2015",
-      "score": "FINAL EDM (5) - SJS (4) SO"
+      "date":"Mon, 2 Feb 2015",
+      "score":"EDM (5) - SJS (4)",
+      "points":2,
+      "totalPoints":37
     },
     {
-      "date": "Wed, 4 Feb 2015",
-      "score": "FINAL PIT (2) - EDM (0)"
+      "date":"Wed, 4 Feb 2015",
+      "score":"EDM (0) - PIT (2)",
+      "points":0,
+      "totalPoints":37
     },
     {
-      "date": "Sat, 7 Feb 2015",
-      "score": "FINAL EDM (1) - TOR (5)"
+      "date":"Sat, 7 Feb 2015",
+      "score":"EDM (1) - TOR (5)",
+      "points":0,
+      "totalPoints":37
     },
     {
-      "date": "Mon, 9 Feb 2015",
-      "score": "FINAL EDM (2) - NJD (1)"
+      "date":"Mon, 9 Feb 2015",
+      "score":"EDM (2) - NJD (1)",
+      "points":2,
+      "totalPoints":39
     },
     {
-      "date": "Tue, 10 Feb 2015",
-      "score": "FINAL EDM (2) - NYI (3)"
+      "date":"Tue, 10 Feb 2015",
+      "score":"EDM (2) - NYI (3)",
+      "points":0,
+      "totalPoints":39
     },
     {
-      "date": "Thu, 12 Feb 2015",
-      "score": "FINAL EDM (4) - MTL (3) OT"
+      "date":"Thu, 12 Feb 2015",
+      "score":"EDM (4) - MTL (3)",
+      "points":2,
+      "totalPoints":41
     },
     {
-      "date": "Sat, 14 Feb 2015",
-      "score": "FINAL EDM (2) - OTT (7)"
+      "date":"Sat, 14 Feb 2015",
+      "score":"EDM (2) - OTT (7)",
+      "points":0,
+      "totalPoints":41
     },
     {
-      "date": "Mon, 16 Feb 2015",
-      "score": "FINAL EDM (4) - WPG (5) SO"
+      "date":"Mon, 16 Feb 2015",
+      "score":"EDM (4) - WPG (5) OT",
+      "points":1,
+      "totalPoints":42
     },
     {
-      "date": "Wed, 18 Feb 2015",
-      "score": "FINAL BOS (3) - EDM (4) SO"
+      "date":"Wed, 18 Feb 2015",
+      "score":"EDM (4) - BOS (3)",
+      "points":2,
+      "totalPoints":44
     },
     {
-      "date": "Fri, 20 Feb 2015",
-      "score": "FINAL MIN (4) - EDM (0)"
+      "date":"Fri, 20 Feb 2015",
+      "score":"EDM (0) - MIN (4)",
+      "points":0,
+      "totalPoints":44
     },
     {
-      "date": "Sat, 21 Feb 2015",
-      "score": "FINAL ANA (2) - EDM (1)"
+      "date":"Sat, 21 Feb 2015",
+      "score":"EDM (1) - ANA (2)",
+      "points":0,
+      "totalPoints":44
     },
     {
-      "date": "Tue, 24 Feb 2015",
-      "score": "FINAL EDM (2) - MIN (1)"
+      "date":"Tue, 24 Feb 2015",
+      "score":"EDM (2) - MIN (1)",
+      "points":2,
+      "totalPoints":46
     },
     {
-      "date": "Sat, 28 Feb 2015",
-      "score": "FINAL STL (2) - EDM (1)"
+      "date":"Sat, 28 Feb 2015",
+      "score":"EDM (1) - STL (2)",
+      "points":0,
+      "totalPoints":46
     },
     {
-      "date": "Tue, 3 Mar 2015",
-      "score": "FINAL LAK (5) - EDM (2)"
+      "date":"Tue, 3 Mar 2015",
+      "score":"EDM (2) - LAK (5)",
+      "points":0,
+      "totalPoints":46
     },
     {
-      "date": "Fri, 6 Mar 2015",
-      "score": "FINAL EDM (1) - CHI (2) SO"
+      "date":"Fri, 6 Mar 2015",
+      "score":"EDM (1) - CHI (2) OT",
+      "points":1,
+      "totalPoints":47
     },
     {
-      "date": "Sun, 8 Mar 2015",
-      "score": "FINAL EDM (4) - CAR (7)"
+      "date":"Sun, 8 Mar 2015",
+      "score":"EDM (4) - CAR (7)",
+      "points":0,
+      "totalPoints":47
     },
     {
-      "date": "Mon, 9 Mar 2015",
-      "score": "FINAL EDM (2) - DET (5)"
+      "date":"Mon, 9 Mar 2015",
+      "score":"EDM (2) - DET (5)",
+      "points":0,
+      "totalPoints":47
     },
     {
-      "date": "Thu, 12 Mar 2015",
-      "score": "FINAL EDM (4) - PIT (6)"
+      "date":"Thu, 12 Mar 2015",
+      "score":"EDM (4) - PIT (6)",
+      "points":0,
+      "totalPoints":47
     },
     {
-      "date": "Fri, 13 Mar 2015",
-      "score": "FINAL EDM (4) - CBJ (5) SO"
+      "date":"Fri, 13 Mar 2015",
+      "score":"EDM (4) - CBJ (5) OT",
+      "points":1,
+      "totalPoints":48
     },
     {
-      "date": "Mon, 16 Mar 2015",
-      "score": "FINAL TOR (1) - EDM (4)"
+      "date":"Mon, 16 Mar 2015",
+      "score":"EDM (4) - TOR (1)",
+      "points":2,
+      "totalPoints":50
     },
     {
-      "date": "Wed, 18 Mar 2015",
-      "score": "FINAL CBJ (4) - EDM (3) SO"
+      "date":"Wed, 18 Mar 2015",
+      "score":"EDM (3) - CBJ (4) OT",
+      "points":1,
+      "totalPoints":51
     },
     {
-      "date": "Sat, 21 Mar 2015",
-      "score": "FINAL PHI (4) - EDM (5) OT"
+      "date":"Sat, 21 Mar 2015",
+      "score":"EDM (5) - PHI (4)",
+      "points":2,
+      "totalPoints":53
     },
     {
-      "date": "Mon, 23 Mar 2015",
-      "score": "FINAL WPG (4) - EDM (1)"
+      "date":"Mon, 23 Mar 2015",
+      "score":"EDM (1) - WPG (4)",
+      "points":0,
+      "totalPoints":53
     },
     {
-      "date": "Wed, 25 Mar 2015",
-      "score": "FINAL COL (3) - EDM (4)"
+      "date":"Wed, 25 Mar 2015",
+      "score":"EDM (4) - COL (3)",
+      "points":2,
+      "totalPoints":55
     },
     {
-      "date": "Fri, 27 Mar 2015",
-      "score": "FINAL DAL (0) - EDM (4)"
+      "date":"Fri, 27 Mar 2015",
+      "score":"EDM (4) - DAL (0)",
+      "points":2,
+      "totalPoints":57
     },
     {
-      "date": "Mon, 30 Mar 2015",
-      "score": "FINAL EDM (4) - COL (1)"
+      "date":"Mon, 30 Mar 2015",
+      "score":"EDM (4) - COL (1)",
+      "points":2,
+      "totalPoints":59
     },
     {
-      "date": "Wed, 1 Apr 2015",
-      "score": "FINAL EDM (1) - ANA (5)"
+      "date":"Wed, 1 Apr 2015",
+      "score":"EDM (1) - ANA (5)",
+      "points":0,
+      "totalPoints":59
     },
     {
-      "date": "Thu, 2 Apr 2015",
-      "score": "FINAL EDM (2) - LAK (8)"
+      "date":"Thu, 2 Apr 2015",
+      "score":"EDM (2) - LAK (8)",
+      "points":0,
+      "totalPoints":59
     },
     {
-      "date": "Sat, 4 Apr 2015",
-      "score": "FINAL CGY (4) - EDM (0)"
+      "date":"Sat, 4 Apr 2015",
+      "score":"EDM (0) - CGY (4)",
+      "points":0,
+      "totalPoints":59
     },
     {
-      "date": "Tue, 7 Apr 2015",
-      "score": "FINAL LAK (2) - EDM (4)"
+      "date":"Tue, 7 Apr 2015",
+      "score":"EDM (4) - LAK (2)",
+      "points":2,
+      "totalPoints":61
     },
     {
-      "date": "Thu, 9 Apr 2015",
-      "score": "FINAL SJS (3) - EDM (1)"
+      "date":"Thu, 9 Apr 2015",
+      "score":"EDM (1) - SJS (3)",
+      "points":0,
+      "totalPoints":61
     },
     {
-      "date": "Sat, 11 Apr 2015",
-      "score": "FINAL EDM (5) - VAN (6) OT"
+      "date":"Sat, 11 Apr 2015",
+      "score":"EDM (5) - VAN (6) OT",
+      "points":1,
+      "totalPoints":62
     }
   ]
 }

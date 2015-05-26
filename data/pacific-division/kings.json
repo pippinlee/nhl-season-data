@@ -1,332 +1,496 @@
 {
-  "kings-season": [
+  "kings-season":[
     {
-      "date": "Wed Oct 8, 2014",
-      "score": "FINAL SJS (4) - LAK (0)"
+      "date":"Wed Oct 8, 2014",
+      "score":"LAK (0) - SJS (4)",
+      "points":0,
+      "totalPoints":0
     },
     {
-      "date": "Sat Oct 11, 2014",
-      "score": "FINAL LAK (2) - ARI (3) OT"
+      "date":"Sat Oct 11, 2014",
+      "score":"LAK (2) - ARI (3) OT",
+      "points":1,
+      "totalPoints":1
     },
     {
-      "date": "Sun Oct 12, 2014",
-      "score": "FINAL WPG (1) - LAK (4)"
+      "date":"Sun Oct 12, 2014",
+      "score":"LAK (4) - WPG (1)",
+      "points":2,
+      "totalPoints":3
     },
     {
-      "date": "Tue Oct 14, 2014",
-      "score": "FINAL EDM (1) - LAK (6)"
+      "date":"Tue Oct 14, 2014",
+      "score":"LAK (6) - EDM (1)",
+      "points":2,
+      "totalPoints":5
     },
     {
-      "date": "Thu Oct 16, 2014",
-      "score": "FINAL STL (0) - LAK (1) SO"
+      "date":"Thu Oct 16, 2014",
+      "score":"LAK (1) - STL (0)",
+      "points":2,
+      "totalPoints":7
     },
     {
-      "date": "Sun Oct 19, 2014",
-      "score": "FINAL MIN (1) - LAK (2)"
+      "date":"Sun Oct 19, 2014",
+      "score":"LAK (2) - MIN (1)",
+      "points":2,
+      "totalPoints":9
     },
     {
-      "date": "Thu Oct 23, 2014",
-      "score": "FINAL BUF (0) - LAK (2)"
+      "date":"Thu Oct 23, 2014",
+      "score":"LAK (2) - BUF (0)",
+      "points":2,
+      "totalPoints":11
     },
     {
-      "date": "Sun Oct 26, 2014",
-      "score": "FINAL CBJ (2) - LAK (5)"
+      "date":"Sun Oct 26, 2014",
+      "score":"LAK (5) - CBJ (2)",
+      "points":2,
+      "totalPoints":13
     },
     {
-      "date": "Tue Oct 28, 2014",
-      "score": "FINAL LAK (2) - PHI (3) OT"
+      "date":"Tue Oct 28, 2014",
+      "score":"LAK (2) - PHI (3) OT",
+      "points":1,
+      "totalPoints":14
     },
     {
-      "date": "Thu Oct 30, 2014",
-      "score": "FINAL LAK (0) - PIT (3)"
+      "date":"Thu Oct 30, 2014",
+      "score":"LAK (0) - PIT (3)",
+      "points":0,
+      "totalPoints":14
     },
     {
-      "date": "Fri Oct 31, 2014",
-      "score": "FINAL LAK (2) - DET (5)"
+      "date":"Fri Oct 31, 2014",
+      "score":"LAK (2) - DET (5)",
+      "points":0,
+      "totalPoints":14
     },
     {
-      "date": "Sun Nov 2, 2014",
-      "score": "FINAL LAK (2) - CAR (3)"
+      "date":"Sun Nov 2, 2014",
+      "score":"LAK (2) - CAR (3)",
+      "points":0,
+      "totalPoints":14
     },
     {
-      "date": "Tue Nov 4, 2014",
-      "score": "FINAL LAK (3) - DAL (1)"
+      "date":"Tue Nov 4, 2014",
+      "score":"LAK (3) - DAL (1)",
+      "points":2,
+      "totalPoints":16
     },
     {
-      "date": "Thu Nov 6, 2014",
-      "score": "FINAL NYI (2) - LAK (1) SO"
+      "date":"Thu Nov 6, 2014",
+      "score":"LAK (1) - NYI (2) OT",
+      "points":1,
+      "totalPoints":17
     },
     {
-      "date": "Sat Nov 8, 2014",
-      "score": "FINAL VAN (1) - LAK (5)"
+      "date":"Sat Nov 8, 2014",
+      "score":"LAK (5) - VAN (1)",
+      "points":2,
+      "totalPoints":19
     },
     {
-      "date": "Wed Nov 12, 2014",
-      "score": "FINAL LAK (5) - ANA (6) SO"
+      "date":"Wed Nov 12, 2014",
+      "score":"LAK (5) - ANA (6) OT",
+      "points":1,
+      "totalPoints":20
     },
     {
-      "date": "Thu Nov 13, 2014",
-      "score": "FINAL DAL (2) - LAK (0)"
+      "date":"Thu Nov 13, 2014",
+      "score":"LAK (0) - DAL (2)",
+      "points":0,
+      "totalPoints":20
     },
     {
-      "date": "Sat Nov 15, 2014",
-      "score": "FINAL ANA (2) - LAK (3) OT"
+      "date":"Sat Nov 15, 2014",
+      "score":"LAK (3) - ANA (2)",
+      "points":2,
+      "totalPoints":22
     },
     {
-      "date": "Tue Nov 18, 2014",
-      "score": "FINAL FLA (2) - LAK (5)"
+      "date":"Tue Nov 18, 2014",
+      "score":"LAK (5) - FLA (2)",
+      "points":2,
+      "totalPoints":24
     },
     {
-      "date": "Thu Nov 20, 2014",
-      "score": "FINAL CAR (2) - LAK (3)"
+      "date":"Thu Nov 20, 2014",
+      "score":"LAK (3) - CAR (2)",
+      "points":2,
+      "totalPoints":26
     },
     {
-      "date": "Sat Nov 22, 2014",
-      "score": "FINAL LAK (4) - DAL (5)"
+      "date":"Sat Nov 22, 2014",
+      "score":"LAK (4) - DAL (5)",
+      "points":0,
+      "totalPoints":26
     },
     {
-      "date": "Tue Nov 25, 2014",
-      "score": "FINAL LAK (3) - NSH (4) SO"
+      "date":"Tue Nov 25, 2014",
+      "score":"LAK (3) - NSH (4) OT",
+      "points":1,
+      "totalPoints":27
     },
     {
-      "date": "Wed Nov 26, 2014",
-      "score": "FINAL LAK (4) - MIN (0)"
+      "date":"Wed Nov 26, 2014",
+      "score":"LAK (4) - MIN (0)",
+      "points":2,
+      "totalPoints":29
     },
     {
-      "date": "Sat Nov 29, 2014",
-      "score": "FINAL CHI (4) - LAK (1)"
+      "date":"Sat Nov 29, 2014",
+      "score":"LAK (1) - CHI (4)",
+      "points":0,
+      "totalPoints":29
     },
     {
-      "date": "Tue Dec 2, 2014",
-      "score": "FINAL BOS (0) - LAK (2)"
+      "date":"Tue Dec 2, 2014",
+      "score":"LAK (2) - BOS (0)",
+      "points":2,
+      "totalPoints":31
     },
     {
-      "date": "Thu Dec 4, 2014",
-      "score": "FINAL LAK (4) - ARI (0)"
+      "date":"Thu Dec 4, 2014",
+      "score":"LAK (4) - ARI (0)",
+      "points":2,
+      "totalPoints":33
     },
     {
-      "date": "Sat Dec 6, 2014",
-      "score": "FINAL PHI (2) - LAK (1)"
+      "date":"Sat Dec 6, 2014",
+      "score":"LAK (1) - PHI (2)",
+      "points":0,
+      "totalPoints":33
     },
     {
-      "date": "Tue Dec 9, 2014",
-      "score": "FINAL LAK (0) - BUF (1)"
+      "date":"Tue Dec 9, 2014",
+      "score":"LAK (0) - BUF (1)",
+      "points":0,
+      "totalPoints":33
     },
     {
-      "date": "Thu Dec 11, 2014",
-      "score": "FINAL LAK (5) - OTT (3)"
+      "date":"Thu Dec 11, 2014",
+      "score":"LAK (5) - OTT (3)",
+      "points":2,
+      "totalPoints":35
     },
     {
-      "date": "Fri Dec 12, 2014",
-      "score": "FINAL LAK (2) - MTL (6)"
+      "date":"Fri Dec 12, 2014",
+      "score":"LAK (2) - MTL (6)",
+      "points":0,
+      "totalPoints":35
     },
     {
-      "date": "Sun Dec 14, 2014",
-      "score": "FINAL LAK (3) - TOR (4) SO"
+      "date":"Sun Dec 14, 2014",
+      "score":"LAK (3) - TOR (4) OT",
+      "points":1,
+      "totalPoints":36
     },
     {
-      "date": "Tue Dec 16, 2014",
-      "score": "FINAL LAK (2) - STL (5)"
+      "date":"Tue Dec 16, 2014",
+      "score":"LAK (2) - STL (5)",
+      "points":0,
+      "totalPoints":36
     },
     {
-      "date": "Thu Dec 18, 2014",
-      "score": "FINAL STL (4) - LAK (6)"
+      "date":"Thu Dec 18, 2014",
+      "score":"LAK (6) - STL (4)",
+      "points":2,
+      "totalPoints":38
     },
     {
-      "date": "Sat Dec 20, 2014",
-      "score": "FINAL ARI (2) - LAK (4)"
+      "date":"Sat Dec 20, 2014",
+      "score":"LAK (4) - ARI (2)",
+      "points":2,
+      "totalPoints":40
     },
     {
-      "date": "Mon Dec 22, 2014",
-      "score": "FINAL CGY (4) - LAK (3) OT"
+      "date":"Mon Dec 22, 2014",
+      "score":"LAK (3) - CGY (4) OT",
+      "points":1,
+      "totalPoints":41
     },
     {
-      "date": "Sat Dec 27, 2014",
-      "score": "FINAL SJS (1) - LAK (3)"
+      "date":"Sat Dec 27, 2014",
+      "score":"LAK (3) - SJS (1)",
+      "points":2,
+      "totalPoints":43
     },
     {
-      "date": "Mon Dec 29, 2014",
-      "score": "FINAL LAK (1) - CGY (2)"
+      "date":"Mon Dec 29, 2014",
+      "score":"LAK (1) - CGY (2)",
+      "points":0,
+      "totalPoints":43
     },
     {
-      "date": "Tue Dec 30, 2014",
-      "score": "FINAL LAK (2) - EDM (3) SO"
+      "date":"Tue Dec 30, 2014",
+      "score":"LAK (2) - EDM (3) OT",
+      "points":1,
+      "totalPoints":44
     },
     {
-      "date": "Thu Jan 1, 2015",
-      "score": "FINAL LAK (3) - VAN (2)"
+      "date":"Thu Jan 1, 2015",
+      "score":"LAK (3) - VAN (2)",
+      "points":2,
+      "totalPoints":46
     },
     {
-      "date": "Sat Jan 3, 2015",
-      "score": "FINAL NSH (7) - LAK (6) OT"
+      "date":"Sat Jan 3, 2015",
+      "score":"LAK (6) - NSH (7) OT",
+      "points":1,
+      "totalPoints":47
     },
     {
-      "date": "Thu Jan 8, 2015",
-      "score": "FINAL NYR (4) - LAK (3)"
+      "date":"Thu Jan 8, 2015",
+      "score":"LAK (3) - NYR (4)",
+      "points":0,
+      "totalPoints":47
     },
     {
-      "date": "Sat Jan 10, 2015",
-      "score": "FINAL WPG (5) - LAK (4) SO"
+      "date":"Sat Jan 10, 2015",
+      "score":"LAK (4) - WPG (5) OT",
+      "points":1,
+      "totalPoints":48
     },
     {
-      "date": "Mon Jan 12, 2015",
-      "score": "FINAL TOR (0) - LAK (2)"
+      "date":"Mon Jan 12, 2015",
+      "score":"LAK (2) - TOR (0)",
+      "points":2,
+      "totalPoints":50
     },
     {
-      "date": "Wed Jan 14, 2015",
-      "score": "FINAL NJD (5) - LAK (3)"
+      "date":"Wed Jan 14, 2015",
+      "score":"LAK (3) - NJD (5)",
+      "points":0,
+      "totalPoints":50
     },
     {
-      "date": "Sat Jan 17, 2015",
-      "score": "FINAL ANA (3) - LAK (2) SO"
+      "date":"Sat Jan 17, 2015",
+      "score":"LAK (2) - ANA (3) OT",
+      "points":1,
+      "totalPoints":51
     },
     {
-      "date": "Mon Jan 19, 2015",
-      "score": "FINAL CGY (2) - LAK (1) OT"
+      "date":"Mon Jan 19, 2015",
+      "score":"LAK (1) - CGY (2) OT",
+      "points":1,
+      "totalPoints":52
     },
     {
-      "date": "Wed Jan 21, 2015",
-      "score": "FINAL LAK (2) - SJS (4)"
+      "date":"Wed Jan 21, 2015",
+      "score":"LAK (2) - SJS (4)",
+      "points":0,
+      "totalPoints":52
     },
     {
-      "date": "Wed Jan 28, 2015",
-      "score": "FINAL CHI (3) - LAK (4)"
+      "date":"Wed Jan 28, 2015",
+      "score":"LAK (4) - CHI (3)",
+      "points":2,
+      "totalPoints":54
     },
     {
-      "date": "Sat Jan 31, 2015",
-      "score": "FINAL LAK (1) - BOS (3)"
+      "date":"Sat Jan 31, 2015",
+      "score":"LAK (1) - BOS (3)",
+      "points":0,
+      "totalPoints":54
     },
     {
-      "date": "Tue Feb 3, 2015",
-      "score": "FINAL LAK (0) - WSH (4)"
+      "date":"Tue Feb 3, 2015",
+      "score":"LAK (0) - WSH (4)",
+      "points":0,
+      "totalPoints":54
     },
     {
-      "date": "Thu Feb 5, 2015",
-      "score": "FINAL LAK (2) - FLA (3)"
+      "date":"Thu Feb 5, 2015",
+      "score":"LAK (2) - FLA (3)",
+      "points":0,
+      "totalPoints":54
     },
     {
-      "date": "Sat Feb 7, 2015",
-      "score": "FINAL LAK (4) - TBL (2)"
+      "date":"Sat Feb 7, 2015",
+      "score":"LAK (4) - TBL (2)",
+      "points":2,
+      "totalPoints":56
     },
     {
-      "date": "Mon Feb 9, 2015",
-      "score": "FINAL LAK (4) - CBJ (3)"
+      "date":"Mon Feb 9, 2015",
+      "score":"LAK (4) - CBJ (3)",
+      "points":2,
+      "totalPoints":58
     },
     {
-      "date": "Thu Feb 12, 2015",
-      "score": "FINAL CGY (3) - LAK (5)"
+      "date":"Thu Feb 12, 2015",
+      "score":"LAK (5) - CGY (3)",
+      "points":2,
+      "totalPoints":60
     },
     {
-      "date": "Sat Feb 14, 2015",
-      "score": "FINAL WSH (1) - LAK (3)"
+      "date":"Sat Feb 14, 2015",
+      "score":"LAK (3) - WSH (1)",
+      "points":2,
+      "totalPoints":62
     },
     {
-      "date": "Mon Feb 16, 2015",
-      "score": "FINAL TBL (2) - LAK (3)"
+      "date":"Mon Feb 16, 2015",
+      "score":"LAK (3) - TBL (2)",
+      "points":2,
+      "totalPoints":64
     },
     {
-      "date": "Wed Feb 18, 2015",
-      "score": "FINAL LAK (4) - COL (1)"
+      "date":"Wed Feb 18, 2015",
+      "score":"LAK (4) - COL (1)",
+      "points":2,
+      "totalPoints":66
     },
     {
-      "date": "Sat Feb 21, 2015",
-      "score": "FINAL LAK (2) - SJS (1)"
+      "date":"Sat Feb 21, 2015",
+      "score":"LAK (2) - SJS (1)",
+      "points":2,
+      "totalPoints":68
     },
     {
-      "date": "Tue Feb 24, 2015",
-      "score": "FINAL DET (0) - LAK (1)"
+      "date":"Tue Feb 24, 2015",
+      "score":"LAK (1) - DET (0)",
+      "points":2,
+      "totalPoints":70
     },
     {
-      "date": "Thu Feb 26, 2015",
-      "score": "FINAL OTT (1) - LAK (0)"
+      "date":"Thu Feb 26, 2015",
+      "score":"LAK (0) - OTT (1)",
+      "points":0,
+      "totalPoints":70
     },
     {
-      "date": "Fri Feb 27, 2015",
-      "score": "FINAL LAK (2) - ANA (4)"
+      "date":"Fri Feb 27, 2015",
+      "score":"LAK (2) - ANA (4)",
+      "points":0,
+      "totalPoints":70
     },
     {
-      "date": "Sun Mar 1, 2015",
-      "score": "FINAL LAK (2) - WPG (5)"
+      "date":"Sun Mar 1, 2015",
+      "score":"LAK (2) - WPG (5)",
+      "points":0,
+      "totalPoints":70
     },
     {
-      "date": "Tue Mar 3, 2015",
-      "score": "FINAL LAK (5) - EDM (2)"
+      "date":"Tue Mar 3, 2015",
+      "score":"LAK (5) - EDM (2)",
+      "points":2,
+      "totalPoints":72
     },
     {
-      "date": "Thu Mar 5, 2015",
-      "score": "FINAL MTL (3) - LAK (4) SO"
+      "date":"Thu Mar 5, 2015",
+      "score":"LAK (4) - MTL (3)",
+      "points":2,
+      "totalPoints":74
     },
     {
-      "date": "Sat Mar 7, 2015",
-      "score": "FINAL PIT (1) - LAK (0) OT"
+      "date":"Sat Mar 7, 2015",
+      "score":"LAK (0) - PIT (1) OT",
+      "points":1,
+      "totalPoints":75
     },
     {
-      "date": "Tue Mar 10, 2015",
-      "score": "FINAL LAK (5) - COL (2)"
+      "date":"Tue Mar 10, 2015",
+      "score":"LAK (5) - COL (2)",
+      "points":2,
+      "totalPoints":77
     },
     {
-      "date": "Thu Mar 12, 2015",
-      "score": "FINAL LAK (4) - VAN (0)"
+      "date":"Thu Mar 12, 2015",
+      "score":"LAK (4) - VAN (0)",
+      "points":2,
+      "totalPoints":79
     },
     {
-      "date": "Sat Mar 14, 2015",
-      "score": "FINAL NSH (2) - LAK (1)"
+      "date":"Sat Mar 14, 2015",
+      "score":"LAK (1) - NSH (2)",
+      "points":0,
+      "totalPoints":79
     },
     {
-      "date": "Mon Mar 16, 2015",
-      "score": "FINAL ARI (0) - LAK (1)"
+      "date":"Mon Mar 16, 2015",
+      "score":"LAK (1) - ARI (0)",
+      "points":2,
+      "totalPoints":81
     },
     {
-      "date": "Wed Mar 18, 2015",
-      "score": "FINAL LAK (2) - ANA (3) OT"
+      "date":"Wed Mar 18, 2015",
+      "score":"LAK (2) - ANA (3) OT",
+      "points":1,
+      "totalPoints":82
     },
     {
-      "date": "Sat Mar 21, 2015",
-      "score": "FINAL VAN (4) - LAK (1)"
+      "date":"Sat Mar 21, 2015",
+      "score":"LAK (1) - VAN (4)",
+      "points":0,
+      "totalPoints":82
     },
     {
-      "date": "Mon Mar 23, 2015",
-      "score": "FINAL LAK (3) - NJD (1)"
+      "date":"Mon Mar 23, 2015",
+      "score":"LAK (3) - NJD (1)",
+      "points":2,
+      "totalPoints":84
     },
     {
-      "date": "Tue Mar 24, 2015",
-      "score": "FINAL LAK (4) - NYR (2)"
+      "date":"Tue Mar 24, 2015",
+      "score":"LAK (4) - NYR (2)",
+      "points":2,
+      "totalPoints":86
     },
     {
-      "date": "Thu Mar 26, 2015",
-      "score": "FINAL LAK (3) - NYI (2)"
+      "date":"Thu Mar 26, 2015",
+      "score":"LAK (3) - NYI (2)",
+      "points":2,
+      "totalPoints":88
     },
     {
-      "date": "Sat Mar 28, 2015",
-      "score": "FINAL LAK (1) - MIN (4)"
+      "date":"Sat Mar 28, 2015",
+      "score":"LAK (1) - MIN (4)",
+      "points":0,
+      "totalPoints":88
     },
     {
-      "date": "Mon Mar 30, 2015",
-      "score": "FINAL LAK (1) - CHI (4)"
+      "date":"Mon Mar 30, 2015",
+      "score":"LAK (1) - CHI (4)",
+      "points":0,
+      "totalPoints":88
     },
     {
-      "date": "Thu Apr 2, 2015",
-      "score": "FINAL EDM (2) - LAK (8)"
+      "date":"Thu Apr 2, 2015",
+      "score":"LAK (8) - EDM (2)",
+      "points":2,
+      "totalPoints":90
     },
     {
-      "date": "Sat Apr 4, 2015",
-      "score": "FINAL COL (1) - LAK (3)"
+      "date":"Sat Apr 4, 2015",
+      "score":"LAK (3) - COL (1)",
+      "points":2,
+      "totalPoints":92
     },
     {
-      "date": "Mon Apr 6, 2015",
-      "score": "FINAL LAK (1) - VAN (2) SO"
+      "date":"Mon Apr 6, 2015",
+      "score":"LAK (1) - VAN (2) OT",
+      "points":1,
+      "totalPoints":93
     },
     {
-      "date": "Tue Apr 7, 2015",
-      "score": "FINAL LAK (2) - EDM (4)"
+      "date":"Tue Apr 7, 2015",
+      "score":"LAK (2) - EDM (4)",
+      "points":0,
+      "totalPoints":93
     },
     {
-      "date": "Thu Apr 9, 2015",
-      "score": "FINAL LAK (1) - CGY (3)"
+      "date":"Thu Apr 9, 2015",
+      "score":"LAK (1) - CGY (3)",
+      "points":0,
+      "totalPoints":93
     },
     {
-      "date": "Sat Apr 11, 2015",
-      "score": "FINAL SJS (1) - LAK (4)"
+      "date":"Sat Apr 11, 2015",
+      "score":"LAK (4) - SJS (1)",
+      "points":2,
+      "totalPoints":95
     }
   ]
 }
