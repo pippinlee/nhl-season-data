@@ -1,332 +1,496 @@
 {
-  "ducks-season": [
+  "ducks-season":[
     {
-      "date": "Thu Oct 9, 2014",
-      "score": "FINAL ANA (4) - PIT (6)"
+      "date":"Thu Oct 9, 2014",
+      "score":"ANA (4) - PIT (6)",
+      "points":0,
+      "totalPoints":0
     },
     {
-      "date": "Sat Oct 11, 2014",
-      "score": "FINAL ANA (3) - DET (2)"
+      "date":"Sat Oct 11, 2014",
+      "score":"ANA (3) - DET (2)",
+      "points":2,
+      "totalPoints":2
     },
     {
-      "date": "Mon Oct 13, 2014",
-      "score": "FINAL ANA (5) - BUF (1)"
+      "date":"Mon Oct 13, 2014",
+      "score":"ANA (5) - BUF (1)",
+      "points":2,
+      "totalPoints":4
     },
     {
-      "date": "Tue Oct 14, 2014",
-      "score": "FINAL ANA (4) - PHI (3) SO"
+      "date":"Tue Oct 14, 2014",
+      "score":"ANA (4) - PHI (3)",
+      "points":2,
+      "totalPoints":6
     },
     {
-      "date": "Fri Oct 17, 2014",
-      "score": "FINAL MIN (1) - ANA (2)"
+      "date":"Fri Oct 17, 2014",
+      "score":"ANA (2) - MIN (1)",
+      "points":2,
+      "totalPoints":8
     },
     {
-      "date": "Sun Oct 19, 2014",
-      "score": "FINAL STL (0) - ANA (3)"
+      "date":"Sun Oct 19, 2014",
+      "score":"ANA (3) - STL (0)",
+      "points":2,
+      "totalPoints":10
     },
     {
-      "date": "Wed Oct 22, 2014",
-      "score": "FINAL BUF (1) - ANA (4)"
+      "date":"Wed Oct 22, 2014",
+      "score":"ANA (4) - BUF (1)",
+      "points":2,
+      "totalPoints":12
     },
     {
-      "date": "Fri Oct 24, 2014",
-      "score": "FINAL CBJ (1) - ANA (4)"
+      "date":"Fri Oct 24, 2014",
+      "score":"ANA (4) - CBJ (1)",
+      "points":2,
+      "totalPoints":14
     },
     {
-      "date": "Sun Oct 26, 2014",
-      "score": "FINAL SJS (4) - ANA (1)"
+      "date":"Sun Oct 26, 2014",
+      "score":"ANA (1) - SJS (4)",
+      "points":0,
+      "totalPoints":14
     },
     {
-      "date": "Tue Oct 28, 2014",
-      "score": "FINAL ANA (1) - CHI (0)"
+      "date":"Tue Oct 28, 2014",
+      "score":"ANA (1) - CHI (0)",
+      "points":2,
+      "totalPoints":16
     },
     {
-      "date": "Thu Oct 30, 2014",
-      "score": "FINAL ANA (0) - STL (2)"
+      "date":"Thu Oct 30, 2014",
+      "score":"ANA (0) - STL (2)",
+      "points":0,
+      "totalPoints":16
     },
     {
-      "date": "Fri Oct 31, 2014",
-      "score": "FINAL ANA (2) - DAL (1) OT"
+      "date":"Fri Oct 31, 2014",
+      "score":"ANA (2) - DAL (1)",
+      "points":2,
+      "totalPoints":18
     },
     {
-      "date": "Sun Nov 2, 2014",
-      "score": "FINAL ANA (3) - COL (2)"
+      "date":"Sun Nov 2, 2014",
+      "score":"ANA (3) - COL (2)",
+      "points":2,
+      "totalPoints":20
     },
     {
-      "date": "Wed Nov 5, 2014",
-      "score": "FINAL NYI (3) - ANA (2) OT"
+      "date":"Wed Nov 5, 2014",
+      "score":"ANA (2) - NYI (3) OT",
+      "points":1,
+      "totalPoints":21
     },
     {
-      "date": "Fri Nov 7, 2014",
-      "score": "FINAL ARI (3) - ANA (2) SO"
+      "date":"Fri Nov 7, 2014",
+      "score":"ANA (2) - ARI (3) OT",
+      "points":1,
+      "totalPoints":22
     },
     {
-      "date": "Sun Nov 9, 2014",
-      "score": "FINAL VAN (2) - ANA (1) SO"
+      "date":"Sun Nov 9, 2014",
+      "score":"ANA (1) - VAN (2) OT",
+      "points":1,
+      "totalPoints":23
     },
     {
-      "date": "Wed Nov 12, 2014",
-      "score": "FINAL LAK (5) - ANA (6) SO"
+      "date":"Wed Nov 12, 2014",
+      "score":"ANA (6) - LAK (5)",
+      "points":2,
+      "totalPoints":25
     },
     {
-      "date": "Sat Nov 15, 2014",
-      "score": "FINAL ANA (2) - LAK (3) OT"
+      "date":"Sat Nov 15, 2014",
+      "score":"ANA (2) - LAK (3) OT",
+      "points":1,
+      "totalPoints":26
     },
     {
-      "date": "Sun Nov 16, 2014",
-      "score": "FINAL FLA (6) - ANA (2)"
+      "date":"Sun Nov 16, 2014",
+      "score":"ANA (2) - FLA (6)",
+      "points":0,
+      "totalPoints":26
     },
     {
-      "date": "Tue Nov 18, 2014",
-      "score": "FINAL ANA (3) - CGY (4) SO"
+      "date":"Tue Nov 18, 2014",
+      "score":"ANA (3) - CGY (4) OT",
+      "points":1,
+      "totalPoints":27
     },
     {
-      "date": "Thu Nov 20, 2014",
-      "score": "FINAL ANA (4) - VAN (3) SO"
+      "date":"Thu Nov 20, 2014",
+      "score":"ANA (4) - VAN (3)",
+      "points":2,
+      "totalPoints":29
     },
     {
-      "date": "Sun Nov 23, 2014",
-      "score": "FINAL ARI (1) - ANA (2)"
+      "date":"Sun Nov 23, 2014",
+      "score":"ANA (2) - ARI (1)",
+      "points":2,
+      "totalPoints":31
     },
     {
-      "date": "Tue Nov 25, 2014",
-      "score": "FINAL CGY (2) - ANA (3)"
+      "date":"Tue Nov 25, 2014",
+      "score":"ANA (3) - CGY (2)",
+      "points":2,
+      "totalPoints":33
     },
     {
-      "date": "Fri Nov 28, 2014",
-      "score": "FINAL CHI (4) - ANA (1)"
+      "date":"Fri Nov 28, 2014",
+      "score":"ANA (1) - CHI (4)",
+      "points":0,
+      "totalPoints":33
     },
     {
-      "date": "Sat Nov 29, 2014",
-      "score": "FINAL ANA (4) - SJS (6)"
+      "date":"Sat Nov 29, 2014",
+      "score":"ANA (4) - SJS (6)",
+      "points":0,
+      "totalPoints":33
     },
     {
-      "date": "Mon Dec 1, 2014",
-      "score": "FINAL BOS (2) - ANA (3)"
+      "date":"Mon Dec 1, 2014",
+      "score":"ANA (3) - BOS (2)",
+      "points":2,
+      "totalPoints":35
     },
     {
-      "date": "Wed Dec 3, 2014",
-      "score": "FINAL PHI (4) - ANA (5) SO"
+      "date":"Wed Dec 3, 2014",
+      "score":"ANA (5) - PHI (4)",
+      "points":2,
+      "totalPoints":37
     },
     {
-      "date": "Fri Dec 5, 2014",
-      "score": "FINAL ANA (5) - MIN (4)"
+      "date":"Fri Dec 5, 2014",
+      "score":"ANA (5) - MIN (4)",
+      "points":2,
+      "totalPoints":39
     },
     {
-      "date": "Sun Dec 7, 2014",
-      "score": "FINAL ANA (4) - WPG (3) OT"
+      "date":"Sun Dec 7, 2014",
+      "score":"ANA (4) - WPG (3)",
+      "points":2,
+      "totalPoints":41
     },
     {
-      "date": "Wed Dec 10, 2014",
-      "score": "FINAL EDM (1) - ANA (2)"
+      "date":"Wed Dec 10, 2014",
+      "score":"ANA (2) - EDM (1)",
+      "points":2,
+      "totalPoints":43
     },
     {
-      "date": "Fri Dec 12, 2014",
-      "score": "FINAL ANA (4) - EDM (2)"
+      "date":"Fri Dec 12, 2014",
+      "score":"ANA (4) - EDM (2)",
+      "points":2,
+      "totalPoints":45
     },
     {
-      "date": "Sat Dec 13, 2014",
-      "score": "FINAL ANA (4) - WPG (1)"
+      "date":"Sat Dec 13, 2014",
+      "score":"ANA (4) - WPG (1)",
+      "points":2,
+      "totalPoints":47
     },
     {
-      "date": "Tue Dec 16, 2014",
-      "score": "FINAL ANA (2) - TOR (6)"
+      "date":"Tue Dec 16, 2014",
+      "score":"ANA (2) - TOR (6)",
+      "points":0,
+      "totalPoints":47
     },
     {
-      "date": "Thu Dec 18, 2014",
-      "score": "FINAL ANA (2) - MTL (1)"
+      "date":"Thu Dec 18, 2014",
+      "score":"ANA (2) - MTL (1)",
+      "points":2,
+      "totalPoints":49
     },
     {
-      "date": "Fri Dec 19, 2014",
-      "score": "FINAL ANA (2) - OTT (6)"
+      "date":"Fri Dec 19, 2014",
+      "score":"ANA (2) - OTT (6)",
+      "points":0,
+      "totalPoints":49
     },
     {
-      "date": "Mon Dec 22, 2014",
-      "score": "FINAL SJS (2) - ANA (3) OT"
+      "date":"Mon Dec 22, 2014",
+      "score":"ANA (3) - SJS (2)",
+      "points":2,
+      "totalPoints":51
     },
     {
-      "date": "Sat Dec 27, 2014",
-      "score": "FINAL ANA (1) - ARI (2) SO"
+      "date":"Sat Dec 27, 2014",
+      "score":"ANA (1) - ARI (2) OT",
+      "points":1,
+      "totalPoints":52
     },
     {
-      "date": "Sun Dec 28, 2014",
-      "score": "FINAL VAN (1) - ANA (2) OT"
+      "date":"Sun Dec 28, 2014",
+      "score":"ANA (2) - VAN (1)",
+      "points":2,
+      "totalPoints":54
     },
     {
-      "date": "Wed Dec 31, 2014",
-      "score": "FINAL SJS (3) - ANA (0)"
+      "date":"Wed Dec 31, 2014",
+      "score":"ANA (0) - SJS (3)",
+      "points":0,
+      "totalPoints":54
     },
     {
-      "date": "Fri Jan 2, 2015",
-      "score": "FINAL STL (3) - ANA (4)"
+      "date":"Fri Jan 2, 2015",
+      "score":"ANA (4) - STL (3)",
+      "points":2,
+      "totalPoints":56
     },
     {
-      "date": "Sun Jan 4, 2015",
-      "score": "FINAL NSH (3) - ANA (4) SO"
+      "date":"Sun Jan 4, 2015",
+      "score":"ANA (4) - NSH (3)",
+      "points":2,
+      "totalPoints":58
     },
     {
-      "date": "Wed Jan 7, 2015",
-      "score": "FINAL NYR (4) - ANA (1)"
+      "date":"Wed Jan 7, 2015",
+      "score":"ANA (1) - NYR (4)",
+      "points":0,
+      "totalPoints":58
     },
     {
-      "date": "Sun Jan 11, 2015",
-      "score": "FINAL WPG (4) - ANA (5) SO"
+      "date":"Sun Jan 11, 2015",
+      "score":"ANA (5) - WPG (4)",
+      "points":2,
+      "totalPoints":60
     },
     {
-      "date": "Wed Jan 14, 2015",
-      "score": "FINAL TOR (0) - ANA (4)"
+      "date":"Wed Jan 14, 2015",
+      "score":"ANA (4) - TOR (0)",
+      "points":2,
+      "totalPoints":62
     },
     {
-      "date": "Fri Jan 16, 2015",
-      "score": "FINAL NJD (1) - ANA (5)"
+      "date":"Fri Jan 16, 2015",
+      "score":"ANA (5) - NJD (1)",
+      "points":2,
+      "totalPoints":64
     },
     {
-      "date": "Sat Jan 17, 2015",
-      "score": "FINAL ANA (3) - LAK (2) SO"
+      "date":"Sat Jan 17, 2015",
+      "score":"ANA (3) - LAK (2)",
+      "points":2,
+      "totalPoints":66
     },
     {
-      "date": "Wed Jan 21, 2015",
-      "score": "FINAL CGY (3) - ANA (6)"
+      "date":"Wed Jan 21, 2015",
+      "score":"ANA (6) - CGY (3)",
+      "points":2,
+      "totalPoints":68
     },
     {
-      "date": "Tue Jan 27, 2015",
-      "score": "FINAL ANA (4) - VAN (0)"
+      "date":"Tue Jan 27, 2015",
+      "score":"ANA (4) - VAN (0)",
+      "points":2,
+      "totalPoints":70
     },
     {
-      "date": "Thu Jan 29, 2015",
-      "score": "FINAL ANA (3) - SJS (6)"
+      "date":"Thu Jan 29, 2015",
+      "score":"ANA (3) - SJS (6)",
+      "points":0,
+      "totalPoints":70
     },
     {
-      "date": "Fri Jan 30, 2015",
-      "score": "FINAL CHI (4) - ANA (1)"
+      "date":"Fri Jan 30, 2015",
+      "score":"ANA (1) - CHI (4)",
+      "points":0,
+      "totalPoints":70
     },
     {
-      "date": "Tue Feb 3, 2015",
-      "score": "FINAL CAR (4) - ANA (5) OT"
+      "date":"Tue Feb 3, 2015",
+      "score":"ANA (5) - CAR (4)",
+      "points":2,
+      "totalPoints":72
     },
     {
-      "date": "Thu Feb 5, 2015",
-      "score": "FINAL ANA (5) - NSH (2)"
+      "date":"Thu Feb 5, 2015",
+      "score":"ANA (5) - NSH (2)",
+      "points":2,
+      "totalPoints":74
     },
     {
-      "date": "Fri Feb 6, 2015",
-      "score": "FINAL ANA (2) - WSH (3) SO"
+      "date":"Fri Feb 6, 2015",
+      "score":"ANA (2) - WSH (3) OT",
+      "points":1,
+      "totalPoints":75
     },
     {
-      "date": "Sun Feb 8, 2015",
-      "score": "FINAL ANA (3) - TBL (5)"
+      "date":"Sun Feb 8, 2015",
+      "score":"ANA (3) - TBL (5)",
+      "points":0,
+      "totalPoints":75
     },
     {
-      "date": "Tue Feb 10, 2015",
-      "score": "FINAL ANA (2) - FLA (6)"
+      "date":"Tue Feb 10, 2015",
+      "score":"ANA (2) - FLA (6)",
+      "points":0,
+      "totalPoints":75
     },
     {
-      "date": "Thu Feb 12, 2015",
-      "score": "FINAL ANA (2) - CAR (1)"
+      "date":"Thu Feb 12, 2015",
+      "score":"ANA (2) - CAR (1)",
+      "points":2,
+      "totalPoints":77
     },
     {
-      "date": "Sun Feb 15, 2015",
-      "score": "FINAL WSH (5) - ANA (3)"
+      "date":"Sun Feb 15, 2015",
+      "score":"ANA (3) - WSH (5)",
+      "points":0,
+      "totalPoints":77
     },
     {
-      "date": "Wed Feb 18, 2015",
-      "score": "FINAL TBL (4) - ANA (1)"
+      "date":"Wed Feb 18, 2015",
+      "score":"ANA (1) - TBL (4)",
+      "points":0,
+      "totalPoints":77
     },
     {
-      "date": "Fri Feb 20, 2015",
-      "score": "FINAL ANA (6) - CGY (3)"
+      "date":"Fri Feb 20, 2015",
+      "score":"ANA (6) - CGY (3)",
+      "points":2,
+      "totalPoints":79
     },
     {
-      "date": "Sat Feb 21, 2015",
-      "score": "FINAL ANA (2) - EDM (1)"
+      "date":"Sat Feb 21, 2015",
+      "score":"ANA (2) - EDM (1)",
+      "points":2,
+      "totalPoints":81
     },
     {
-      "date": "Mon Feb 23, 2015",
-      "score": "FINAL DET (3) - ANA (4) SO"
+      "date":"Mon Feb 23, 2015",
+      "score":"ANA (4) - DET (3)",
+      "points":2,
+      "totalPoints":83
     },
     {
-      "date": "Wed Feb 25, 2015",
-      "score": "FINAL OTT (3) - ANA (0)"
+      "date":"Wed Feb 25, 2015",
+      "score":"ANA (0) - OTT (3)",
+      "points":0,
+      "totalPoints":83
     },
     {
-      "date": "Fri Feb 27, 2015",
-      "score": "FINAL LAK (2) - ANA (4)"
+      "date":"Fri Feb 27, 2015",
+      "score":"ANA (4) - LAK (2)",
+      "points":2,
+      "totalPoints":85
     },
     {
-      "date": "Sun Mar 1, 2015",
-      "score": "FINAL ANA (3) - DAL (1)"
+      "date":"Sun Mar 1, 2015",
+      "score":"ANA (3) - DAL (1)",
+      "points":2,
+      "totalPoints":87
     },
     {
-      "date": "Tue Mar 3, 2015",
-      "score": "FINAL ANA (4) - ARI (1)"
+      "date":"Tue Mar 3, 2015",
+      "score":"ANA (4) - ARI (1)",
+      "points":2,
+      "totalPoints":89
     },
     {
-      "date": "Wed Mar 4, 2015",
-      "score": "FINAL MTL (1) - ANA (3)"
+      "date":"Wed Mar 4, 2015",
+      "score":"ANA (3) - MTL (1)",
+      "points":2,
+      "totalPoints":91
     },
     {
-      "date": "Fri Mar 6, 2015",
-      "score": "FINAL PIT (5) - ANA (2)"
+      "date":"Fri Mar 6, 2015",
+      "score":"ANA (2) - PIT (5)",
+      "points":0,
+      "totalPoints":91
     },
     {
-      "date": "Mon Mar 9, 2015",
-      "score": "FINAL ANA (1) - VAN (2)"
+      "date":"Mon Mar 9, 2015",
+      "score":"ANA (1) - VAN (2)",
+      "points":0,
+      "totalPoints":91
     },
     {
-      "date": "Wed Mar 11, 2015",
-      "score": "FINAL ANA (3) - CGY (6)"
+      "date":"Wed Mar 11, 2015",
+      "score":"ANA (3) - CGY (6)",
+      "points":0,
+      "totalPoints":91
     },
     {
-      "date": "Fri Mar 13, 2015",
-      "score": "FINAL ANA (2) - MIN (1)"
+      "date":"Fri Mar 13, 2015",
+      "score":"ANA (2) - MIN (1)",
+      "points":2,
+      "totalPoints":93
     },
     {
-      "date": "Sun Mar 15, 2015",
-      "score": "FINAL NSH (2) - ANA (4)"
+      "date":"Sun Mar 15, 2015",
+      "score":"ANA (4) - NSH (2)",
+      "points":2,
+      "totalPoints":95
     },
     {
-      "date": "Wed Mar 18, 2015",
-      "score": "FINAL LAK (2) - ANA (3) OT"
+      "date":"Wed Mar 18, 2015",
+      "score":"ANA (3) - LAK (2)",
+      "points":2,
+      "totalPoints":97
     },
     {
-      "date": "Fri Mar 20, 2015",
-      "score": "FINAL COL (2) - ANA (3) OT"
+      "date":"Fri Mar 20, 2015",
+      "score":"ANA (3) - COL (2)",
+      "points":2,
+      "totalPoints":99
     },
     {
-      "date": "Sun Mar 22, 2015",
-      "score": "FINAL ANA (2) - NYR (7)"
+      "date":"Sun Mar 22, 2015",
+      "score":"ANA (2) - NYR (7)",
+      "points":0,
+      "totalPoints":99
     },
     {
-      "date": "Tue Mar 24, 2015",
-      "score": "FINAL ANA (3) - CBJ (5)"
+      "date":"Tue Mar 24, 2015",
+      "score":"ANA (3) - CBJ (5)",
+      "points":0,
+      "totalPoints":99
     },
     {
-      "date": "Thu Mar 26, 2015",
-      "score": "FINAL ANA (3) - BOS (2) OT"
+      "date":"Thu Mar 26, 2015",
+      "score":"ANA (3) - BOS (2)",
+      "points":2,
+      "totalPoints":101
     },
     {
-      "date": "Sat Mar 28, 2015",
-      "score": "FINAL ANA (3) - NYI (2)"
+      "date":"Sat Mar 28, 2015",
+      "score":"ANA (3) - NYI (2)",
+      "points":2,
+      "totalPoints":103
     },
     {
-      "date": "Sun Mar 29, 2015",
-      "score": "FINAL ANA (2) - NJD (1)"
+      "date":"Sun Mar 29, 2015",
+      "score":"ANA (2) - NJD (1)",
+      "points":2,
+      "totalPoints":105
     },
     {
-      "date": "Wed Apr 1, 2015",
-      "score": "FINAL EDM (1) - ANA (5)"
+      "date":"Wed Apr 1, 2015",
+      "score":"ANA (5) - EDM (1)",
+      "points":2,
+      "totalPoints":107
     },
     {
-      "date": "Fri Apr 3, 2015",
-      "score": "FINAL COL (4) - ANA (2)"
+      "date":"Fri Apr 3, 2015",
+      "score":"ANA (2) - COL (4)",
+      "points":0,
+      "totalPoints":107
     },
     {
-      "date": "Wed Apr 8, 2015",
-      "score": "FINAL DAL (4) - ANA (0)"
+      "date":"Wed Apr 8, 2015",
+      "score":"ANA (0) - DAL (4)",
+      "points":0,
+      "totalPoints":107
     },
     {
-      "date": "Sat Apr 11, 2015",
-      "score": "FINAL ANA (2) - ARI (1)"
+      "date":"Sat Apr 11, 2015",
+      "score":"ANA (2) - ARI (1)",
+      "points":2,
+      "totalPoints":109
     }
   ]
 }
