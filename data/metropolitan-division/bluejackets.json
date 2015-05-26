@@ -1,332 +1,496 @@
 {
-  "bluejackets-season": [
+  "bluejackets-season":[
     {
-      "date": "Thu Oct 9, 2014",
-      "score": "FINAL CBJ (3) - BUF (1)"
+      "date":"Thu Oct 9, 2014",
+      "score":"CBJ (3) - BUF (1)",
+      "points":2,
+      "totalPoints":2
     },
     {
-      "date": "Sat Oct 11, 2014",
-      "score": "FINAL NYR (2) - CBJ (5)"
+      "date":"Sat Oct 11, 2014",
+      "score":"CBJ (5) - NYR (2)",
+      "points":2,
+      "totalPoints":4
     },
     {
-      "date": "Tue Oct 14, 2014",
-      "score": "FINAL DAL (4) - CBJ (2)"
+      "date":"Tue Oct 14, 2014",
+      "score":"CBJ (2) - DAL (4)",
+      "points":0,
+      "totalPoints":4
     },
     {
-      "date": "Fri Oct 17, 2014",
-      "score": "FINAL CGY (2) - CBJ (3)"
+      "date":"Fri Oct 17, 2014",
+      "score":"CBJ (3) - CGY (2)",
+      "points":2,
+      "totalPoints":6
     },
     {
-      "date": "Sat Oct 18, 2014",
-      "score": "FINAL CBJ (2) - OTT (3)"
+      "date":"Sat Oct 18, 2014",
+      "score":"CBJ (2) - OTT (3)",
+      "points":0,
+      "totalPoints":6
     },
     {
-      "date": "Thu Oct 23, 2014",
-      "score": "FINAL CBJ (5) - SJS (4)"
+      "date":"Thu Oct 23, 2014",
+      "score":"CBJ (5) - SJS (4)",
+      "points":2,
+      "totalPoints":8
     },
     {
-      "date": "Fri Oct 24, 2014",
-      "score": "FINAL CBJ (1) - ANA (4)"
+      "date":"Fri Oct 24, 2014",
+      "score":"CBJ (1) - ANA (4)",
+      "points":0,
+      "totalPoints":8
     },
     {
-      "date": "Sun Oct 26, 2014",
-      "score": "FINAL CBJ (2) - LAK (5)"
+      "date":"Sun Oct 26, 2014",
+      "score":"CBJ (2) - LAK (5)",
+      "points":0,
+      "totalPoints":8
     },
     {
-      "date": "Tue Oct 28, 2014",
-      "score": "FINAL OTT (5) - CBJ (2)"
+      "date":"Tue Oct 28, 2014",
+      "score":"CBJ (2) - OTT (5)",
+      "points":0,
+      "totalPoints":8
     },
     {
-      "date": "Fri Oct 31, 2014",
-      "score": "FINAL TOR (4) - CBJ (1)"
+      "date":"Fri Oct 31, 2014",
+      "score":"CBJ (1) - TOR (4)",
+      "points":0,
+      "totalPoints":8
     },
     {
-      "date": "Sat Nov 1, 2014",
-      "score": "FINAL CBJ (2) - NJD (3)"
+      "date":"Sat Nov 1, 2014",
+      "score":"CBJ (2) - NJD (3)",
+      "points":0,
+      "totalPoints":8
     },
     {
-      "date": "Tue Nov 4, 2014",
-      "score": "FINAL CAR (4) - CBJ (2)"
+      "date":"Tue Nov 4, 2014",
+      "score":"CBJ (2) - CAR (4)",
+      "points":0,
+      "totalPoints":8
     },
     {
-      "date": "Fri Nov 7, 2014",
-      "score": "FINAL CBJ (2) - CAR (3) OT"
+      "date":"Fri Nov 7, 2014",
+      "score":"CBJ (2) - CAR (3) OT",
+      "points":1,
+      "totalPoints":9
     },
     {
-      "date": "Sat Nov 8, 2014",
-      "score": "FINAL TBL (7) - CBJ (4)"
+      "date":"Sat Nov 8, 2014",
+      "score":"CBJ (4) - TBL (7)",
+      "points":0,
+      "totalPoints":9
     },
     {
-      "date": "Tue Nov 11, 2014",
-      "score": "FINAL CBJ (2) - WSH (4)"
+      "date":"Tue Nov 11, 2014",
+      "score":"CBJ (2) - WSH (4)",
+      "points":0,
+      "totalPoints":9
     },
     {
-      "date": "Fri Nov 14, 2014",
-      "score": "FINAL CBJ (4) - PHI (3)"
+      "date":"Fri Nov 14, 2014",
+      "score":"CBJ (4) - PHI (3)",
+      "points":2,
+      "totalPoints":11
     },
     {
-      "date": "Sat Nov 15, 2014",
-      "score": "FINAL SJS (1) - CBJ (2)"
+      "date":"Sat Nov 15, 2014",
+      "score":"CBJ (2) - SJS (1)",
+      "points":2,
+      "totalPoints":13
     },
     {
-      "date": "Tue Nov 18, 2014",
-      "score": "FINAL DET (5) - CBJ (0)"
+      "date":"Tue Nov 18, 2014",
+      "score":"CBJ (0) - DET (5)",
+      "points":0,
+      "totalPoints":13
     },
     {
-      "date": "Fri Nov 21, 2014",
-      "score": "FINAL BOS (4) - CBJ (3) SO"
+      "date":"Fri Nov 21, 2014",
+      "score":"CBJ (3) - BOS (4) OT",
+      "points":1,
+      "totalPoints":14
     },
     {
-      "date": "Sat Nov 22, 2014",
-      "score": "FINAL CBJ (2) - PHI (4)"
+      "date":"Sat Nov 22, 2014",
+      "score":"CBJ (2) - PHI (4)",
+      "points":0,
+      "totalPoints":14
     },
     {
-      "date": "Tue Nov 25, 2014",
-      "score": "FINAL WPG (4) - CBJ (2)"
+      "date":"Tue Nov 25, 2014",
+      "score":"CBJ (2) - WPG (4)",
+      "points":0,
+      "totalPoints":14
     },
     {
-      "date": "Fri Nov 28, 2014",
-      "score": "FINAL VAN (5) - CBJ (0)"
+      "date":"Fri Nov 28, 2014",
+      "score":"CBJ (0) - VAN (5)",
+      "points":0,
+      "totalPoints":14
     },
     {
-      "date": "Sat Nov 29, 2014",
-      "score": "FINAL CBJ (1) - NSH (2)"
+      "date":"Sat Nov 29, 2014",
+      "score":"CBJ (1) - NSH (2)",
+      "points":0,
+      "totalPoints":14
     },
     {
-      "date": "Mon Dec 1, 2014",
-      "score": "FINAL FLA (1) - CBJ (2)"
+      "date":"Mon Dec 1, 2014",
+      "score":"CBJ (2) - FLA (1)",
+      "points":2,
+      "totalPoints":16
     },
     {
-      "date": "Thu Dec 4, 2014",
-      "score": "FINAL CBJ (4) - FLA (3) SO"
+      "date":"Thu Dec 4, 2014",
+      "score":"CBJ (4) - FLA (3)",
+      "points":2,
+      "totalPoints":18
     },
     {
-      "date": "Sat Dec 6, 2014",
-      "score": "FINAL CBJ (3) - TBL (1)"
+      "date":"Sat Dec 6, 2014",
+      "score":"CBJ (3) - TBL (1)",
+      "points":2,
+      "totalPoints":20
     },
     {
-      "date": "Tue Dec 9, 2014",
-      "score": "FINAL PHI (2) - CBJ (3) OT"
+      "date":"Tue Dec 9, 2014",
+      "score":"CBJ (3) - PHI (2)",
+      "points":2,
+      "totalPoints":22
     },
     {
-      "date": "Thu Dec 11, 2014",
-      "score": "FINAL CBJ (3) - WSH (2) OT"
+      "date":"Thu Dec 11, 2014",
+      "score":"CBJ (3) - WSH (2)",
+      "points":2,
+      "totalPoints":24
     },
     {
-      "date": "Sat Dec 13, 2014",
-      "score": "FINAL PIT (3) - CBJ (4) SO"
+      "date":"Sat Dec 13, 2014",
+      "score":"CBJ (4) - PIT (3)",
+      "points":2,
+      "totalPoints":26
     },
     {
-      "date": "Tue Dec 16, 2014",
-      "score": "FINAL CBJ (1) - DET (0) SO"
+      "date":"Tue Dec 16, 2014",
+      "score":"CBJ (1) - DET (0)",
+      "points":2,
+      "totalPoints":28
     },
     {
-      "date": "Thu Dec 18, 2014",
-      "score": "FINAL WSH (5) - CBJ (4) OT"
+      "date":"Thu Dec 18, 2014",
+      "score":"CBJ (4) - WSH (5) OT",
+      "points":1,
+      "totalPoints":29
     },
     {
-      "date": "Sat Dec 20, 2014",
-      "score": "FINAL CHI (2) - CBJ (3) SO"
+      "date":"Sat Dec 20, 2014",
+      "score":"CBJ (3) - CHI (2)",
+      "points":2,
+      "totalPoints":31
     },
     {
-      "date": "Mon Dec 22, 2014",
-      "score": "FINAL NSH (5) - CBJ (1)"
+      "date":"Mon Dec 22, 2014",
+      "score":"CBJ (1) - NSH (5)",
+      "points":0,
+      "totalPoints":31
     },
     {
-      "date": "Sat Dec 27, 2014",
-      "score": "FINAL BOS (2) - CBJ (6)"
+      "date":"Sat Dec 27, 2014",
+      "score":"CBJ (6) - BOS (2)",
+      "points":2,
+      "totalPoints":33
     },
     {
-      "date": "Wed Dec 31, 2014",
-      "score": "FINAL MIN (1) - CBJ (3)"
+      "date":"Wed Dec 31, 2014",
+      "score":"CBJ (3) - MIN (1)",
+      "points":2,
+      "totalPoints":35
     },
     {
-      "date": "Sat Jan 3, 2015",
-      "score": "FINAL CBJ (3) - ARI (6)"
+      "date":"Sat Jan 3, 2015",
+      "score":"CBJ (3) - ARI (6)",
+      "points":0,
+      "totalPoints":35
     },
     {
-      "date": "Sun Jan 4, 2015",
-      "score": "FINAL CBJ (4) - COL (3)"
+      "date":"Sun Jan 4, 2015",
+      "score":"CBJ (4) - COL (3)",
+      "points":2,
+      "totalPoints":37
     },
     {
-      "date": "Tue Jan 6, 2015",
-      "score": "FINAL CBJ (4) - DAL (2)"
+      "date":"Tue Jan 6, 2015",
+      "score":"CBJ (4) - DAL (2)",
+      "points":2,
+      "totalPoints":39
     },
     {
-      "date": "Fri Jan 9, 2015",
-      "score": "FINAL CBJ (2) - TOR (5)"
+      "date":"Fri Jan 9, 2015",
+      "score":"CBJ (2) - TOR (5)",
+      "points":0,
+      "totalPoints":39
     },
     {
-      "date": "Sat Jan 10, 2015",
-      "score": "FINAL NYI (5) - CBJ (2)"
+      "date":"Sat Jan 10, 2015",
+      "score":"CBJ (2) - NYI (5)",
+      "points":0,
+      "totalPoints":39
     },
     {
-      "date": "Wed Jan 14, 2015",
-      "score": "FINAL MTL (3) - CBJ (2)"
+      "date":"Wed Jan 14, 2015",
+      "score":"CBJ (2) - MTL (3)",
+      "points":0,
+      "totalPoints":39
     },
     {
-      "date": "Fri Jan 16, 2015",
-      "score": "FINAL NYR (2) - CBJ (1)"
+      "date":"Fri Jan 16, 2015",
+      "score":"CBJ (1) - NYR (2)",
+      "points":0,
+      "totalPoints":39
     },
     {
-      "date": "Sat Jan 17, 2015",
-      "score": "FINAL CBJ (3) - BOS (1)"
+      "date":"Sat Jan 17, 2015",
+      "score":"CBJ (3) - BOS (1)",
+      "points":2,
+      "totalPoints":41
     },
     {
-      "date": "Mon Jan 19, 2015",
-      "score": "FINAL CBJ (3) - MIN (1)"
+      "date":"Mon Jan 19, 2015",
+      "score":"CBJ (3) - MIN (1)",
+      "points":2,
+      "totalPoints":43
     },
     {
-      "date": "Wed Jan 21, 2015",
-      "score": "FINAL CBJ (0) - WPG (4)"
+      "date":"Wed Jan 21, 2015",
+      "score":"CBJ (0) - WPG (4)",
+      "points":0,
+      "totalPoints":43
     },
     {
-      "date": "Tue Jan 27, 2015",
-      "score": "FINAL WSH (3) - CBJ (4)"
+      "date":"Tue Jan 27, 2015",
+      "score":"CBJ (4) - WSH (3)",
+      "points":2,
+      "totalPoints":45
     },
     {
-      "date": "Thu Jan 29, 2015",
-      "score": "FINAL CBJ (2) - FLA (3)"
+      "date":"Thu Jan 29, 2015",
+      "score":"CBJ (2) - FLA (3)",
+      "points":0,
+      "totalPoints":45
     },
     {
-      "date": "Sat Jan 31, 2015",
-      "score": "FINAL CBJ (1) - TBL (3)"
+      "date":"Sat Jan 31, 2015",
+      "score":"CBJ (1) - TBL (3)",
+      "points":0,
+      "totalPoints":45
     },
     {
-      "date": "Tue Feb 3, 2015",
-      "score": "FINAL ARI (4) - CBJ (1)"
+      "date":"Tue Feb 3, 2015",
+      "score":"CBJ (1) - ARI (4)",
+      "points":0,
+      "totalPoints":45
     },
     {
-      "date": "Fri Feb 6, 2015",
-      "score": "FINAL STL (1) - CBJ (7)"
+      "date":"Fri Feb 6, 2015",
+      "score":"CBJ (7) - STL (1)",
+      "points":2,
+      "totalPoints":47
     },
     {
-      "date": "Sat Feb 7, 2015",
-      "score": "FINAL CBJ (4) - OTT (1)"
+      "date":"Sat Feb 7, 2015",
+      "score":"CBJ (4) - OTT (1)",
+      "points":2,
+      "totalPoints":49
     },
     {
-      "date": "Mon Feb 9, 2015",
-      "score": "FINAL LAK (4) - CBJ (3)"
+      "date":"Mon Feb 9, 2015",
+      "score":"CBJ (3) - LAK (4)",
+      "points":0,
+      "totalPoints":49
     },
     {
-      "date": "Fri Feb 13, 2015",
-      "score": "FINAL PHI (3) - CBJ (4) OT"
+      "date":"Fri Feb 13, 2015",
+      "score":"CBJ (4) - PHI (3)",
+      "points":2,
+      "totalPoints":51
     },
     {
-      "date": "Sat Feb 14, 2015",
-      "score": "FINAL CBJ (3) - NYI (6)"
+      "date":"Sat Feb 14, 2015",
+      "score":"CBJ (3) - NYI (6)",
+      "points":0,
+      "totalPoints":51
     },
     {
-      "date": "Tue Feb 17, 2015",
-      "score": "FINAL CBJ (5) - PHI (2)"
+      "date":"Tue Feb 17, 2015",
+      "score":"CBJ (5) - PHI (2)",
+      "points":2,
+      "totalPoints":53
     },
     {
-      "date": "Thu Feb 19, 2015",
-      "score": "FINAL CBJ (2) - PIT (1)"
+      "date":"Thu Feb 19, 2015",
+      "score":"CBJ (2) - PIT (1)",
+      "points":2,
+      "totalPoints":55
     },
     {
-      "date": "Sat Feb 21, 2015",
-      "score": "FINAL CBJ (1) - MTL (3)"
+      "date":"Sat Feb 21, 2015",
+      "score":"CBJ (1) - MTL (3)",
+      "points":0,
+      "totalPoints":55
     },
     {
-      "date": "Sun Feb 22, 2015",
-      "score": "FINAL CBJ (3) - NYR (4) SO"
+      "date":"Sun Feb 22, 2015",
+      "score":"CBJ (3) - NYR (4) OT",
+      "points":1,
+      "totalPoints":56
     },
     {
-      "date": "Tue Feb 24, 2015",
-      "score": "FINAL BUF (4) - CBJ (2)"
+      "date":"Tue Feb 24, 2015",
+      "score":"CBJ (2) - BUF (4)",
+      "points":0,
+      "totalPoints":56
     },
     {
-      "date": "Thu Feb 26, 2015",
-      "score": "FINAL MTL (5) - CBJ (2)"
+      "date":"Thu Feb 26, 2015",
+      "score":"CBJ (2) - MTL (5)",
+      "points":0,
+      "totalPoints":56
     },
     {
-      "date": "Sat Feb 28, 2015",
-      "score": "FINAL NJD (2) - CBJ (0)"
+      "date":"Sat Feb 28, 2015",
+      "score":"CBJ (0) - NJD (2)",
+      "points":0,
+      "totalPoints":56
     },
     {
-      "date": "Sun Mar 1, 2015",
-      "score": "FINAL CBJ (3) - PIT (5)"
+      "date":"Sun Mar 1, 2015",
+      "score":"CBJ (3) - PIT (5)",
+      "points":0,
+      "totalPoints":56
     },
     {
-      "date": "Tue Mar 3, 2015",
-      "score": "FINAL WSH (5) - CBJ (3)"
+      "date":"Tue Mar 3, 2015",
+      "score":"CBJ (3) - WSH (5)",
+      "points":0,
+      "totalPoints":56
     },
     {
-      "date": "Fri Mar 6, 2015",
-      "score": "FINAL CBJ (3) - NJD (2)"
+      "date":"Fri Mar 6, 2015",
+      "score":"CBJ (3) - NJD (2)",
+      "points":2,
+      "totalPoints":58
     },
     {
-      "date": "Sat Mar 7, 2015",
-      "score": "FINAL COL (4) - CBJ (0)"
+      "date":"Sat Mar 7, 2015",
+      "score":"CBJ (0) - COL (4)",
+      "points":0,
+      "totalPoints":58
     },
     {
-      "date": "Tue Mar 10, 2015",
-      "score": "FINAL CBJ (4) - CAR (3) SO"
+      "date":"Tue Mar 10, 2015",
+      "score":"CBJ (4) - CAR (3)",
+      "points":2,
+      "totalPoints":60
     },
     {
-      "date": "Thu Mar 12, 2015",
-      "score": "FINAL CBJ (3) - DET (1)"
+      "date":"Thu Mar 12, 2015",
+      "score":"CBJ (3) - DET (1)",
+      "points":2,
+      "totalPoints":62
     },
     {
-      "date": "Fri Mar 13, 2015",
-      "score": "FINAL EDM (4) - CBJ (5) SO"
+      "date":"Fri Mar 13, 2015",
+      "score":"CBJ (5) - EDM (4)",
+      "points":2,
+      "totalPoints":64
     },
     {
-      "date": "Sun Mar 15, 2015",
-      "score": "FINAL CAR (3) - CBJ (2)"
+      "date":"Sun Mar 15, 2015",
+      "score":"CBJ (2) - CAR (3)",
+      "points":0,
+      "totalPoints":64
     },
     {
-      "date": "Wed Mar 18, 2015",
-      "score": "FINAL CBJ (4) - EDM (3) SO"
+      "date":"Wed Mar 18, 2015",
+      "score":"CBJ (4) - EDM (3)",
+      "points":2,
+      "totalPoints":66
     },
     {
-      "date": "Thu Mar 19, 2015",
-      "score": "FINAL CBJ (6) - VAN (2)"
+      "date":"Thu Mar 19, 2015",
+      "score":"CBJ (6) - VAN (2)",
+      "points":2,
+      "totalPoints":68
     },
     {
-      "date": "Sat Mar 21, 2015",
-      "score": "FINAL CBJ (3) - CGY (2) OT"
+      "date":"Sat Mar 21, 2015",
+      "score":"CBJ (3) - CGY (2)",
+      "points":2,
+      "totalPoints":70
     },
     {
-      "date": "Tue Mar 24, 2015",
-      "score": "FINAL ANA (3) - CBJ (5)"
+      "date":"Tue Mar 24, 2015",
+      "score":"CBJ (5) - ANA (3)",
+      "points":2,
+      "totalPoints":72
     },
     {
-      "date": "Fri Mar 27, 2015",
-      "score": "FINAL CBJ (5) - CHI (2)"
+      "date":"Fri Mar 27, 2015",
+      "score":"CBJ (5) - CHI (2)",
+      "points":2,
+      "totalPoints":74
     },
     {
-      "date": "Sat Mar 28, 2015",
-      "score": "FINAL CBJ (4) - STL (2)"
+      "date":"Sat Mar 28, 2015",
+      "score":"CBJ (4) - STL (2)",
+      "points":2,
+      "totalPoints":76
     },
     {
-      "date": "Tue Mar 31, 2015",
-      "score": "FINAL NJD (2) - CBJ (3) OT"
+      "date":"Tue Mar 31, 2015",
+      "score":"CBJ (3) - NJD (2)",
+      "points":2,
+      "totalPoints":78
     },
     {
-      "date": "Thu Apr 2, 2015",
-      "score": "FINAL NYI (3) - CBJ (4) SO"
+      "date":"Thu Apr 2, 2015",
+      "score":"CBJ (4) - NYI (3)",
+      "points":2,
+      "totalPoints":80
     },
     {
-      "date": "Sat Apr 4, 2015",
-      "score": "FINAL PIT (3) - CBJ (5)"
+      "date":"Sat Apr 4, 2015",
+      "score":"CBJ (5) - PIT (3)",
+      "points":2,
+      "totalPoints":82
     },
     {
-      "date": "Mon Apr 6, 2015",
-      "score": "FINAL CBJ (3) - NYR (4) OT"
+      "date":"Mon Apr 6, 2015",
+      "score":"CBJ (3) - NYR (4) OT",
+      "points":1,
+      "totalPoints":83
     },
     {
-      "date": "Wed Apr 8, 2015",
-      "score": "FINAL TOR (0) - CBJ (5)"
+      "date":"Wed Apr 8, 2015",
+      "score":"CBJ (5) - TOR (0)",
+      "points":2,
+      "totalPoints":85
     },
     {
-      "date": "Fri Apr 10, 2015",
-      "score": "FINAL BUF (2) - CBJ (4)"
+      "date":"Fri Apr 10, 2015",
+      "score":"CBJ (4) - BUF (2)",
+      "points":2,
+      "totalPoints":87
     },
     {
-      "date": "Sat Apr 11, 2015",
-      "score": "FINAL CBJ (5) - NYI (4) SO"
+      "date":"Sat Apr 11, 2015",
+      "score":"CBJ (5) - NYI (4)",
+      "points":2,
+      "totalPoints":89
     }
   ]
 }
