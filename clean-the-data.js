@@ -96,3 +96,28 @@ data['bruins-season'].forEach(function(e) {
 })
 
 console.log(final);
+
+
+// combines sorting, and placement number
+// consoles an array of each team
+
+function getSorted(data, team){
+  var placement = [];
+  data.forEach(function(e){
+    var keysSorted = Object.keys(e.teams).sort(function(a,b){
+        return e.teams[b] - e.teams[a];
+    })
+    placement.push( keysSorted.indexOf(team) + 1 );
+  })
+  console.log(JSON.stringify(placement));
+}
+
+// eg: getSorted(nhl, "leafs")
+
+
+// OR
+var allTeams = ["habs", "bruins", "leafs", "panthers", "sabres", "sens", "tampa", "wings"];
+
+allTeams.forEach(function(e){
+   getSorted(nhl, e);
+});
